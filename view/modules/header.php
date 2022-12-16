@@ -1045,9 +1045,6 @@
     $(".right-slider").addClass("right-slider-closed").css("transition", ".4s");
     $("#slidercloseddoverlay").removeClass("active");
     });
-    $("#balance-dropdown").click(function(){
-      $(".balance-dropdown").removeClass("open").css("transition", ".4s");
-    });
 </script>
 <ui-view name="overlayBox">
 <ng-component class="ng-star-inserted" id="closedloginclose" style="visibility: hidden;">
