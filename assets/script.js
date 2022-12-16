@@ -118,16 +118,16 @@ $(document).ready(function () {
     $("#userpanel").css("visibility", "hidden");
   }
   function openchangepasswd() {
-    $("#userpanel").css("visibility", "visible");
+    $("#changepasswd").css("visibility", "visible");
   }
   function closechangepasswd() {
-    $("#userpanel").css("visibility", "hidden");
+    $("#changepasswd").css("visibility", "hidden");
   }
   function openchangekyc() {
-    $("#userpanel").css("visibility", "visible");
+    $("#changekyc").css("visibility", "visible");
   }
   function closechangekyc() {
-    $("#userpanel").css("visibility", "hidden");
+    $("#changekyc").css("visibility", "hidden");
   }
   
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
