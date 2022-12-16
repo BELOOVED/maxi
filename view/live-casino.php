@@ -42,7 +42,7 @@
                   <!---->
                   <!---->
                   <li class="ma-livecasino" test-id="menu-item-nav-live-casino">
-                    <a href="/live-casino" class="">
+                    <a href="/live-casino" class="active">
                       <span class="category-icon icon-ma-livecasino"></span>
                       <span>Canlı Casino</span>
                     </a>
@@ -52,7 +52,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots">
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>

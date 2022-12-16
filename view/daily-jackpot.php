@@ -32,7 +32,7 @@
                   <!---->
                   <!---->
                   <li class="daily-jackpots" test-id="menu-item-nav-video-poker">
-                    <a href="/daily-jackpot" class="">
+                    <a href="/daily-jackpot" class="active">
                       <span class="category-icon icon-daily-jackpots"></span>
                       <span>Günlük Jackpotlar</span>
                     </a>
@@ -52,7 +52,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots">
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>

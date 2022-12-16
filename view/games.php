@@ -52,7 +52,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots">
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>
@@ -92,7 +92,7 @@
                   <!---->
                   <!---->
                   <li class="star" test-id="menu-item-nav-scratch">
-                    <a href="/games">
+                    <a href="/games" class="active">
                       <span class="category-icon icon-star"></span>
                       <span>Oyunlar</span>
                     </a>

@@ -52,7 +52,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots" >
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>
@@ -62,7 +62,7 @@
                   <!---->
                   <!---->
                   <li class="ma-jackpot" test-id="menu-item-nav-jackpots">
-                    <a href="/jackpot">
+                    <a href="/jackpot" class="active">
                       <span class="category-icon icon-ma-jackpot"></span>
                       <span>Jackpot</span>
                     </a>

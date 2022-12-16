@@ -22,7 +22,7 @@
                   <!---->
                   <!---->
                   <li class="ma-slots" test-id="menu-item-nav-slots">
-                    <a href="/slot" class="">
+                    <a href="/slot" class="active">
                       <span class="category-icon icon-ma-slots"></span>
                       <span>Slotlar</span>
                     </a>
@@ -52,7 +52,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots">
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>

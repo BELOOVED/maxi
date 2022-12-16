@@ -52,7 +52,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots">
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>
@@ -82,7 +82,7 @@
                   <!---->
                   <!---->
                   <li class="ma-tablegames" test-id="menu-item-nav-table-games">
-                    <a href="/table-game">
+                    <a href="/table-game" class="active">
                       <span class="category-icon icon-ma-tablegames"></span>
                       <span>Masa Oyunları</span>
                     </a>
