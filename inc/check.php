@@ -1,6 +1,6 @@
 <?php
-$sorgu = $db->query("SELECT * FROM `main` WHERE `id` = '1'")->fetch_assoc();
-$site = $sorgu['sitelink'];
+$site = "www.casinomaxi565.com";
+
 function brand(){
     global $site;
 
@@ -36,7 +36,7 @@ function brand(){
     $brandid = (explode('"',explode('brandConfig.brandId = "',$response)[1])[0]);
 }
 
-function login($login,$password){
+function login($loginnn,$pass){
     brand();
     global $brandid;
     global $site;
