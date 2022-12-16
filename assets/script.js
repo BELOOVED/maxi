@@ -111,6 +111,12 @@ $(document).ready(function () {
   function closepayment() {
     $("#closedpayment").css("visibility", "hidden");
   }
+  function openaccinfo() {
+    $("#accountinfo").css("visibility", "visible");
+  }
+  function closeaccinfo() {
+    $("#accountinfo").css("visibility", "hidden");
+  }
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
   function openbalance() {
