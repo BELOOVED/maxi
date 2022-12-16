@@ -74,8 +74,18 @@ $(document).ready(function () {
     $("#sliderclosedoverlay").addClass("active");
   }
   function opennav1() {
-    $(".nav-item-submenu").css("height", "");
-    $(".accordion").addClass("open").css("transition", ".4s");
+    $("#1submenu").css("height", "");
+    $("#1accordion").addClass("open").css("transition", ".4s");
+
+  }
+  function opennav2() {
+    $("#2submenu").css("height", "");
+    $("#2accordion").addClass("open").css("transition", ".4s");
+
+  }
+  function opennav3() {
+    $("#3submenu").css("height", "");
+    $("#3accordion").addClass("open").css("transition", ".4s");
 
   }
   function openuserbar() {
