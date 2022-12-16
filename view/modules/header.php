@@ -1313,16 +1313,12 @@
   <!---->
 </ui-view>
 <script>
-  function loginoralert() {
-    if (<?php if(isset($us['id'])) ?>) {
-      Swal.fire(
-        "Yetersiz Bakiye",
-        "Lütfen bakiyenizi güncelledikten sonra tekrar deneyin",
-        "warning"
-      );
-    } else {
-      Swal.fire("", "Lütfen hesabınıza giriş yapın", "warning");
-    }
-  }
+    function loginoralert(logged){if(logged){Swal.fire("Yetersiz Bakiye","Lütfen bakiyenizi güncelledikten sonra tekrar deneyin","warning").then((res)=>{if(res.value==true){}});}else{Swal.fire("","Lütfen hesabınıza giriş yapın","warning");}}
 </script>
+<script>
+        let logged = <?= $us['id'] ? 'true' : 'false' ?>;
+        let locate = <?= intval($main['location']) ?>;
+        let phone_status = <?= intval($main['phone_status']) ?>;
+        let passport_status = <?= intval($main['passport_status']) ?>;
+    </script>
 </html>
