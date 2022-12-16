@@ -189,7 +189,7 @@
                             <!---->
                             <!---->
                             <li class="link-end ng-star-inserted">
-                              <a href="bonuslarim/" id="my-bonuses" test-id="my-bonuses"> Bonuslarım </a>
+                              <a href="javascript:;" onclick="openbonus()" id="my-bonuses" test-id="my-bonuses"> Bonuslarım </a>
                             </li>
                             <!---->
                           </account-drop>
@@ -277,12 +277,12 @@
                           <i class="fa fa-chevron-down icon-triangle"></i>
                         </a>
                         <div id="user-context" aria-labelledby="balance-dropdown" tabindex="-1" class="dropdown-menu-right balance-dropdown btn btn-sm dropdown-menu">
-                          <a test-id="header-balance-withdrawable-money" class="balance-item" href="bonuslarim/">
+                          <a test-id="header-balance-withdrawable-money" class="balance-item" href="javascript:;" onclick="openbonus()">
                             <span class="balance-label">Çekilebilir tutar</span>
                             <i class="fa fa-info-circle"></i>
                             <div class="balance-amount"> ₺0,4 </div>
                           </a>
-                          <a test-id="header-balance-bonus-money" class="balance-item ng-star-inserted" href="bonuslarim/">
+                          <a test-id="header-balance-bonus-money" class="balance-item ng-star-inserted" href="javascript:;" onclick="openbonus()">
                             <span class="balance-label">Bonus tutar</span>
                             <i class="fa fa-info-circle"></i>
                             <div class="balance-amount">₺0</div>
@@ -340,14 +340,14 @@
                                   <i class="fa fa-chevron-down icon-triangle"></i>
                                 </a>
                                 <div class="balance-breakdown">
-                                  <a test-id="right-balance-withdrawable-money" class="balance-item" href="bonuslarim/">
+                                  <a test-id="right-balance-withdrawable-money" class="balance-item" href="javascript:;" onclick="openbonus()">
                                     <div class="balance-label">
                                       <p>Çekilebilir tutar</p>
                                       <i class="fa fa-info-circle"></i>
                                     </div>
                                     <p class="balance-amount">₺0,4</p>
                                   </a>
-                                  <a test-id="right-balance-bonus-money" class="balance-item ng-star-inserted" href="bonuslarim/">
+                                  <a test-id="right-balance-bonus-money" class="balance-item ng-star-inserted" href="javascript:;" onclick="openbonus()">
                                     <div class="balance-label">
                                       <p>Bonus tutar</p>
                                       <i class="fa fa-info-circle"></i>
@@ -387,7 +387,7 @@
                                   <nav-side-sub class="nav-side-sub ng-star-inserted">
                                     <div class="nav-item ng-star-inserted">
                                       <!---->
-                                      <a href="bonuslarim/" test-id="nav-my-bonuses" class="ng-star-inserted">
+                                      <a href="javascript:;" onclick="openbonus()" test-id="nav-my-bonuses" class="ng-star-inserted">
                                         <span class="nav-label">Bonuslarım</span>
                                         <span class="nav-label ng-star-inserted">
                                           <!---->
@@ -1336,6 +1336,7 @@
                   <close test-id="modal-close" class="ng-star-inserted">
                     <div class="close-btn icon-close"></div>
                   </close>
+                    </a>
                     <!---->
                   </span>
                 </div>
@@ -1432,6 +1433,109 @@
                       </section>
                       <!---->
                     </oms>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="closebonus" style="visibility: hidden;" >
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal my-bonuses-available" test-id="my-bonuses-available">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Bonuslarım</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closebonus()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <my-bonus class="ng-star-inserted">
+                      <tabs class="ng-star-inserted">
+                        <section class="tabs-component">
+                          <div class="tabs-container">
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item" test-id="my-bonuses-claimed-tab" href="/tr/bonuslarim/aktif/">
+                                <!----> Aktif Bonuslar
+                              </a>
+                            </div>
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item active" test-id="my-bonuses-available-tab" href="/tr/bonuslarim/alinabilir-bonuslar/">
+                                <!----> Alınabilir Bonuslar
+                              </a>
+                            </div>
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item" test-id="my-bonuses-finished-tab" href="/tr/bonuslarim/tamamlanmis/">
+                                <!----> Tamamlanmış Bonuslar
+                              </a>
+                            </div>
+                            <!---->
+                          </div>
+                          <div class="tabs-content-wrapper">
+                            <div class="tabs-content ng-star-inserted">
+                              <ui-view>
+                                <my-bonuses-claimable class="ng-star-inserted">
+                                  <section class="my-bonuses modal-tabs">
+                                    <div>
+                                      <obg-bonuses>
+                                        <section class="bonuses-overview">
+                                          <!---->
+                                          <h6 class="bonus-category-description bonus-category-no-results ng-star-inserted">Alınabilir bonusunuz bulunmamaktadır.</h6>
+                                          <!---->
+                                          <ul class="bonus-list">
+                                            <!---->
+                                            <!---->
+                                          </ul>
+                                        </section>
+                                      </obg-bonuses>
+                                    </div>
+                                  </section>
+                                </my-bonuses-claimable>
+                                <!---->
+                                <!---->
+                              </ui-view>
+                              <!---->
+                            </div>
+                            <!---->
+                            <!---->
+                          </div>
+                        </section>
+                      </tabs>
+                      <!---->
+                      <!---->
+                    </my-bonus>
                     <!---->
                     <!---->
                   </ui-view>

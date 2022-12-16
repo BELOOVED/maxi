@@ -112,7 +112,12 @@ $(document).ready(function () {
   function closemessage() {
     $("#closemessage").css("visibility", "hidden");
   }
-  
+  function openbonus() {
+    $("#closebonus").css("visibility", "visible");
+  }
+  function closebonus() {
+    $("#closebonus").css("visibility", "hidden");
+  }
   
   
   function closesidebar() {
