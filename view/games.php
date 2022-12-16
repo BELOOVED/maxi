@@ -198,7 +198,7 @@
                       <!---->
                       <section class="games-collection-section ng-tns-c187-2" test-id="oyunlar-content">
                         <!---->
-                        <ul class="games-list-wrapper ng-tns-c187-2" test-id="undefined-collection">
+                        <ul class="games-list-wrapper ng-tns-c187-2" test-id="-collection">
                           <li class="game-container ng-tns-c187-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">
                             <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-2">
                               <div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlaySpaceman">
@@ -216,7 +216,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/neutral/image/2022/11/game.pragmaticPlaySpaceman.thumbnail.344x220.gif">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/neutral/image/2022/11/game.pragmaticPlaySpaceman.thumbnail.344x220.gif">
                                     <!---->
                                     <!---->
                                   </div>
@@ -636,7 +636,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/10/game.leanderOutOfThisWorldScratch.thumbnail.344x220.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/10/game.leanderOutOfThisWorldScratch.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -673,7 +673,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/09/game.leanderMagicMysteryMoneyScratch.thumbnail.344x220.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/09/game.leanderMagicMysteryMoneyScratch.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -784,7 +784,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderLuckyGemsSlot.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderLuckyGemsSlot.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>

@@ -198,7 +198,7 @@
                       <!---->
                       <section class="games-collection-section ng-tns-c187-1" test-id="masa-oyunlari-content">
                         <!---->
-                        <ul class="games-list-wrapper ng-tns-c187-1" test-id="undefined-collection">
+                        <ul class="games-list-wrapper ng-tns-c187-1" test-id="-collection">
                           <li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">
                             <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">
                               <div test-id="game-thumbnail" class="game-thumbnail" game-id="relaxRouletteRelax">
@@ -216,7 +216,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.relaxRouletteRelax.thumbnail.344x220.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.relaxRouletteRelax.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -253,7 +253,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.relaxBlackjackRelax.thumbnail.344x220.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.relaxBlackjackRelax.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -290,7 +290,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.reevoEuropeanRoulettePlatinum.thumbnail.344x220.png">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.reevoEuropeanRoulettePlatinum.thumbnail.344x220.png">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1228,7 +1228,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincSingleDeckBlackjackPro.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincSingleDeckBlackjackPro.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1265,7 +1265,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincBlackjack5Hand.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincBlackjack5Hand.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1413,7 +1413,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincRouletteHighStake.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincRouletteHighStake.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1487,7 +1487,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincBlackjackSingleHand.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincBlackjackSingleHand.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1524,7 +1524,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesinc3CardBrag.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesinc3CardBrag.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1598,7 +1598,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincRouletteLowStake.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincRouletteLowStake.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1635,7 +1635,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderCasinoPatienceHM.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderCasinoPatienceHM.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1672,7 +1672,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderLuckyLuckyBlackjack.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderLuckyLuckyBlackjack.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1709,7 +1709,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leander6In1Blackjack.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leander6In1Blackjack.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1746,7 +1746,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leander21plus3Blackjack.thumbnail.344x220_v3.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leander21plus3Blackjack.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1779,18 +1779,18 @@
                                 <!---->
                                 <a uisref="game" href="/tr/masa-oyunlari/buster-blackjack/" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
-                                    <div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>
+                                    <div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderBusterBlackjack.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderBusterBlackjack.thumbnail.344x220_v3.jpg">
+                                    <!---->
                                     <!---->
                                   </div>
                                   <!---->
                                   <!---->
                                   <!---->
-                                  <section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Buster Blackjack</span>undefined</div>undefined
-                                    <!---->undefined
+                                  <section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Buster Blackjack</span></div>
+                                    <!---->
                                     <!---->
                                   </section>
                                 </a>
@@ -1803,132 +1803,132 @@
                             <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">
                               <div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderPerfectPairsBlackjack">
                                 <game-favourite class="ng-star-inserted" style="">
-                                  <div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
+                                  <div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/masa-oyunlari/blackjack-perfect-pairs/" class="ng-star-inserted" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderPerfectPairsBlackjack.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Perfect Pairs Blackjack</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
+                                <a uisref="game" href="/tr/masa-oyunlari/blackjack-perfect-pairs/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderPerfectPairsBlackjack.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Perfect Pairs Blackjack</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
                                 <!---->
                               </div>
                             </obg-casino-game-thumbnail>
                           </li>
                           <li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">
                             <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">
-                              <div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderLuckyLadiesBlackjack">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" href="/tr/masa-oyunlari/lucky-ladies/" class="ng-star-inserted" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderLuckyLadiesBlackjack.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Lucky Ladies Blackjack</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined
+                              <div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderLuckyLadiesBlackjack"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" href="/tr/masa-oyunlari/lucky-ladies/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderLuckyLadiesBlackjack.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Lucky Ladies Blackjack</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div>
                             </obg-casino-game-thumbnail>
                           </li>
-                          <li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderSuitemUpBlackjack">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" href="/tr/masa-oyunlari/suitem-up-blackjack/" class="ng-star-inserted" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderSuitemUpBlackjack.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Suit'em up Blackjack</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderDoubleBallRoulette">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" href="/tr/masa-oyunlari/double-ball-roulette/" class="ng-star-inserted" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderDoubleBallRoulette.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Double Ball Roulette</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderSwapTheFlop">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" href="/tr/masa-oyunlari/swap-the-flop/" class="ng-star-inserted" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Swap The Flop" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderSwapTheFlop.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Swap The Flop</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderTexasHoldemSwitch">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" href="/tr/masa-oyunlari/texas-holdem-switch/" class="ng-star-inserted" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Texas Hold'em Switch" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderTexasHoldemSwitch.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Texas Hold'em Switch</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined
-                          <!---->undefined
-                          <!---->undefined
-                        </ul>undefined
-                      </section>undefined
-                    </section>undefined
-                    <!---->undefined
-                  </casino-game-collection>undefined
-                  <!---->undefined
-                  <!---->undefined
-                </div>undefined
-              </section>undefined
-            </lobby>undefined
-            <!---->undefined
+                          <li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderSuitemUpBlackjack"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" href="/tr/masa-oyunlari/suitem-up-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderSuitemUpBlackjack.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Suit'em up Blackjack</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderDoubleBallRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" href="/tr/masa-oyunlari/double-ball-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderDoubleBallRoulette.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Double Ball Roulette</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderSwapTheFlop"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" href="/tr/masa-oyunlari/swap-the-flop/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Swap The Flop" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderSwapTheFlop.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Swap The Flop</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-1 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-1"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderTexasHoldemSwitch"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" href="/tr/masa-oyunlari/texas-holdem-switch/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Texas Hold'em Switch" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderTexasHoldemSwitch.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Texas Hold'em Switch</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li>
+                          <!---->
+                          <!---->
+                        </ul>
+                      </section>
+                    </section>
+                    <!---->
+                  </casino-game-collection>
+                  <!---->
+                  <!---->
+                </div>
+              </section>
+            </lobby>
+            <!---->
             <!---->
           </ui-view>
           <!---->

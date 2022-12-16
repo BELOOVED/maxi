@@ -506,7 +506,7 @@
                                       </span>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.yggdrasilJokerMillions.thumbnail.344x220_v4.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.yggdrasilJokerMillions.thumbnail.344x220_v4.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1683,7 +1683,7 @@
                                       <i test-id="play-button" class="fa fa-play"></i>
                                     </div>
                                     <!---->
-                                    <img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/10/game.netentVegasNightLife.thumbnail.344x220.jpg">
+                                    <img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/10/game.netentVegasNightLife.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
                                   </div>
@@ -1691,7 +1691,7 @@
                                   <!---->
                                   <!---->
                                   <section>
-                                    <div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Vegas Night Life</span>
+                                    <div class="ng-star-inserted"><span test-id="game-name" class="game-name">Vegas Night Life</span>
                                     </div>
                                     <!---->
                                     <!---->
@@ -1708,21 +1708,21 @@
                                 <game-favourite class="ng-star-inserted" style="">
                                   <div class="game-favourite">
                                     <!---->
-                                    <input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                    <input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div>
                                 </game-favourite>
                                 <!---->
                                 <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mighty-griffin-megaways-jackpot-king/" style="">
-                                  <div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Mighty Griffin Megaways Jackpot King" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/06/game.blueprintMightyGriffinMegawaysJackpotKing.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Mighty Griffin Megaways Jackpot King</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
+                                  <div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Mighty Griffin Megaways Jackpot King" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/06/game.blueprintMightyGriffinMegawaysJackpotKing.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Mighty Griffin Megaways Jackpot King</span></div>
+                                    <!---->
+                                    <!---->
                                   </section>
                                 </a>
                                 <!---->
@@ -1733,957 +1733,957 @@
                           <li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">
                             <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">
                               <div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintTikiTreasuresMegawaysJPK">
-                                <game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/tiki-treasures-megaways-jackpot-king/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Tiki Treasures Megaways Jackpot King" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/07/game.blueprintTikiTreasuresMegawaysJPK.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Tiki Treasures Megaways Jackpot king</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
+                                <game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/tiki-treasures-megaways-jackpot-king/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Tiki Treasures Megaways Jackpot King" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/07/game.blueprintTikiTreasuresMegawaysJPK.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Tiki Treasures Megaways Jackpot king</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
                               </div>
                             </obg-casino-game-thumbnail>
                           </li>
                           <li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">
-                            <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderAPiratesQuest">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/a-pirates-quest/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺229.788 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="A Pirate's Quest" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/10/game.leanderAPiratesQuest.thumbnail.344x220_v4.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">A Pirate's Quest</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined
-                          </li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilJackpotExpress">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jackpot-express/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺468.269 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Jackpot Express" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/08/game.yggdrasilJackpotExpress.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Jackpot Express</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincSophie">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/sophie/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Sophie" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/03/game.gamesincSophie.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Sophie</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="netentGrandSpinnSuperpot">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/grand-spinn-superpot/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺500.367 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Grand Spinn Superpot" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.netentGrandSpinnSuperpot.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Grand Spinn Superpot</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderFortuneFireworks">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/fortune-fireworks/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺7.130.201 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Fortune Fireworks" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.leanderFortuneFireworks.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Fortune Fireworks</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="netentImperialRiches">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/imperial-riches/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺225.522 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Imperial Riches" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/09/game.netentImperialRiches.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Imperial Riches</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincDiamondJoker">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/diamond-joker/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Diamond Joker" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/10/game.gamesincDiamondJoker.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Diamond Joker</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="netentMercyOfTheGods">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mercy-of-the-gods/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.344.305 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Mercy Of The Gods" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.netentMercyOfTheGods.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Mercy of the Gods</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintIrishRiches">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/irish-riches/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Irish Riches" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintIrishRiches.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Irish Riches</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintWinstar">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/win-star/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Win Star" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintWinStar.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Win Star</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintSuperDiamondDeluxe">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/super-diamond-deluxe/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Super Diamond Deluxe" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintSuperDiamondDeluxe.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Super Diamond Deluxe</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilJackpotRaiders">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jackpot-raiders/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺468.269 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Jackpot Raiders" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/05/game.yggdrasilJackpotRaiders.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Jackpot Raiders</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintPawsOfFury">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/paws-of-fury/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Paws Of Fury" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintPawsOfFury.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Paws Of Fury</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilDrFortuno">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/dr-fortuno/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺9.185 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/04/game.yggdrasilDrFortuno.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Dr. Fortuno</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintThePigWizard">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/the-pig-wizard/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="The Pig Wizard" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintThePigWizard.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">The Pig Wizard</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincDoubleDemonReels">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/double-demon-reels/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺57.173 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Double Demon Reel" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/10/game.gamesincDoubleDemonReels.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Double Demon Reels</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintSlotsOGold">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/slots-o-gold/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Slots O' Gold" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintSlotsOGold.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Slots O' Gold</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderPatricksJackpot">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/patricks-jackpot/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺2.816.202 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/03/game.leanderPatricksJackpot.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Patricks Jackpot</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintGenieJackpots">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/genie-jackpots/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Genie Jackpots" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintGenieJackpots.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Genie Jackpots</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincCowboyTreasureDeluxe">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/cowboy-treasure-deluxe/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/03/game.gamesincCowboyTreasureDeluxe.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Cowboy Treasure Deluxe</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintWishUponALeprechaun">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/wish-upon-a-leprechaun/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Wish Upon A Leprechaun" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintWishUponALeprechaun.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Wish Upon A Leprechaun</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincJazzOfNewOrleans">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jazz-of-new-orleans/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.gamesincJazzOfNewOrleans.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Jazz Of New Orleans</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintSuperSpinner">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/super-spinner/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Super Spinner" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintSuperSpinner.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Super Spinner</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderBandida">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/bandida/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺229.788 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.leanderBandida.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Bandida</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincMrToad">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mr-toad/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.gamesincMrToad.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Mr Toad</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintRomeoAndJuliet">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/romeo-and-juliet-jackpot-king/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Romeo And Juliet" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintRomeoAndJuliet.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Romeo and Juliet Jackpot King</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincTheUntouchables">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/the-untouchables/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺224.512 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/09/game.gamesincTheUntouchables.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">The Untouchables</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincSpinAndWin">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/spin-and-win/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.gamesincSpinAndWin.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Spin And Win</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintStarSpinner">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/star-spinner/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Star Spinner" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintStarSpinner.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Star Spinner</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderZombieRushDeluxe">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/zombie-rush-deluxe/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺876.566 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderZombieRushDeluxe.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Zombie Rush Deluxe</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintDiamondJackpots">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/diamond-jackpots/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺31.041.515 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Diamond Jackpots" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintDiamondJackpots.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Diamond Jackpots</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincPiggyBank">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/piggy-bank/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.021.780 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Piggy Bank" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/11/game.gamesincPIggyBank.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Piggy Bank</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderMagicGemsDeluxe">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/magic-gems-deluxe/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺876.566 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderMagicGemsDeluxe.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Magic Gems Deluxe</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderGoldenWild">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-wild/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺163.953 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderGoldenWild.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Golden Wild</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilHolmesAndTheStolenStones">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/holmes-and-the-stolen-stones/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺462.696 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="play Holmes" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/11/game.yggdrasilHolmesAndTheStolenStones.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Holmes and the Stolen Stones</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderAveCaesar">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/ave-caesar/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺229.788 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Ave Ceasar" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/09/game.leanderAveCaesar.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Ave Caesar</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilOzwinsJackpot">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/ozwins-jackpot/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺68.511 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/01/game.yggdrasilOzwinsJackpot.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Ozwin's Jackpot</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="MegaJoker">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mega-joker/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺282.250 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="play Mega Joker" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.MegaJoker.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined<game-ribbon class="ng-star-inserted">undefined<div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted">undefined<div class="game-ribbon game-exclusive ng-star-inserted">undefined
-                                        <!---->undefined<span class="ribbon ng-star-inserted">Klasik</span>undefined
-                                        <!---->undefined
-                                        <!---->undefined
-                                      </div>undefined
-                                      <!---->undefined
-                                    </div>undefined
-                                    <!---->undefined
-                                  </game-ribbon>undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Mega Joker</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoFruitBonanza">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/fruit-bonanza/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺1.592.493 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngofruitbonanza.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Fruit Bonanza</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderApollo">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/apollo/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺2.477.347 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Apollo" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderApollo.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Apollo</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoLeprechaunGoesToHell">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/leprechaun-goes-to-hell/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺170.771 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Leprechauns Goes To Hell" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/07/game.playngoLeprechaunGoesToHell.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Leprechaun Goes To Hell</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderTrickOrTreat">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/trick-or-treat/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺2.618.435 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Trick Or Treat" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/10/game.leanderTrickOrTreat.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Trick Or Treat</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderDragonSlotJackpot">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/dragon-slot-jackpot/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺876.566 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Dragon Slot Jackpot" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/01/game.leanderDragonSlotJackpot.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Dragon Slot Jackpot</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoJackpotPoker">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jackpot-poker-mh/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺185.476 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Jackpot Poker" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoJackpotPoker.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Jackpot Poker</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderGoldenMoneyFrog">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-money-frog/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺558.457 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Gold Money Frog" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderGoldenMoneyFrog.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Golden Money Frog</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoCasinoStudPoker">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/casino-stud-poker/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺319.681 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="play Casino Stud Poker" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoCasinoStudPoker.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Casino Stud Poker</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoBellOfFortune">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/bell-of-fortune/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺35.636 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoBellOfFortune.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined<game-ribbon class="ng-star-inserted">undefined<div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted">undefined<div class="game-ribbon game-exclusive ng-star-inserted">undefined
-                                        <!---->undefined<span class="ribbon ng-star-inserted">Klasik</span>undefined
-                                        <!---->undefined
-                                        <!---->undefined
-                                      </div>undefined
-                                      <!---->undefined
-                                    </div>undefined
-                                    <!---->undefined
-                                  </game-ribbon>undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Bell of Fortune</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoGiftShop">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/gift-shop/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺35.636 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="play Gift Shop" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngoGiftShop.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined<game-ribbon class="ng-star-inserted">undefined<div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted">undefined<div class="game-ribbon game-exclusive ng-star-inserted">undefined
-                                        <!---->undefined<span class="ribbon ng-star-inserted">Klasik</span>undefined
-                                        <!---->undefined
-                                        <!---->undefined
-                                      </div>undefined
-                                      <!---->undefined
-                                    </div>undefined
-                                    <!---->undefined
-                                  </game-ribbon>undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Gift Shop</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoSpeedCash">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/speed-cash/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺35.636 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="Speed Cash" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoSpeedCash.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined<game-ribbon class="ng-star-inserted">undefined<div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted">undefined<div class="game-ribbon game-exclusive ng-star-inserted">undefined
-                                        <!---->undefined<span class="ribbon ng-star-inserted">Klasik</span>undefined
-                                        <!---->undefined
-                                        <!---->undefined
-                                      </div>undefined
-                                      <!---->undefined
-                                    </div>undefined
-                                    <!---->undefined
-                                  </game-ribbon>undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Speed Cash</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoGoldenGoal">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-goal/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺35.636 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="play Golden Goal" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoGoldenGoal.thumbnail.344x220_v3.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined<game-ribbon class="ng-star-inserted">undefined<div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted">undefined<div class="game-ribbon game-exclusive ng-star-inserted">undefined
-                                        <!---->undefined<span class="ribbon ng-star-inserted">Klasik</span>undefined
-                                        <!---->undefined
-                                        <!---->undefined
-                                      </div>undefined
-                                      <!---->undefined
-                                    </div>undefined
-                                    <!---->undefined
-                                  </game-ribbon>undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Golden Goal</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined<li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted">undefined<obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4">undefined<div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderAlibabaJackpot">undefined<game-favourite class="ng-star-inserted" style="">undefined<div class="game-favourite">undefined
-                                    <!---->undefined<input type="checkbox" class="favourite-checkbox" test-id="favourite-button">undefined<i class="fa heart fa-heart-o" title="Favorilere ekle"></i>undefined
-                                  </div>undefined</game-favourite>undefined
-                                <!---->undefined<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/ali-baba-jackpot/" style="">undefined<div test-id="game-image" lazy-load-images="" class="game-image">undefined<div test-id="game-hover-wrapper" class="hover-wrapper">undefined<i test-id="play-button" class="fa fa-play"></i>undefined</div>undefined<div class="icon-jackpots jackpot ng-star-inserted">undefined<span>undefined<span class="jackpot-value"> ₺876.566 </span>undefined</span>undefined</div>undefined
-                                    <!---->undefined<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/01/game.leanderAlibabaJackpot.thumbnail.344x220.jpg">undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </div>undefined
-                                  <!---->undefined
-                                  <!---->undefined
-                                  <!---->undefined<section>undefined<div class="ng-star-inserted">undefined<span test-id="game-name" class="game-name">Ali Baba Jackpot</span>undefined</div>undefined
-                                    <!---->undefined
-                                    <!---->undefined
-                                  </section>undefined
-                                </a>undefined
-                                <!---->undefined
-                                <!---->undefined
-                              </div>undefined</obg-casino-game-thumbnail>undefined</li>undefined
-                          <!---->undefined
-                          <!---->undefined
-                        </ul>undefined
-                      </section>undefined
-                    </section>undefined
-                    <!---->undefined
-                  </casino-game-collection>undefined
-                  <!---->undefined
-                  <!---->undefined
-                </div>undefined
-              </section>undefined
-            </lobby>undefined
-            <!---->undefined
-            <!---->undefined
-          </ui-view>undefined
-          <!---->undefined
-        </div>undefined
-      </div>undefined
-      <!---->undefined
-    </div>undefined
-  </main>undefined
-  <!---->undefined
-  <!---->undefined
+                            <obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderAPiratesQuest"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/a-pirates-quest/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺229.788 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="A Pirate's Quest" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/10/game.leanderAPiratesQuest.thumbnail.344x220_v4.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">A Pirate's Quest</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail>
+                          </li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilJackpotExpress"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jackpot-express/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺468.269 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Jackpot Express" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/08/game.yggdrasilJackpotExpress.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Jackpot Express</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincSophie"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/sophie/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Sophie" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/03/game.gamesincSophie.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Sophie</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="netentGrandSpinnSuperpot"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/grand-spinn-superpot/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺500.367 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Grand Spinn Superpot" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.netentGrandSpinnSuperpot.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Grand Spinn Superpot</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderFortuneFireworks"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/fortune-fireworks/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺7.130.201 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Fortune Fireworks" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.leanderFortuneFireworks.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Fortune Fireworks</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="netentImperialRiches"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/imperial-riches/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺225.522 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Imperial Riches" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/09/game.netentImperialRiches.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Imperial Riches</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincDiamondJoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/diamond-joker/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Diamond Joker" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/10/game.gamesincDiamondJoker.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Diamond Joker</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="netentMercyOfTheGods"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mercy-of-the-gods/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.344.305 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Mercy Of The Gods" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.netentMercyOfTheGods.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Mercy of the Gods</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintIrishRiches"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/irish-riches/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Irish Riches" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintIrishRiches.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Irish Riches</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintWinstar"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/win-star/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Win Star" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintWinStar.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Win Star</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintSuperDiamondDeluxe"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/super-diamond-deluxe/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Super Diamond Deluxe" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintSuperDiamondDeluxe.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Super Diamond Deluxe</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilJackpotRaiders"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jackpot-raiders/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺468.269 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Jackpot Raiders" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/05/game.yggdrasilJackpotRaiders.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Jackpot Raiders</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintPawsOfFury"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/paws-of-fury/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Paws Of Fury" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintPawsOfFury.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Paws Of Fury</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilDrFortuno"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/dr-fortuno/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺9.185 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/04/game.yggdrasilDrFortuno.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Dr. Fortuno</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintThePigWizard"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/the-pig-wizard/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="The Pig Wizard" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintThePigWizard.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">The Pig Wizard</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincDoubleDemonReels"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/double-demon-reels/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺57.173 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Double Demon Reel" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/10/game.gamesincDoubleDemonReels.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Double Demon Reels</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintSlotsOGold"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/slots-o-gold/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Slots O' Gold" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintSlotsOGold.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Slots O' Gold</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderPatricksJackpot"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/patricks-jackpot/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺2.816.202 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/03/game.leanderPatricksJackpot.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Patricks Jackpot</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintGenieJackpots"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/genie-jackpots/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Genie Jackpots" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintGenieJackpots.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Genie Jackpots</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincCowboyTreasureDeluxe"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/cowboy-treasure-deluxe/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/03/game.gamesincCowboyTreasureDeluxe.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Cowboy Treasure Deluxe</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintWishUponALeprechaun"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/wish-upon-a-leprechaun/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Wish Upon A Leprechaun" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintWishUponALeprechaun.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Wish Upon A Leprechaun</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincJazzOfNewOrleans"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jazz-of-new-orleans/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.gamesincJazzOfNewOrleans.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Jazz Of New Orleans</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintSuperSpinner"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/super-spinner/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Super Spinner" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintSuperSpinner.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Super Spinner</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderBandida"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/bandida/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺229.788 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.leanderBandida.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Bandida</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincMrToad"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mr-toad/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.gamesincMrToad.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Mr Toad</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintRomeoAndJuliet"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/romeo-and-juliet-jackpot-king/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Romeo And Juliet" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintRomeoAndJuliet.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Romeo and Juliet Jackpot King</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincTheUntouchables"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/the-untouchables/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺224.512 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/09/game.gamesincTheUntouchables.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">The Untouchables</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincSpinAndWin"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/spin-and-win/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.gamesincSpinAndWin.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Spin And Win</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintStarSpinner"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/star-spinner/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Star Spinner" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintStarSpinner.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Star Spinner</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderZombieRushDeluxe"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/zombie-rush-deluxe/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺876.566 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderZombieRushDeluxe.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Zombie Rush Deluxe</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="blueprintDiamondJackpots"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/diamond-jackpots/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺31.041.515 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Diamond Jackpots" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/04/game.blueprintDiamondJackpots.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Diamond Jackpots</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincPiggyBank"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/piggy-bank/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.780 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Piggy Bank" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/11/game.gamesincPIggyBank.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Piggy Bank</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderMagicGemsDeluxe"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/magic-gems-deluxe/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺876.566 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderMagicGemsDeluxe.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Magic Gems Deluxe</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderGoldenWild"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-wild/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺163.953 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderGoldenWild.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Golden Wild</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilHolmesAndTheStolenStones"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/holmes-and-the-stolen-stones/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺462.696 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="play Holmes" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/11/game.yggdrasilHolmesAndTheStolenStones.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Holmes and the Stolen Stones</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderAveCaesar"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/ave-caesar/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺229.788 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Ave Ceasar" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/09/game.leanderAveCaesar.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Ave Caesar</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilOzwinsJackpot"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/ozwins-jackpot/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺68.511 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/01/game.yggdrasilOzwinsJackpot.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Ozwin's Jackpot</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="MegaJoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mega-joker/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺282.250 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="play Mega Joker" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.MegaJoker.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!----><game-ribbon class="ng-star-inserted"><div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted"><div class="game-ribbon game-exclusive ng-star-inserted">
+                                        <!----><span class="ribbon ng-star-inserted">Klasik</span>
+                                        <!---->
+                                        <!---->
+                                      </div>
+                                      <!---->
+                                    </div>
+                                    <!---->
+                                  </game-ribbon>
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Mega Joker</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoFruitBonanza"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/fruit-bonanza/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.592.493 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngofruitbonanza.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Fruit Bonanza</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderApollo"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/apollo/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺2.477.347 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Apollo" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderApollo.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Apollo</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoLeprechaunGoesToHell"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/leprechaun-goes-to-hell/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺170.771 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Leprechauns Goes To Hell" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/07/game.playngoLeprechaunGoesToHell.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Leprechaun Goes To Hell</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderTrickOrTreat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/trick-or-treat/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺2.618.435 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Trick Or Treat" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/10/game.leanderTrickOrTreat.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Trick Or Treat</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderDragonSlotJackpot"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/dragon-slot-jackpot/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺876.566 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Dragon Slot Jackpot" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/01/game.leanderDragonSlotJackpot.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Dragon Slot Jackpot</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoJackpotPoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/jackpot-poker-mh/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺185.476 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Jackpot Poker" data-src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoJackpotPoker.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Jackpot Poker</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderGoldenMoneyFrog"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-money-frog/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺558.457 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Gold Money Frog" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.leanderGoldenMoneyFrog.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Golden Money Frog</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoCasinoStudPoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/casino-stud-poker/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺319.681 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="play Casino Stud Poker" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoCasinoStudPoker.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Casino Stud Poker</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoBellOfFortune"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/bell-of-fortune/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoBellOfFortune.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!----><game-ribbon class="ng-star-inserted"><div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted"><div class="game-ribbon game-exclusive ng-star-inserted">
+                                        <!----><span class="ribbon ng-star-inserted">Klasik</span>
+                                        <!---->
+                                        <!---->
+                                      </div>
+                                      <!---->
+                                    </div>
+                                    <!---->
+                                  </game-ribbon>
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Bell of Fortune</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoGiftShop"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/gift-shop/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="play Gift Shop" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngoGiftShop.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!----><game-ribbon class="ng-star-inserted"><div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted"><div class="game-ribbon game-exclusive ng-star-inserted">
+                                        <!----><span class="ribbon ng-star-inserted">Klasik</span>
+                                        <!---->
+                                        <!---->
+                                      </div>
+                                      <!---->
+                                    </div>
+                                    <!---->
+                                  </game-ribbon>
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Gift Shop</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoSpeedCash"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/speed-cash/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="Speed Cash" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoSpeedCash.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!----><game-ribbon class="ng-star-inserted"><div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted"><div class="game-ribbon game-exclusive ng-star-inserted">
+                                        <!----><span class="ribbon ng-star-inserted">Klasik</span>
+                                        <!---->
+                                        <!---->
+                                      </div>
+                                      <!---->
+                                    </div>
+                                    <!---->
+                                  </game-ribbon>
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Speed Cash</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoGoldenGoal"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-goal/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="play Golden Goal" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoGoldenGoal.thumbnail.344x220_v3.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!----><game-ribbon class="ng-star-inserted"><div test-id="game-ribbon" class="game-ribbon-wrapper ng-star-inserted"><div class="game-ribbon game-exclusive ng-star-inserted">
+                                        <!----><span class="ribbon ng-star-inserted">Klasik</span>
+                                        <!---->
+                                        <!---->
+                                      </div>
+                                      <!---->
+                                    </div>
+                                    <!---->
+                                  </game-ribbon>
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Golden Goal</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-4 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-4"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderAlibabaJackpot"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
+                                    <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
+                                  </div></game-favourite>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/ali-baba-jackpot/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺876.566 </span></span></div>
+                                    <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/01/game.leanderAlibabaJackpot.thumbnail.344x220.jpg">
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                  <!---->
+                                  <!----><section><div class="ng-star-inserted"><span test-id="game-name" class="game-name">Ali Baba Jackpot</span></div>
+                                    <!---->
+                                    <!---->
+                                  </section>
+                                </a>
+                                <!---->
+                                <!---->
+                              </div></obg-casino-game-thumbnail></li>
+                          <!---->
+                          <!---->
+                        </ul>
+                      </section>
+                    </section>
+                    <!---->
+                  </casino-game-collection>
+                  <!---->
+                  <!---->
+                </div>
+              </section>
+            </lobby>
+            <!---->
+            <!---->
+          </ui-view>
+          <!---->
+        </div>
+      </div>
+      <!---->
+    </div>
+  </main>
+  <!---->
+  <!---->
 </ui-view>
