@@ -36,7 +36,7 @@ function getir($user,$pass){
         curl_close($curl);
         return "hata";
     }
-    return $durum->sessiionToken;
+    return $durum->sessionToken;
 }
 
 
