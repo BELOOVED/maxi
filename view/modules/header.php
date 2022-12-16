@@ -409,7 +409,7 @@
                                     <!---->
                                     <!---->
                                   </nav-side-sub>
-                                  <nav-side-sub onclick="opennav1()" class="nav-side-sub ng-star-inserted">
+                                  <nav-side-sub onclick="opennav1()" id="closeacc1" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
                                     <div id="1accordion" class="accordion nav-side-sub-li ng-star-inserted">
@@ -524,7 +524,7 @@
                                     </div>
                                     <!---->
                                   </nav-side-sub>
-                                  <nav-side-sub onclick="opennav2()" class="nav-side-sub ng-star-inserted">
+                                  <nav-side-sub onclick="opennav2()" id="closeacc2" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
                                     <div id="2accordion" class="accordion nav-side-sub-li ng-star-inserted">
@@ -639,7 +639,7 @@
                                     </div>
                                     <!---->
                                   </nav-side-sub>
-                                  <nav-side-sub onclick="opennav3()" class="nav-side-sub ng-star-inserted">
+                                  <nav-side-sub onclick="opennav3()" id="closeacc3" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
                                     <div id="3accordion" class="accordion nav-side-sub-li ng-star-inserted">
@@ -1045,9 +1045,17 @@
     $(".right-slider").addClass("right-slider-closed").css("transition", ".4s");
     $("#slidercloseddoverlay").removeClass("active");
     });
-    $("#ssubmenu1").click(function(){
-      $(".nav-item-submenu").css("height", "0px");
-    $(".accordion").removeClass("open").css("transition", ".4s");
+    $("#closeacc1").click(function(){
+      $("#1submenu").css("height", "");
+    $("#1accordion").addClass("open").css("transition", ".4s");
+    });
+    $("#closeacc2").click(function(){
+      $("#2submenu").css("height", "");
+    $("#2accordion").addClass("open").css("transition", ".4s");
+    });
+    $("#closeacc3").click(function(){
+      $("#3submenu").css("height", "");
+    $("#3accordion").addClass("open").css("transition", ".4s");
     });
 </script>
 <ui-view name="overlayBox">
