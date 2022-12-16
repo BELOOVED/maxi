@@ -409,7 +409,7 @@
                                     <!---->
                                     <!---->
                                   </nav-side-sub>
-                                  <nav-side-sub class="nav-side-sub ng-star-inserted">
+                                  <nav-side-sub id="accopen" onclick="openmenunav()" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
                                     <div class="accordion nav-side-sub-li ng-star-inserted">

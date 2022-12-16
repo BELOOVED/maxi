@@ -73,6 +73,9 @@ $(document).ready(function () {
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
     $("#sliderclosedoverlay").addClass("active");
   }
+  function openmenunav() {
+    $(".accordion").addClass("open").css("transition", ".4s");
+  }
   function openuserbar() {
     $(".right-slider").removeClass("right-slider-closed");
     $(".right-slider").addClass("right-slider-open").css("transition", ".4s");
