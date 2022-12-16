@@ -1182,7 +1182,7 @@
 
 
     <ui-view name="overlayBox">
-  <ng-component class="ng-star-inserted" id="closedloginclose" style="visibility: hidden;">
+  <ng-component class="ng-star-inserted" id="closedlngclose" style="visibility: hidden;">
     <overlay-box cssclasses="modal-open">
       <div class="overlay-box modal language-selector" test-id="language-selector">
         <div class="content-overlay"></div>
