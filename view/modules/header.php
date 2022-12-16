@@ -262,7 +262,7 @@
                             <!---->
                             <!---->
                             <li class="link-end ng-star-inserted">
-                              <a href="/tr/cikis-yap/" id="logout" test-id="logout"> Çıkış Yap </a>
+                              <a href="javascript:;" onclick="logOut()" id="logout" test-id="logout"> Çıkış Yap </a>
                             </li>
                             <!---->
                           </account-drop>
@@ -694,7 +694,7 @@
                                   <nav-side-sub class="nav-side-sub ng-star-inserted">
                                     <div class="nav-item ng-star-inserted">
                                       <!---->
-                                      <a href="/tr/cikis-yap/" test-id="nav-logout" class="ng-star-inserted">
+                                      <a href="javascript:;" onclick="logOut()" test-id="nav-logout" class="ng-star-inserted">
                                         <span class="nav-label">Çıkış Yap</span>
                                         <span class="nav-label ng-star-inserted">
                                           <!---->
