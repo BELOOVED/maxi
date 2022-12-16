@@ -1017,5 +1017,11 @@
 		</master-header>
 	  </section>
 <?php }?>
-
+<script type="text/javascript">
+  $("#sliderclosedoverlay").click(function(){
+    $(".left-slider").removeClass("left-slider-open");
+    $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
+    $(".slider-menu-background-overlay").removeClass("active");
+    });
+</script>
 </html>
