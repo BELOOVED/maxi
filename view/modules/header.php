@@ -81,7 +81,7 @@
                   <!---->
                   <!---->
                   <div class="menu-content">
-                    <a class="menu-item" id="language" href="/tr/dil-secimi/" test-id="nav-language"> Dili değiştir </a>
+                    <a class="menu-item" id="language" href="javascript:;" onclick="openlng()" test-id="nav-language"> Dili değiştir </a>
                     <!---->
                     <!---->
                     <!---->
@@ -869,7 +869,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="language" href="/tr/dil-secimi/" test-id="nav-language"> Dili değiştir </a>
+						  <a class="menu-item" id="language" href="javascript:;" onclick="openlng()" test-id="nav-language"> Dili değiştir </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -1175,4 +1175,80 @@
 		  <!---->
 		  <!---->
 		</ui-view>
+
+
+
+
+
+
+    <ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="closedloginclose" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal language-selector" test-id="language-selector">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Tercih Edilen Dili Seçiniz</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closelng()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+				  </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <language-selector class="ng-star-inserted">
+                      <ul>
+                        <li class="ng-star-inserted">
+                          <a class="selected" test-id="language-selector-Turkish-link">
+                            <span>
+                              <i class="flags flags-lg flags-lg-tr"></i>
+                              <p class="flag-title">Turkish</p>
+                            </span>
+                          </a>
+                        </li>
+                        <li class="ng-star-inserted">
+                          <a test-id="language-selector-English-link">
+                            <span>
+                              <i class="flags flags-lg flags-lg-en"></i>
+                              <p class="flag-title">English</p>
+                            </span>
+                          </a>
+                        </li>
+                        <!---->
+                      </ul>
+                    </language-selector>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
 </html>

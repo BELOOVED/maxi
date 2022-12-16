@@ -94,6 +94,12 @@ $(document).ready(function () {
   function closelogin() {
     $("#closedloginclose").css("visibility", "hidden");
   }
+  function openlng() {
+    $("#closedlngclose").css("visibility", "visible");
+  }
+  function closelng() {
+    $("#closedlngclose").css("visibility", "hidden");
+  }
   
   
   function closesidebar() {
