@@ -1487,17 +1487,17 @@
                         <section class="tabs-component">
                           <div class="tabs-container">
                             <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item" test-id="my-bonuses-claimed-tab" href="/tr/bonuslarim/aktif/">
+                              <a class="tab-item" test-id="my-bonuses-claimed-tab" href="#">
                                 <!----> Aktif Bonuslar
                               </a>
                             </div>
                             <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item active" test-id="my-bonuses-available-tab" href="/tr/bonuslarim/alinabilir-bonuslar/">
+                              <a class="tab-item active" test-id="my-bonuses-available-tab" href="#">
                                 <!----> Alınabilir Bonuslar
                               </a>
                             </div>
                             <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item" test-id="my-bonuses-finished-tab" href="/tr/bonuslarim/tamamlanmis/">
+                              <a class="tab-item" test-id="my-bonuses-finished-tab" href="#">
                                 <!----> Tamamlanmış Bonuslar
                               </a>
                             </div>
