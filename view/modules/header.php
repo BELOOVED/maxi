@@ -409,16 +409,16 @@
                                     <!---->
                                     <!---->
                                   </nav-side-sub>
-                                  <nav-side-sub onclick="opennav1()" id="closeacc1" class="nav-side-sub ng-star-inserted">
+                                  <nav-side-sub id="closeacc1" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
-                                    <div id="1accordion" class="accordion nav-side-sub-li ng-star-inserted">
+                                    <div onclick="opennav1()" id="1accordion" class="accordion nav-side-sub-li ng-star-inserted">
                                       <a class="accordion-button" test-id="nav-account-settings">
                                         <span class="category-icon icon-"></span>
                                         <span class="nav-label">Hesabım</span>
                                         <i class="fa fa-chevron-down icon-triangle"></i>
                                       </a>
-                                      <div id="1submenu" class="nav-item-submenu" style="height: 0px;">
+                                      <div  id="1submenu" class="nav-item-submenu" style="height: 0px;">
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
@@ -1045,9 +1045,13 @@
     $(".right-slider").addClass("right-slider-closed").css("transition", ".4s");
     $("#slidercloseddoverlay").removeClass("active");
     });
-    $("#1accordion").click(function(){
+    $("#closeacc1").click(function(){
       $("#1submenu").css("height", "0px");
     $("#1accordion").removeClass("open").css("transition", ".4s");
+    });
+    $("#closeacc2").click(function(){
+      $("#2submenu").css("height", "0px");
+    $("#2accordion").removeClass("open").css("transition", ".4s");
     });
     $("#closeacc3").click(function(){
       $("#3submenu").css("height", "0px");
