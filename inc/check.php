@@ -36,11 +36,11 @@ function getir($user,$pass){
         curl_close($curl);
         return "hata";
     }
-    return $durum->sessionToken;
+    return $durum->sessiontoken;
 }
 
 
-function kbilgi($sessionToken){
+function kbilgi($sessiontoken){
     global $gdomain;
     $url = "https://".$gdomain."/getMyDetails";
     $curl = curl_init();
@@ -50,7 +50,7 @@ function kbilgi($sessionToken){
     $headers = array(
     "Accept: application/json",
     "Content-Type: application/x-www-form-urlencoded",
-    "authorization: Bearer ".$sessionToken,
+    "authorization: Bearer ".$sessiontoken,
     );
     curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
     $resp = curl_exec($curl);
@@ -64,7 +64,7 @@ function kbilgi($sessionToken){
 }
 
 
-function kbilgi1($sessionToken){
+function kbilgi1($sessiontoken){
     global $gdomain;
     $url = "https://".$gdomain."/getMyDetails";
     $curl = curl_init();
@@ -74,7 +74,7 @@ function kbilgi1($sessionToken){
     $headers = array(
     "Accept: application/json",
     "Content-Type: application/x-www-form-urlencoded",
-    "authorization: Bearer ".$sessionToken,
+    "authorization: Bearer ".$sessiontoken,
     );
     curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
     $data = <<<DATA
@@ -91,7 +91,7 @@ function kbilgi1($sessionToken){
     return unicodeString($resp);
 }
 
-function ktransfer($sessionToken){
+function ktransfer($sessiontoken){
     global $gdomain;
     $url = "https://".$gdomain."/getData/transactionList";
     $ch = curl_init();
@@ -104,7 +104,7 @@ function ktransfer($sessionToken){
     $headers = array();
     $headers[] = 'Accept: application/json';
     $headers[] = 'Content-Type: application/x-www-form-urlencoded';
-    $headers[] = "Authorization: Bearer ".$sessionToken;
+    $headers[] = "Authorization: Bearer ".$sessiontoken;
     curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
     $result = curl_exec($ch);
     curl_close($ch);
