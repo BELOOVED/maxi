@@ -790,11 +790,13 @@
 		  <section class="fixed-header">
 			<header id="header" test-id="header" class="header-top">
 			  <section test-id="left-menu-slider-nav" class="left-menu-slider-nav">
-				<span id="nav-toggle" class="nav-toggle-cont nav-toggle">
-				  <span>
-					<span></span>
-				  </span>
-				</span>
+				<a href="javascript:;" onclick="opensidebar()">
+          <span id="nav-toggle" class="nav-toggle-cont nav-toggle">
+            <span>
+              <span></span>
+            </span>
+          </span>
+</a>
 				<slider-menu>
 				  <section class="slider-menu">
 					<div class="slider-menu-background-overlay"></div>
