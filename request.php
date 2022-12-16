@@ -39,7 +39,7 @@ if ($q == 'login') {
 			$kbilgi = unicodeStringa(para($durum));
 			$kbilgi1 = unicodeStringa(bilgi($durum));
 			
-			$para = json_decode($kbilgi,false)->availableToWithdraw->amount;
+			$para = para();
 			
 			$phone = json_decode($kbilgi1,false)->subscriptions->phoneNumber;
 			$username = json_decode($kbilgi1,false)->subscriptions->email;
