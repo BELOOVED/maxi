@@ -800,7 +800,7 @@
         </a>
 				<slider-menu>
 				  <section class="slider-menu">
-					<div onclick="closesidebar()" class="slider-menu-background-overlay"></div>
+					<div class="slider-menu-background-overlay"></div>
 					<div class="slider left-slider left-slider-closed" test-id="left-slider-closed">
 					  <div id="slider-wrapper" class="slider-wrapper" style="--scrollbar-width:0px;">
 						<game-search-normal class="menu-search">
