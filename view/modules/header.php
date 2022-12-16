@@ -212,7 +212,7 @@
                                   <a class="sub" href="cerez-ayarlari/" test-id="account-drop-account-settings-marketing-preferences"> Tanıtım Ayarları </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="kyc">
-                                  <a class="sub" href="hesabim/belgelerim/" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
+                                  <a class="sub" href="javascript:;" onclick="changekyc()" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="change-password">
                                   <a class="sub" href="javascript:;" onclick="openchangepasswd()" test-id="account-drop-account-settings-change-password"> Şifre Değiştir </a>
@@ -478,7 +478,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="hesabim/belgelerim/" test-id="nav-kyc" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="changekyc()" test-id="nav-kyc" class="ng-star-inserted">
                                               <span class="nav-label">Hesap Doğrulama</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -1614,7 +1614,7 @@
                         <section class="accordion-component">
                           <div class="accordion-container">
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item active" test-id="personal-details" href="/tr/hesabim/bilgilerim/"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item active" test-id="personal-details" href="javascript:;" onclick="opennuserppanel()"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <div class="accordion-content-wrapper ng-star-inserted">
                                 <div class="accordion-content ng-star-inserted">
@@ -1761,7 +1761,7 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="kyc" href="javascript:;" onclick="changekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
@@ -1826,7 +1826,7 @@
                         <section class="accordion-component">
                           <div class="accordion-container">
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="personal-details" href="/tr/hesabim/bilgilerim/"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="personal-details" href="javascript:;" onclick="opennuserppanel()"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
@@ -1996,7 +1996,7 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="kyc" href="javascript:;" onclick="changekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
@@ -2061,7 +2061,7 @@
                         <section class="accordion-component">
                           <div class="accordion-container">
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="personal-details" href="/tr/hesabim/bilgilerim/"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="personal-details" href="javascript:;" onclick="opennuserppanel()"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
@@ -2071,7 +2071,7 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item active" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item active" test-id="kyc" href="javascript:;" onclick="changekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <div class="accordion-content-wrapper ng-star-inserted">
                                 <div class="accordion-content ng-star-inserted">
