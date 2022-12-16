@@ -1046,16 +1046,16 @@
     $("#slidercloseddoverlay").removeClass("active");
     });
     $("#closeacc1").click(function(){
-      $("#1submenu").css("height", "");
-    $("#1accordion").addClass("open").css("transition", ".4s");
+      $("#1submenu").css("height", "0px");
+    $("#1accordion").removeClass("open").css("transition", ".4s");
     });
     $("#closeacc2").click(function(){
-      $("#2submenu").css("height", "");
-    $("#2accordion").addClass("open").css("transition", ".4s");
+      $("#2submenu").css("height", "0px");
+    $("#2accordion").removeClass("open").css("transition", ".4s");
     });
     $("#closeacc3").click(function(){
-      $("#3submenu").css("height", "");
-    $("#3accordion").addClass("open").css("transition", ".4s");
+      $("#3submenu").css("height", "0px");
+    $("#3accordion").removeClass("open").css("transition", ".4s");
     });
 </script>
 <ui-view name="overlayBox">
