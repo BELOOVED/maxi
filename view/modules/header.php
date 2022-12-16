@@ -1312,4 +1312,17 @@
   <!---->
   <!---->
 </ui-view>
+<script>
+  function loginoralert() {
+    if (<?php if(isset($us['id'])) ?>) {
+      Swal.fire(
+        "Yetersiz Bakiye",
+        "Lütfen bakiyenizi güncelledikten sonra tekrar deneyin",
+        "warning"
+      );
+    } else {
+      Swal.fire("", "Lütfen hesabınıza giriş yapın", "warning");
+    }
+  }
+</script>
 </html>
