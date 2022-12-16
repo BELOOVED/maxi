@@ -99,13 +99,13 @@ $(document).ready(function () {
   }
   function closelng() {
     $("#closedlngclose").css("visibility", "hidden");
-  
-    function openpayment() {
-      $("#closedpayment").css("visibility", "visible");
-    }
-    function closepayment() {
-      $("#closedpayment").css("visibility", "hidden");
-    }}
+  }
+  function openpayment() {
+    $("#closedpayment").css("visibility", "visible");
+  }
+  function closepayment() {
+    $("#closedpayment").css("visibility", "hidden");
+  }
   
   
   function closesidebar() {
