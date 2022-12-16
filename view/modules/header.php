@@ -200,7 +200,7 @@
                               </a>
                               <ul class="closed">
                                 <li class="link ng-star-inserted" id="personal-details">
-                                  <a class="sub" href="javascript:;" onclick="openaccinfo()" test-id="account-drop-account-settings-personal-details"> Kişisel Bilgiler </a>
+                                  <a class="sub" href="javascript:;" onclick="opennuserppanel()" test-id="account-drop-account-settings-personal-details"> Kişisel Bilgiler </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="marketing-preferences">
                                   <a class="sub" href="cerez-ayarlari/" test-id="account-drop-account-settings-marketing-preferences"> Tanıtım Ayarları </a>
@@ -422,7 +422,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="javascript:;" onclick="openaccinfo()" test-id="nav-personal-details" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="opennuserppanel()" test-id="nav-personal-details" class="ng-star-inserted">
                                               <span class="nav-label">Kişisel Bilgiler</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -1572,9 +1572,9 @@
   <!---->
 </ui-view>
 <ui-view name="overlayBox">
-  <ng-component class="ng-star-inserted" id="accountinfo2" style="visibility: hidden;">
+  <ng-component class="ng-star-inserted" id="userpanel" style="visibility: hidden;" >
     <overlay-box cssclasses="modal-open">
-      <div class="overlay-box modal personal-details tabbed" test-id="personal-details">
+      <div class="overlay-box modal personal-details" test-id="personal-details">
         <div class="content-overlay"></div>
         <div class="overlay-box-content-wrapper">
           <!---->
@@ -1590,10 +1590,10 @@
                       <!---->
                     </section>
                     <!---->
-                    <a href="javascript:;" onclick="closeaccinfo()">
-                      <close test-id="modal-close" class="ng-star-inserted">
-                        <div class="close-btn icon-close"></div>
-                      </close>
+                    <a href="javascript:;" onclick="closeuserppanel()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
                     </a>
                     <!---->
                   </span>
@@ -1604,165 +1604,165 @@
                   <!---->
                   <ui-view class="modal-body clearfix">
                     <account class="ng-star-inserted">
-                      <tabs class="ng-star-inserted">
-                        <section class="tabs-component">
-                          <div class="tabs-container">
-                            <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item active" test-id="personal-details-tab" href="javascript:;" onclick="openaccinfo()">
-                                <!----> Kişisel Bilgiler
+                      <accordion class="ng-star-inserted">
+                        <section class="accordion-component">
+                          <div class="accordion-container">
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item active" test-id="personal-details" href="/tr/hesabim/bilgilerim/"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
-                            </div>
-                            <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item" test-id="change-password-tab" href="/tr/hesabim/sifre-degistir/">
-                                <!----> Şifre Değiştir
-                              </a>
-                            </div>
-                            <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item" test-id="kyc-tab" href="/tr/hesabim/belgelerim/">
-                                <!----> Belgelerim
-                              </a>
-                            </div>
-                            <!---->
-                          </div>
-                          <div class="tabs-content-wrapper">
-                            <div class="tabs-content ng-star-inserted">
-                              <ui-view>
-                                <personal-details class="ng-star-inserted">
-                                  <section test-id="personal-details" class="personal-details">
-                                    <section class="user-details">
-                                      <div>
-                                        <div class="user-detail">
-                                          <span test-id="account-name">Ad</span> Ahmet Uludag
-                                        </div>
-                                        <div class="user-detail">
-                                          <span test-id="account-dob">Doğum Tarihi</span> 01.11.1997
-                                        </div>
-                                        <div class="user-detail ng-star-inserted">
-                                          <span test-id="account-email">Eposta</span> uludagahmet69@gmail.com
-                                        </div>
-                                        <!---->
-                                        <!---->
-                                      </div>
-                                      <div>
-                                        <div class="user-detail">
-                                          <span>Cinsiyet</span>
-                                          <div>Erkek</div>
-                                        </div>
-                                        <div class="user-detail">
-                                          <span>Ülke</span> Türkiye / KKTC
-                                        </div>
-                                      </div>
-                                    </section>
-                                    <section class="editable-content">
-                                      <form novalidate="" name="personalDetailsForm" autocomplete="off" class="details-form ng-untouched ng-pristine ng-valid">
-                                        <!---->
-                                        <form-input-material formtextuals="account-personal-details" fieldtype="text" test-id="account-address" class="personal-details-input ng-untouched ng-pristine ng-valid">
-                                          <div class="field clearfix valid-model ng-untouched ng-pristine ng-valid">
-                                            <div class="input">
-                                              <div class="clearfix">
-                                                <!---->
-                                                <div class="inner-input">
-                                                  <!---->
-                                                  <div class="input-wrapper">
-                                                    <!---->
-                                                    <div class="input-icons-wrapper">
-                                                      <input id="Account-personal-details-Address" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-Address" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
-                                                      <span class="bar"></span>
-                                                      <label class="placeholder-label ng-star-inserted">adres</label>
-                                                      <!---->
-                                                      <!---->
-                                                      <!---->
-                                                      <!---->
-                                                    </div>
-                                                    <!---->
-                                                  </div>
-                                                  <!---->
-                                                </div>
-                                              </div>
+                              <div class="accordion-content-wrapper ng-star-inserted">
+                                <div class="accordion-content ng-star-inserted">
+                                  <ui-view>
+                                    <personal-details class="ng-star-inserted">
+                                      <section test-id="personal-details" class="personal-details">
+                                        <section class="user-details">
+                                          <div>
+                                            <div class="user-detail">
+                                              <span test-id="account-name">Ad</span> Ahmet Uludag
+                                            </div>
+                                            <div class="user-detail">
+                                              <span test-id="account-dob">Doğum Tarihi</span> 01.11.1997
+                                            </div>
+                                            <div class="user-detail ng-star-inserted">
+                                              <span test-id="account-email">Eposta</span> uludagahmet69@gmail.com
                                             </div>
                                             <!---->
-                                          </div>
-                                        </form-input-material>
-                                        <form-input-material formtextuals="account-personal-details" fieldtype="text" test-id="account-zip" class="personal-details-input ng-untouched ng-pristine ng-valid">
-                                          <div class="field clearfix valid-model ng-untouched ng-pristine ng-valid">
-                                            <div class="input">
-                                              <div class="clearfix">
-                                                <!---->
-                                                <div class="inner-input">
-                                                  <!---->
-                                                  <div class="input-wrapper">
-                                                    <!---->
-                                                    <div class="input-icons-wrapper">
-                                                      <input id="Account-personal-details-Zipcode" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-Zipcode" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
-                                                      <span class="bar"></span>
-                                                      <label class="placeholder-label ng-star-inserted">posta kodu</label>
-                                                      <!---->
-                                                      <!---->
-                                                      <!---->
-                                                      <!---->
-                                                    </div>
-                                                    <!---->
-                                                  </div>
-                                                  <!---->
-                                                </div>
-                                              </div>
-                                            </div>
                                             <!---->
                                           </div>
-                                        </form-input-material>
-                                        <form-input-material formtextuals="account-personal-details" fieldtype="text" test-id="account-city" class="personal-details-input ng-untouched ng-pristine ng-valid">
-                                          <div class="field clearfix valid-model ng-untouched ng-pristine ng-valid">
-                                            <div class="input">
-                                              <div class="clearfix">
-                                                <!---->
-                                                <div class="inner-input">
-                                                  <!---->
-                                                  <div class="input-wrapper">
+                                          <div>
+                                            <div class="user-detail">
+                                              <span>Cinsiyet</span>
+                                              <div>Erkek</div>
+                                            </div>
+                                            <div class="user-detail">
+                                              <span>Ülke</span> Türkiye / KKTC
+                                            </div>
+                                          </div>
+                                        </section>
+                                        <section class="editable-content">
+                                          <form novalidate="" name="personalDetailsForm" autocomplete="off" class="details-form ng-untouched ng-pristine ng-valid">
+                                            <!---->
+                                            <form-input-material formtextuals="account-personal-details" fieldtype="text" test-id="account-address" class="personal-details-input ng-untouched ng-pristine ng-valid">
+                                              <div class="field clearfix valid-model ng-untouched ng-pristine ng-valid">
+                                                <div class="input">
+                                                  <div class="clearfix">
                                                     <!---->
-                                                    <div class="input-icons-wrapper">
-                                                      <input id="Account-personal-details-City" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-City" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
-                                                      <span class="bar"></span>
-                                                      <label class="placeholder-label ng-star-inserted">şehir</label>
+                                                    <div class="inner-input">
                                                       <!---->
-                                                      <!---->
-                                                      <!---->
+                                                      <div class="input-wrapper">
+                                                        <!---->
+                                                        <div class="input-icons-wrapper">
+                                                          <input id="Account-personal-details-Address" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-Address" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
+                                                          <span class="bar"></span>
+                                                          <label class="placeholder-label ng-star-inserted">adres</label>
+                                                          <!---->
+                                                          <!---->
+                                                          <!---->
+                                                          <!---->
+                                                        </div>
+                                                        <!---->
+                                                      </div>
                                                       <!---->
                                                     </div>
-                                                    <!---->
                                                   </div>
-                                                  <!---->
                                                 </div>
+                                                <!---->
                                               </div>
-                                            </div>
+                                            </form-input-material>
+                                            <form-input-material formtextuals="account-personal-details" fieldtype="text" test-id="account-zip" class="personal-details-input ng-untouched ng-pristine ng-valid">
+                                              <div class="field clearfix valid-model ng-untouched ng-pristine ng-valid">
+                                                <div class="input">
+                                                  <div class="clearfix">
+                                                    <!---->
+                                                    <div class="inner-input">
+                                                      <!---->
+                                                      <div class="input-wrapper">
+                                                        <!---->
+                                                        <div class="input-icons-wrapper">
+                                                          <input id="Account-personal-details-Zipcode" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-Zipcode" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
+                                                          <span class="bar"></span>
+                                                          <label class="placeholder-label ng-star-inserted">posta kodu</label>
+                                                          <!---->
+                                                          <!---->
+                                                          <!---->
+                                                          <!---->
+                                                        </div>
+                                                        <!---->
+                                                      </div>
+                                                      <!---->
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                                <!---->
+                                              </div>
+                                            </form-input-material>
+                                            <form-input-material formtextuals="account-personal-details" fieldtype="text" test-id="account-city" class="personal-details-input ng-untouched ng-pristine ng-valid">
+                                              <div class="field clearfix valid-model ng-untouched ng-pristine ng-valid">
+                                                <div class="input">
+                                                  <div class="clearfix">
+                                                    <!---->
+                                                    <div class="inner-input">
+                                                      <!---->
+                                                      <div class="input-wrapper">
+                                                        <!---->
+                                                        <div class="input-icons-wrapper">
+                                                          <input id="Account-personal-details-City" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-City" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
+                                                          <span class="bar"></span>
+                                                          <label class="placeholder-label ng-star-inserted">şehir</label>
+                                                          <!---->
+                                                          <!---->
+                                                          <!---->
+                                                          <!---->
+                                                        </div>
+                                                        <!---->
+                                                      </div>
+                                                      <!---->
+                                                    </div>
+                                                  </div>
+                                                </div>
+                                                <!---->
+                                              </div>
+                                            </form-input-material>
                                             <!---->
-                                          </div>
-                                        </form-input-material>
-                                        <!---->
-                                        <form-checkbox formtextuals="account-personal-details" test-id="account-rc" class="ng-untouched ng-pristine ng-valid ng-star-inserted">
-                                          <div class="divisions checkbox field ng-untouched ng-pristine ng-valid">
-                                            <input type="checkbox" id="Account-personal-details-Displayrc" test-id="Account-personal-details-Displayrc-input" class="ng-untouched ng-pristine ng-valid">
-                                            <label class="checkbox-label" for="Account-personal-details-Displayrc" test-id="Account-personal-details-Displayrc-label">Saatlik Hatırlatma Bildirimi: Oturumun ne kadar süredir devam ettiği ve oturum boyunca elde edilen kazanç/kayıp miktarı hakkında bilgi ver.</label>
-                                          </div>
-                                        </form-checkbox>
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <!---->
-                                        <button type="submit" test-id="submit-button" class="btn btn-primary">Kaydet</button>
-                                      </form>
-                                    </section>
-                                  </section>
-                                </personal-details>
+                                            <form-checkbox formtextuals="account-personal-details" test-id="account-rc" class="ng-untouched ng-pristine ng-valid ng-star-inserted">
+                                              <div class="divisions checkbox field ng-untouched ng-pristine ng-valid">
+                                                <input type="checkbox" id="Account-personal-details-Displayrc" test-id="Account-personal-details-Displayrc-input" class="ng-untouched ng-pristine ng-valid">
+                                                <label class="checkbox-label" for="Account-personal-details-Displayrc" test-id="Account-personal-details-Displayrc-label">Saatlik Hatırlatma Bildirimi: Oturumun ne kadar süredir devam ettiği ve oturum boyunca elde edilen kazanç/kayıp miktarı hakkında bilgi ver.</label>
+                                              </div>
+                                            </form-checkbox>
+                                            <!---->
+                                            <!---->
+                                            <!---->
+                                            <!---->
+                                            <button type="submit" test-id="submit-button" class="btn btn-primary">Kaydet</button>
+                                          </form>
+                                        </section>
+                                      </section>
+                                    </personal-details>
+                                    <!---->
+                                    <!---->
+                                  </ui-view>
+                                  <!---->
+                                </div>
                                 <!---->
                                 <!---->
-                              </ui-view>
+                              </div>
+                              <!---->
+                            </div>
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item" test-id="change-password" href="/tr/hesabim/sifre-degistir/"> Şifre Değiştir <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <!---->
+                            </div>
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
                               <!---->
                             </div>
                             <!---->
-                            <!---->
                           </div>
                         </section>
-                      </tabs>
+                      </accordion>
                       <!---->
                       <!---->
                     </account>

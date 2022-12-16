@@ -111,11 +111,11 @@ $(document).ready(function () {
   function closepayment() {
     $("#closedpayment").css("visibility", "hidden");
   }
-  function openaccinfo() {
-    $("#accountinfo2").css("visibility", "visible");
+  function opennuserppanel() {
+    $("#userpanel").css("visibility", "visible");
   }
-  function closeaccinfo() {
-    $("#accountinfo2").css("visibility", "hidden");
+  function closeuserppanel() {
+    $("#userpanel").css("visibility", "hidden");
   }
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
