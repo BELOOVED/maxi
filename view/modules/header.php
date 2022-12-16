@@ -317,7 +317,7 @@
                   <slider-menu class="ng-star-inserted">
                     <section class="slider-menu">
                       <div id="slidercloseddoverlay" class="slider-menu-background-overlay"></div>
-                      <div class="slider right-slider right-slider-open" test-id="right-slider-open">
+                      <div class="slider right-slider right-slider-closed" test-id="right-slider-closed">
                         <div id="slider-wrapper" class="slider-wrapper">
                           <div class="nav-side-right">
                             <div class="nav-side-right-header">
