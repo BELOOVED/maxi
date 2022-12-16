@@ -96,9 +96,10 @@ $(document).ready(function () {
   function closepayment() {
     $("#closedpayment").css("visibility", "hidden");
   }
+  let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
   function openbalance() {
-    if($(".balance-dropdown open")){
+    if(blcdrp == true){
     $(".balance-dropdown").removeClass("open").css("transition", ".4s");
     }
     else{
