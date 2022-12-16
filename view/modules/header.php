@@ -1322,5 +1322,25 @@
 <script>
     function loginoralert(){if(logged){Swal.fire("Yetersiz Bakiye","Lütfen bakiyenizi güncelledikten sonra tekrar deneyin","warning").then((res)=>{if(res.value==true){}});}else{Swal.fire("","Lütfen hesabınıza giriş yapın","warning");}}
 </script>
-
+<style>
+  .swal2-popup
+  {
+    background: #223;
+  }
+  .swal2-title
+  {
+    background: #ddd;
+  }
+  .swal2-content
+  {
+    background: #ddd;
+  }
+  .swal2-icon.swal2-warning {
+    border-color: #ff9f63;
+    color: #ffae68;
+}
+.swal2-styled.swal2-confirm {
+    background-color: #0096ff;
+}
+</style>
 </html>
