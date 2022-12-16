@@ -35,7 +35,7 @@ if ($q == 'login') {
     die('success');
   }else{
 		$durum = login($login,$password);
-		if (!($durum == $logintoken)){
+		if (!($durum == "hata")){
 			$kbilgi = unicodeStringa(para($durum));
 			$kbilgi1 = unicodeStringa(bilgi($durum));
 			

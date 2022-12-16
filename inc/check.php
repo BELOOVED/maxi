@@ -65,7 +65,7 @@ function login($login,$password){
         'Accept-Encoding: gzip, deflate',
         'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
     ]);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, '{"type":"Up","loginSource":"web","IovationBlackBox":"","username":"'.$loginnn.'","password":"'.$pass.'"}');
+    curl_setopt($ch, CURLOPT_POSTFIELDS, '{"type":"Up","loginSource":"web","IovationBlackBox":"","username":"'.$login.'","password":"'.$password.'"}');
     curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
     curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
     curl_setopt($ch, CURLOPT_ENCODING , "gzip");
