@@ -1049,10 +1049,6 @@
       $("#1submenu").css("height", "0px");
     $("#1accordion").removeClass("open").css("transition", ".4s");
     });
-    $("#closeacc2").click(function(){
-      $("#2submenu").css("height", "0px");
-    $("#2accordion").removeClass("open").css("transition", ".4s");
-    });
     $("#closeacc3").click(function(){
       $("#3submenu").css("height", "0px");
     $("#3accordion").removeClass("open").css("transition", ".4s");
