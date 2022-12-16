@@ -79,12 +79,12 @@ $(document).ready(function () {
   }
   
   function opensidebar() {
-    $(".left-slider").removeClass("left-slider-close");
+    $(".left-slider").removeClass("left-slider-closed");
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
   }
   function closesidebar() {
     $(".left-slider").removeClass("left-slider-open").css("transition", ".4s");
-    $(".left-slider").addClass("left-slider-close").css("transition", ".4s");
+    $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
   }
   function openuserbar() {
     $("#sidenav-overlay").fadeIn(100);
