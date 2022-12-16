@@ -1105,7 +1105,7 @@
                   <login class="ng-star-inserted">
                     <!---->
                     <!---->
-                    <form onsubmit="logIn()" novalidate="" test-id="login-modal" id="login_form" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
+                    <form test-id="login-modal" id="login_form" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
                     <div class="loginSteps">
         <div class="step_1"> 
                     <form-input-material fieldtype="email" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
@@ -1169,7 +1169,7 @@
                       <div class="forgot-password">
                         <a test-id="forgot-password-link" href="sifremi-unuttum/">Şifremi Unuttum</a>&nbsp;
                       </div>
-                      <button type="submit" test-id="submit-button" class="btn btn-success btn-block">Giriş</button>
+                      <button onclick="logIn()" type="submit" test-id="submit-button" class="btn btn-success btn-block">Giriş</button>
                       <div class="login-links">
                         <div class="register">
                           <span class="disclaimer">Henüz bir hesabınız yok mu? <br>
