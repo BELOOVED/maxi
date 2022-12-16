@@ -830,7 +830,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="join-now" href="/tr/kayit-ol/" test-id="nav-join-now"> Kayıt Ol </a>
+						  <a class="menu-item" id="join-now" href="register" test-id="nav-join-now"> Kayıt Ol </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -933,7 +933,7 @@
 					  <div class="account-info">
 						<div class="right-container">
 						  <a test-id="account-info-login-btn" uisref="login" class="btn btn-sm btn-secondary btn-icon-before btn-icon-padlock" href="javascript:;" onclick="openlogin()">Giriş</a>
-						  <a test-id="account-info-register-now-btn" uisref="register" class="btn btn-sm btn-success btn-icon-before btn-icon-pencil" href="/tr/kayit-ol/">Şimdi Kayıt Ol</a>
+						  <a test-id="account-info-register-now-btn" uisref="register" class="btn btn-sm btn-success btn-icon-before btn-icon-pencil" href="register">Şimdi Kayıt Ol</a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -1010,7 +1010,7 @@
 			</header>
 			<div test-id="extended-header" class="extended-header">
 			  <a test-id="extended-header-login-btn" uisref="login" class="btn btn-sm btn-secondary" href="javascript:;" onclick="openlogin()">Giriş</a>
-			  <a test-id="extended-header-register-now-btn" uisref="register" class="btn btn-sm btn-success" href="/tr/kayit-ol/">Şimdi Kayıt Ol</a>
+			  <a test-id="extended-header-register-now-btn" uisref="register" class="btn btn-sm btn-success" href="register">Şimdi Kayıt Ol</a>
 			</div>
 			<!---->
 		  </section>
@@ -1123,7 +1123,7 @@
                           <span class="disclaimer">Henüz bir hesabınız yok mu? <br>
                             <br>Büyük Hoşgeldin Bonusu </span>
                           <span>
-                            <a test-id="login-sign-up-link" class="btn-register" href="/tr/kayit-ol/">ŞİMDİ KAYIT OL!</a>
+                            <a test-id="login-sign-up-link" class="btn-register" href="register">ŞİMDİ KAYIT OL!</a>
                           </span>
                         </div>
                       </div>
