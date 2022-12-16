@@ -1264,6 +1264,125 @@
 		</ui-view>
 		<!---->
 		<ui-view name="overlayBox">
+		<ng-component class="ng-star-inserted" style="display : none;">
+  <overlay-box cssclasses="modal-open">
+    <div class="overlay-box modal login" test-id="login">
+      <div class="content-overlay"></div>
+      <div class="overlay-box-content-wrapper">
+        <!---->
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-wrapper">
+              <div class="header ng-star-inserted">
+                <span id="modalTitle" class="modal-title-headline ng-star-inserted">Giriş Yap</span>
+                <!---->
+                <!---->
+                <span class="group">
+                  <section class="icons ng-star-inserted">
+                    <!---->
+                  </section>
+                  <!---->
+				  <a href="javascript:;" onclick="closelogin()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+				  </a>
+                  <!---->
+                </span>
+              </div>
+              <!---->
+              <div alert="" class="global-inline-notifications"></div>
+              <div class="content modal-tabs">
+                <!---->
+                <ui-view class="modal-body clearfix">
+                  <login class="ng-star-inserted">
+                    <!---->
+                    <!---->
+                    <form novalidate="" test-id="login-modal" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
+                      <form-input-material fieldtype="email" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
+                        <div class="field clearfix ng-untouched ng-pristine ng-invalid">
+                          <div class="input">
+                            <div class="clearfix">
+                              <!---->
+                              <div class="inner-input">
+                                <!---->
+                                <div class="input-wrapper">
+                                  <!---->
+                                  <div class="input-icons-wrapper">
+                                    <input id="Login-Email" name="undefined" autocomplete="undefined" type="email" placeholder="" test-id="Login-Email" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <span class="bar"></span>
+                                    <label class="placeholder-label ng-star-inserted">E-posta</label>
+                                    <!---->
+                                    <!---->
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                </div>
+                                <!---->
+                              </div>
+                            </div>
+                          </div>
+                          <!---->
+                        </div>
+                      </form-input-material>
+                      <form-input-material fieldtype="password" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
+                        <div class="field clearfix ng-untouched ng-pristine ng-invalid">
+                          <div class="input">
+                            <div class="clearfix">
+                              <!---->
+                              <div class="inner-input">
+                                <!---->
+                                <div class="input-wrapper">
+                                  <!---->
+                                  <div class="input-icons-wrapper">
+                                    <input id="Login-Password" name="undefined" autocomplete="undefined" type="password" placeholder="" test-id="Login-Password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <span class="bar"></span>
+                                    <label class="placeholder-label ng-star-inserted">Şifre</label>
+                                    <!---->
+                                    <!---->
+                                    <!---->
+                                    <!---->
+                                  </div>
+                                  <!---->
+                                </div>
+                                <!---->
+                              </div>
+                            </div>
+                          </div>
+                          <!---->
+                        </div>
+                      </form-input-material>
+                      <div class="forgot-password">
+                        <a test-id="forgot-password-link" href="/tr/sifremi-unuttum/">Şifremi Unuttum</a>&nbsp;
+                      </div>
+                      <button type="submit" test-id="submit-button" class="btn btn-success btn-block">Giriş</button>
+                      <div class="login-links">
+                        <div class="register">
+                          <span class="disclaimer">Henüz bir hesabınız yok mu? <br>
+                            <br>Büyük Hoşgeldin Bonusu </span>
+                          <span>
+                            <a test-id="login-sign-up-link" class="btn-register" href="/tr/kayit-ol/">ŞİMDİ KAYIT OL!</a>
+                          </span>
+                        </div>
+                      </div>
+                    </form>
+                    <!---->
+                  </login>
+                  <!---->
+                  <!---->
+                </ui-view>
+                <!---->
+              </div>
+              <!---->
+            </div>
+          </div>
+          <!---->
+        </div>
+      </div>
+    </div>
+  </overlay-box>
+</ng-component>
 		  <!---->
 		  <!---->
 		</ui-view>

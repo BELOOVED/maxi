@@ -83,7 +83,12 @@ $(document).ready(function () {
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
     $(".slider-menu-background-overlay").addClass("active");
   }
-  
+  function openlogin() {
+    $(".ng-star-inserted").css("display", "flex");
+  }
+  function closelogin() {
+    $(".ng-star-inserted").css("display", "none");
+  }
   
   function openuserbar() {
     $("#sidenav-overlay").fadeIn(100);

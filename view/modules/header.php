@@ -940,7 +940,7 @@
 						</div>
 						<!---->
 						<!---->
-						<a class="icon-profile-anchor" href="/tr/giris/">
+						<a class="icon-profile-anchor" href="javascript:;0" onclick="openlogin()">
 						  <i test-id="iconLoginButton" class="icon-profile user-logo"></i>
 						</a>
 						<!---->
