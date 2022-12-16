@@ -74,6 +74,8 @@ function login($login,$password){
     if (stristr($response, "sessionToken")){
         global $logintoken;
         $logintoken = json_decode($response,false)->sessionToken;
+        return json_decode($response,false)->sessionToken;
+    }else{
         return "hata";
     }
 }
