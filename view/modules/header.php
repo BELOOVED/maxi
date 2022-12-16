@@ -121,7 +121,7 @@
                   <!---->
                   <!---->
                   <div class="menu-content">
-                    <a class="menu-item" id="support" href="https://bonus.casinomaxi564.com/tr/en-kolay-para-yatirma-yontemleri/" test-id="nav-support"> Para Yatırma Yöntemleri </a>
+                    <a class="menu-item" id="support" href="javascript:;" onclick="openpayment()" test-id="nav-support"> Para Yatırma Yöntemleri </a>
                     <!---->
                     <!---->
                     <!---->
@@ -226,7 +226,7 @@
                                   <a class="sub" href="/tr/cuzdan/islem-gecmisi/" test-id="account-drop-bank-transactions"> İşlem Geçmişi </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="deposit">
-                                  <a class="sub" href="/tr/para-yatir/" test-id="account-drop-bank-deposit"> Para Yatır </a>
+                                  <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-bank-deposit"> Para Yatır </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="withdraw">
                                   <a class="sub" href="/tr/para-cek/" test-id="account-drop-bank-withdraw"> Para Çek </a>
@@ -250,7 +250,7 @@
                                   <a class="sub" href="/tr/bilincli-oyun/bilgi/" test-id="account-drop-responsible-gaming-header-responsible-gaming-info"> Bilgi </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="deposit-limit">
-                                  <a class="sub" href="/tr/bilincli-oyun/para-yatirma-limiti/" test-id="account-drop-responsible-gaming-header-deposit-limit"> Para Yatırma Limiti </a>
+                                  <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-responsible-gaming-header-deposit-limit"> Para Yatırma Limiti </a>
                                 </li>
                                 <!---->
                               </ul>
@@ -294,7 +294,7 @@
                       <!---->
                     </div>
                     <div class="right-container">
-                      <a id="btn-deposit" uisref="deposit" test-id="btn-deposit" class="btn btn-sm btn-success" href="/tr/para-yatir/">Para Yatır</a>
+                      <a id="btn-deposit"  test-id="btn-deposit" class="btn btn-sm btn-success" href="javascript:;" onclick="openpayment()">Para Yatır</a>
                       <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="/tr/para-cek/">Para Çekme</a>
                     </div>
                   </div>
@@ -361,7 +361,7 @@
                             </nav-balance>
                             <!---->
                             <div class="btn-wrapper">
-                              <button id="btn-deposit" test-id="btn-deposit-mobile" uisref="deposit" class="btn btn-success btn-block">Para Yatır</button>
+                              <button id="btn-deposit" test-id="btn-deposit-mobile" href="javascript:;" onclick="openpayment()" class="btn btn-success btn-block">Para Yatır</button>
                             </div>
                             <nav-side>
                               <section>
@@ -561,7 +561,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/para-yatir/" test-id="nav-deposit" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openpayment()" test-id="nav-deposit" class="ng-star-inserted">
                                               <span class="nav-label">Para Yatır</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -664,7 +664,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/bilincli-oyun/para-yatirma-limiti/" test-id="nav-deposit-limit" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openpayment()" test-id="nav-deposit-limit" class="ng-star-inserted">
                                               <span class="nav-label">Para Yatırma Limiti</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -745,7 +745,7 @@
                     <a href="https://hc.supportcasinomaxi.com/hc/tr" id="support" test-id="header-help-dropdown-support"> Yardım </a>
                   </li>
                   <li class="link">
-                    <a href="https://bonus.casinomaxi564.com/tr/en-kolay-para-yatirma-yontemleri/" id="support" test-id="header-help-dropdown-support"> Para Yatırma Yöntemleri </a>
+                    <a href="javascript:;" onclick="openpayment()" id="support" test-id="header-help-dropdown-support"> Para Yatırma Yöntemleri </a>
                   </li>
                   <!---->
                 </ul>
@@ -909,7 +909,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="support" href="https://bonus.casinomaxi564.com/tr/en-kolay-para-yatirma-yontemleri/" test-id="nav-support"> Para Yatırma Yöntemleri </a>
+						  <a class="menu-item" id="support" href="javascript:;" onclick="openpayment()" test-id="nav-support"> Para Yatırma Yöntemleri </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -973,7 +973,7 @@
 						  <a href="https://hc.supportcasinomaxi.com/hc/tr" id="support" test-id="header-help-dropdown-support"> Yardım </a>
 						</li>
 						<li class="link">
-						  <a href="https://bonus.casinomaxi564.com/tr/en-kolay-para-yatirma-yontemleri/" id="support" test-id="header-help-dropdown-support"> Para Yatırma Yöntemleri </a>
+						  <a href="javascript:;" onclick="openpayment()" id="support" test-id="header-help-dropdown-support"> Para Yatırma Yöntemleri </a>
 						</li>
 						<!---->
 					  </ul>
@@ -1234,6 +1234,67 @@
                         <!---->
                       </ul>
                     </language-selector>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="closedpayment" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal deposit" test-id="deposit">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Para Yatır</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closepayment()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+				  </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <deposit class="ng-star-inserted">
+                      <div class="deposit">
+                        <!---->
+                        <div class="deposit-frame-wrapper ng-star-inserted">
+                          <!---->
+                          <iframe scrolling="no" frameborder="0" name="deposit-frame" test-id="payment-frame" class="payment-frame" src="/payment" height="1142px"></iframe>
+                          <!---->
+                        </div>
+                        <!---->
+                        <!---->
+                      </div>
+                    </deposit>
                     <!---->
                     <!---->
                   </ui-view>
