@@ -98,7 +98,12 @@ $(document).ready(function () {
   }
  
   function openbalance() {
+    if($(".balance-dropdown open")){
+    $(".balance-dropdown").removeClass("open").css("transition", ".4s");
+    }
+    else{
     $(".balance-dropdown").addClass("open").css("transition", ".4s");
+    }
   }
   
   
