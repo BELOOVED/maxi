@@ -9,6 +9,8 @@
 	<script src="assets/vendor.js"></script>
 	<script src="assets/polyfills.js"></script>
 	<script src="assets/runtime.js"></script>
+	<script src="../../assets/app.js"></script>
+	<script src="../../assets/script.js"></script>
 	<style type="text/css">date-input-polyfill{background:#fff;color:#000;text-shadow:none;border:0;padding:0;height:auto;width:auto;line-height:normal;font-family:sans-serif;font-size:14px;position:absolute!important;text-align:center;box-shadow:0 3px 10px 1px rgba(0,0,0,.22);cursor:default;z-index:1;border-radius:5px;-moz-border-radius:5px;-webkit-border-radius:5px;overflow:hidden;display:block}date-input-polyfill[data-open=false]{visibility:hidden;z-index:-100!important;top:0}date-input-polyfill[data-open=true]{visibility:visible}date-input-polyfill select,date-input-polyfill table,date-input-polyfill td,date-input-polyfill th{background:#fff;color:#000;text-shadow:none;border:0;padding:0;height:auto;width:auto;line-height:normal;font-family:sans-serif;font-size:14px;box-shadow:none;font-family:Lato,Helvetica,Arial,sans-serif}date-input-polyfill button,date-input-polyfill select{border:0;border-radius:0;border-bottom:1px solid #dadfe1;height:24px;vertical-align:top;-webkit-appearance:none;-moz-appearance:none}date-input-polyfill .monthSelect-wrapper{width:55%;display:inline-block}date-input-polyfill .yearSelect-wrapper{width:25%;display:inline-block}date-input-polyfill select{width:100%}date-input-polyfill select:first-of-type{border-right:1px solid #dadfe1;border-radius:5px 0 0 0;-moz-border-radius:5px 0 0 0;-webkit-border-radius:5px 0 0 0}date-input-polyfill button{width:20%;background:#dadfe1;border-radius:0 5px 0 0;-moz-border-radius:0 5px 0 0;-webkit-border-radius:0 5px 0 0}date-input-polyfill button:hover{background:#eee}date-input-polyfill table{border-collapse:separate!important;border-radius:0 0 5px 5px;-moz-border-radius:0 0 5px 5px;-webkit-border-radius:0 0 5px 5px;overflow:hidden;max-width:280px;width:280px}date-input-polyfill td,date-input-polyfill th{width:32px;padding:4px;text-align:center;box-sizing:content-box}date-input-polyfill td[data-day]{cursor:pointer}date-input-polyfill td[data-day]:hover{background:#dadfe1}date-input-polyfill [data-selected]{font-weight:700;background:#d8eaf6}</style>
 	<style>.swiper{--noOfColumns:0;--columnWidth:0;--dynamicColWidths:0;position:relative;display:-webkit-box;display:flex;-webkit-box-pack:center;justify-content:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.swiper.allowed-user-selection{-webkit-user-select:auto;-moz-user-select:auto;-ms-user-select:auto;user-select:auto}.swiper .dots-wrapper{position:absolute;bottom:20px;z-index:6;width:auto}.swiper .dots-wrapper li{display:inline-block;margin:0 6px;width:15px;height:15px;opacity:.6;border-width:2px;border-style:solid;border-radius:50%;background-color:transparent;cursor:pointer}.swiper .dots-wrapper li.big-buttons{padding:5px;width:18px;height:18px}.swiper .swiper-content{position:relative;z-index:2;width:100%;overflow:hidden;-webkit-overflow-scrolling:touch}.swiper .swiper-wrapper{position:relative;display:-webkit-box;display:flex;width:100%;height:100%;-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0);-webkit-transition:height .3s;transition:height .3s;will-change:transform}@supports (display:grid){.swiper .swiper-wrapper{display:-ms-grid;display:grid;-ms-grid-columns:(var(--columnWidthPercentage)) [var(--noOfColumns) ];grid-template-columns:repeat(var(--noOfColumns),var(--columnWidthPercentage));grid-auto-columns:1fr;-webkit-box-align:start;align-items:start}}.swiper .swiper-wrapper.smooth-translate{-webkit-transition:height .3s,-webkit-transform .6s cubic-bezier(.215,.61,.355,1);transition:transform .6s cubic-bezier(.215,.61,.355,1),height .3s,-webkit-transform .6s cubic-bezier(.215,.61,.355,1)}.swiper .swiper-wrapper.bounds-hit{-webkit-transition:height .3s,-webkit-transform .6s cubic-bezier(1,1.59,.61,.74);transition:transform .6s cubic-bezier(1,1.59,.61,.74),height .3s,-webkit-transform .6s cubic-bezier(1,1.59,.61,.74)}.swiper .swiper-wrapper.no-transition{-webkit-transition:height .3s!important;transition:height .3s!important}.swiper .swiper-wrapper.dynamic-width{-ms-grid-columns:var(--dynamicColWidths);grid-template-columns:var(--dynamicColWidths)}.swiper .swiper-wrapper>*{width:100%!important}.swiper .swiper-wrapper.no-events>*{pointer-events:none}.swiper .swiper-navigation{position:absolute;top:0;z-index:3;display:-webkit-box;display:flex;height:0!important;width:100%;-webkit-box-align:center;align-items:center}.swiper .swiper-navigation .swiper-next,.swiper .swiper-navigation .swiper-previous{position:absolute;z-index:99;height:35px;width:20px;cursor:pointer}.swiper .swiper-navigation .swiper-next.disabled-navigation,.swiper .swiper-navigation .swiper-previous.disabled-navigation{opacity:.3;pointer-events:none}.swiper .swiper-navigation .swiper-previous{left:5px}.swiper .swiper-navigation .swiper-next{right:5px}</style>
 	<title></title>
@@ -20,7 +22,7 @@
     <section class="fixed-header">
       <header id="header" test-id="header" class="header-top">
         <section test-id="left-menu-slider-nav" class="left-menu-slider-nav">
-          <span id="nav-toggle" class="nav-toggle-cont nav-toggle">
+          <span onclick="opensidebar()" id="nav-toggle" class="nav-toggle-cont nav-toggle">
             <span>
               <span></span>
             </span>
@@ -1010,4 +1012,120 @@
 		</master-header>
 	  </section>
 <?php }?>
+<slider-menu>
+  <section id="sidenav-overlay" class="slider-menu">
+    <div class="slider-menu-background-overlay active"></div>
+    <div id="left-menu" class="slider left-slider left-slider-open" test-id="left-slider-open">
+      <div id="slider-wrapper" class="slider-wrapper" style="--scrollbar-width:0px;">
+        <game-search-normal class="menu-search">
+          <div name="search-form" class="game-search">
+            <div>
+              <div class="search-field">
+                <i class="fa icon-magnifier"></i>
+                <input test-id="game-search-normal-search-field-input" type="search" class="search-input ng-untouched ng-pristine ng-valid" placeholder="Oyunları Ara">
+              </div>
+              <div test-id="games-search-list" class="games-search-list">
+                <game-search-result test-id="search-game-result">
+                  <!---->
+                </game-search-result>
+                <!---->
+              </div>
+            </div>
+          </div>
+        </game-search-normal>
+        <div class="menu-content">
+          <a class="menu-item" id="login" href="login" test-id="nav-welcome-bonus"> Giriş Yap </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="register" href="register" test-id="nav-welcome-bonus"> Kayıt Ol </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="welcome-bonus" href="https://bonus.casinomaxi564.com/tr/1500-tl-150-freespin-hosgeldin-bonus-paketi/" test-id="nav-welcome-bonus"> Hoşgeldin Bonusu </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="a-z" href="/tr/casino-oyunlari/" test-id="nav-a-z"> Tüm Oyunlar (A-Z) </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="language" href="/tr/dil-secimi/" test-id="nav-language"> Dili değiştir </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="casino-games" href="/tr/" test-id="nav-casino-games"> Anasayfam </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="promotions" href="https://bonus.casinomaxi564.com/tr/" test-id="nav-promotions"> Kampanyalar </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="support" href="https://hc.supportcasinomaxi.com/hc/tr" test-id="nav-support"> Yardım </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <div class="menu-content">
+          <a class="menu-item" id="support" href="https://bonus.casinomaxi564.com/tr/en-kolay-para-yatirma-yontemleri/" test-id="nav-support"> Para Yatırma Yöntemleri </a>
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+          <!---->
+        </div>
+        <!---->
+        <!---->
+        <!---->
+      </div>
+    </div>
+  </section>
+</slider-menu>
 </html>
