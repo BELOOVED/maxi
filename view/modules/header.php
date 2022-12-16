@@ -1037,12 +1037,12 @@
   $("#sliderclosedoverlay").click(function(){
     $(".left-slider").removeClass("left-slider-open");
     $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
-    $(".slider-menu-background-overlay").removeClass("active");
+    $("#sliderclosedoverlay").removeClass("active");
     });
     $("#slidercloseddoverlay").click(function(){
-    $(".left-slider").removeClass("left-slider-open");
-    $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
-    $(".slider-menu-background-overlay").removeClass("active");
+    $(".right-slider").removeClass("right-slider-open");
+    $(".right-slider").addClass("right-slider-closed").css("transition", ".4s");
+    $("#slidercloseddoverlay").removeClass("active");
     });
 </script>
 <ui-view name="overlayBox">
