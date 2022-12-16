@@ -74,7 +74,7 @@ $(document).ready(function () {
     $("#sliderclosedoverlay").addClass("active");
   }
   function opennav1() {
-    $(".nav-item-submenu1").css("height", "");
+    $(".nav-item-submenu").css("height", "");
     $(".accordion").addClass("open").css("transition", ".4s");
 
   }
