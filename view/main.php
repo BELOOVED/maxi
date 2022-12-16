@@ -388,7 +388,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
+											<a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -443,7 +443,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -492,7 +492,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -541,7 +541,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game"  href="javascript:;" onclick="loginorpay()"class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginoralert()"class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -590,7 +590,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -639,7 +639,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
