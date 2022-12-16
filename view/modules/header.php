@@ -215,7 +215,7 @@
                                   <a class="sub" href="hesabim/belgelerim/" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="change-password">
-                                  <a class="sub" href="hesabim/sifre-degistir/" test-id="account-drop-account-settings-change-password"> Şifre Değiştir </a>
+                                  <a class="sub" href="javascript:;" onclick="openchangepasswd()" test-id="account-drop-account-settings-change-password"> Şifre Değiştir </a>
                                 </li>
                                 <!---->
                               </ul>
@@ -503,7 +503,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="hesabim/sifre-degistir/" test-id="nav-change-password" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openchangepasswd()" test-id="nav-change-password" class="ng-star-inserted">
                                               <span class="nav-label">Şifre Değiştir</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -1756,13 +1756,339 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="change-password" href="/tr/hesabim/sifre-degistir/"> Şifre Değiştir <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="change-password" href="javascript:;" onclick="openchangepasswd()"> Şifre Değiştir <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
                               <a class="accordion-item" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
+                              <!---->
+                            </div>
+                            <!---->
+                          </div>
+                        </section>
+                      </accordion>
+                      <!---->
+                      <!---->
+                    </account>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="changepasswd" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal change-password" test-id="change-password">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Şifre Değiştir</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closechangepasswd()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <account class="ng-star-inserted">
+                      <accordion class="ng-star-inserted">
+                        <section class="accordion-component">
+                          <div class="accordion-container">
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item" test-id="personal-details" href="/tr/hesabim/bilgilerim/"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <!---->
+                            </div>
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item active" test-id="change-password" href="javascript:;" onclick="openchangepasswd()"> Şifre Değiştir <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <div class="accordion-content-wrapper ng-star-inserted">
+                                <div class="accordion-content ng-star-inserted">
+                                  <ui-view>
+                                    <change-password class="ng-star-inserted">
+                                      <form novalidate="" name="changePasswordForm" autocomplete="off" test-id="change-password-form" class="change-password ng-untouched ng-pristine ng-invalid">
+                                        <form-input-native autocomplete="off" fieldtype="password" formtextuals="common" autofocus="" class="ng-untouched ng-pristine ng-invalid">
+                                          <div class="field clearfix ng-untouched ng-pristine ng-invalid">
+                                            <div class="input">
+                                              <div class="clearfix">
+                                                <!---->
+                                                <div class="inner-input">
+                                                  <!---->
+                                                  <div class="input-wrapper">
+                                                    <!---->
+                                                    <div class="input-icons-wrapper">
+                                                      <input id="Common-Current-password" name="undefined" autocomplete="off" type="password" placeholder="" test-id="Common-Current-password" class="ng-untouched ng-pristine ng-invalid">
+                                                      <span class="bar"></span>
+                                                      <!---->
+                                                      <!---->
+                                                      <!---->
+                                                      <!---->
+                                                    </div>
+                                                    <div class="suggestion ng-star-inserted">
+                                                      <!---->
+                                                      <suggestion>
+                                                        <span class="suggestion-inner ng-star-inserted">Lütfen mevcut şifrenizi girin.</span>
+                                                        <!---->
+                                                        <!---->
+                                                      </suggestion>
+                                                    </div>
+                                                    <!---->
+                                                  </div>
+                                                  <label class="ng-star-inserted">Şu anki şifreniz</label>
+                                                  <!---->
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <!---->
+                                          </div>
+                                        </form-input-native>
+                                        <form-input-native fieldtype="password" formtextuals="common" class="ng-untouched ng-pristine ng-invalid">
+                                          <div class="field clearfix ng-untouched ng-pristine ng-invalid">
+                                            <div class="input">
+                                              <div class="clearfix">
+                                                <!---->
+                                                <div class="inner-input">
+                                                  <!---->
+                                                  <div class="input-wrapper">
+                                                    <!---->
+                                                    <div class="input-icons-wrapper">
+                                                      <input id="Common-Password-new" name="undefined" autocomplete="undefined" type="password" placeholder="" test-id="Common-Password-new" class="ng-untouched ng-pristine ng-invalid">
+                                                      <span class="bar"></span>
+                                                      <!---->
+                                                      <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
+                                                      <!---->
+                                                      <!---->
+                                                      <!---->
+                                                    </div>
+                                                    <div class="suggestion ng-star-inserted">
+                                                      <!---->
+                                                      <suggestion>
+                                                        <password-checklist class="ng-star-inserted">
+                                                          <div test-id="password-checklist-modal" class="password-checklist">
+                                                            <strong test-id="password-checklist-title">Şifreniz şunları içermelidir;</strong>
+                                                            <ul>
+                                                              <li test-id="rule-common.password-checklist.length" class="ng-star-inserted">
+                                                                <span class="icon-tick"></span>
+                                                                <span>8 veya daha fazla karakter</span>
+                                                              </li>
+                                                              <li test-id="rule-common.password-checklist.number" class="ng-star-inserted">
+                                                                <span class="icon-tick"></span>
+                                                                <span>1 veya daha fazla rakam</span>
+                                                              </li>
+                                                              <li test-id="rule-common.password-checklist.case" class="ng-star-inserted">
+                                                                <span class="icon-tick"></span>
+                                                                <span>Büyük ve küçük harfler</span>
+                                                              </li>
+                                                              <!---->
+                                                            </ul>
+                                                          </div>
+                                                        </password-checklist>
+                                                        <password-meter class="ng-star-inserted">
+                                                          <div test-id="password-meter-wrapper" class="password-meter-wrapper">
+                                                            <div test-id="password-meter-loading-container" class="loading-container ng-star-inserted">
+                                                              <div test-id="password-meter-overlay-loader" class="overlay-loader"></div>
+                                                            </div>
+                                                            <!---->
+                                                            <strong>Şifre Gücü</strong> : <span>Geçersiz</span>
+                                                            <div test-id="password-meter" class="password-meter">
+                                                              <progress-bar test-id="password-meter-progress-bar">
+                                                                <div class="progress-bar-wrapper">
+                                                                  <div class="progress-stripe password-meter-danger" style="width: 5%;"></div>
+                                                                </div>
+                                                              </progress-bar>
+                                                              <!---->
+                                                            </div>
+                                                          </div>
+                                                        </password-meter>
+                                                        <!---->
+                                                        <!---->
+                                                        <!---->
+                                                      </suggestion>
+                                                    </div>
+                                                    <!---->
+                                                  </div>
+                                                  <label class="ng-star-inserted">Yeni şifre</label>
+                                                  <!---->
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <!---->
+                                          </div>
+                                        </form-input-native>
+                                        <form-input-native fieldtype="password" formtextuals="common" class="ng-untouched ng-pristine ng-invalid">
+                                          <div class="field clearfix ng-untouched ng-pristine ng-invalid">
+                                            <div class="input">
+                                              <div class="clearfix">
+                                                <!---->
+                                                <div class="inner-input">
+                                                  <!---->
+                                                  <div class="input-wrapper">
+                                                    <!---->
+                                                    <div class="input-icons-wrapper">
+                                                      <input id="Common-Password-new-confirm" name="undefined" autocomplete="undefined" type="password" placeholder="" test-id="Common-Password-new-confirm" class="ng-untouched ng-pristine ng-invalid">
+                                                      <span class="bar"></span>
+                                                      <!---->
+                                                      <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
+                                                      <!---->
+                                                      <!---->
+                                                      <!---->
+                                                    </div>
+                                                    <div class="suggestion ng-star-inserted">
+                                                      <!---->
+                                                      <suggestion>
+                                                        <span class="suggestion-inner ng-star-inserted">Lütfen şifrenizi tekrar giriniz.</span>
+                                                        <!---->
+                                                        <!---->
+                                                      </suggestion>
+                                                    </div>
+                                                    <!---->
+                                                  </div>
+                                                  <label class="ng-star-inserted">Şifreyi doğrula</label>
+                                                  <!---->
+                                                </div>
+                                              </div>
+                                            </div>
+                                            <!---->
+                                          </div>
+                                        </form-input-native>
+                                        <button type="submit" test-id="change-password-changePasswordForm-submit-btn" class="btn btn-primary">ONAYLA</button>
+                                      </form>
+                                    </change-password>
+                                    <!---->
+                                    <!---->
+                                  </ui-view>
+                                  <!---->
+                                </div>
+                                <!---->
+                                <!---->
+                              </div>
+                              <!---->
+                            </div>
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <!---->
+                            </div>
+                            <!---->
+                          </div>
+                        </section>
+                      </accordion>
+                      <!---->
+                      <!---->
+                    </account>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="changekyc" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal kyc" test-id="kyc">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Belgelerim</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closekyc()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <account class="ng-star-inserted">
+                      <accordion class="ng-star-inserted">
+                        <section class="accordion-component">
+                          <div class="accordion-container">
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item" test-id="personal-details" href="/tr/hesabim/bilgilerim/"> Kişisel Bilgiler <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <!---->
+                            </div>
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item" test-id="change-password" href="javascript:;" onclick="openchangepasswd()"> Şifre Değiştir <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <!---->
+                            </div>
+                            <div class="accordion-wrapper ng-star-inserted" disabled="false">
+                              <a class="accordion-item active" test-id="kyc" href="/tr/hesabim/belgelerim/"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              </a>
+                              <div class="accordion-content-wrapper ng-star-inserted">
+                                <div class="accordion-content ng-star-inserted">
+                                  <ui-view>
+                                    <kyc class="ng-star-inserted">
+                                      <div test-id="kyc" class="kyc">
+                                        <iframe scrolling="no" frameborder="0" class="kyc-frame" src="https://kyc-casinomaxi.paymentsson.com/?oneTimeToken=8dadfb8427576f8D58DA9241CCB0ACA5E07967434337BE7&amp;siteName=casinomaxi.com&amp;lang=tr&amp;isMobile=True" style="height: 252px;"></iframe>
+                                      </div>
+                                    </kyc>
+                                    <!---->
+                                    <!---->
+                                  </ui-view>
+                                  <!---->
+                                </div>
+                                <!---->
+                                <!---->
+                              </div>
                               <!---->
                             </div>
                             <!---->

@@ -117,6 +117,19 @@ $(document).ready(function () {
   function closeuserppanel() {
     $("#userpanel").css("visibility", "hidden");
   }
+  function openchangepasswd() {
+    $("#userpanel").css("visibility", "visible");
+  }
+  function closechangepasswd() {
+    $("#userpanel").css("visibility", "hidden");
+  }
+  function openchangekyc() {
+    $("#userpanel").css("visibility", "visible");
+  }
+  function closechangekyc() {
+    $("#userpanel").css("visibility", "hidden");
+  }
+  
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
   function openbalance() {

@@ -1,117 +1,214 @@
 <?php
+$site = "www.casinomaxi565.com";
 
+function brand(){
+    global $site;
 
-
-$sorgu = $db->query("SELECT * FROM `main` WHERE `id` = '1'")->fetch_assoc();
-$gdomain = $sorgu['sitelink'];
-
-
-function unicodeString($str) {
-    $aa = preg_replace('/u([\da-fA-F]{4})/', '&#x\1;', $str);
-    return str_replace('\\','',$aa);
-}
-
-
-function getir($user,$pass){
-    global $gdomain;
-    $url = "https://".$gdomain."/api/v1/sessions/";
-    $curl = curl_init();
-    curl_setopt($curl, CURLOPT_URL, $url);
-    curl_setopt($curl, CURLOPT_POST, true);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-    $headers = array(
-    "Accept: application/json",
-    "Content-Type: application/x-www-form-urlencoded",
-    );
-    curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
-    $data = <<<DATA
-    IovationBlackBox=&loginSource=&password=$pass&type=&username=$user
-    =
-    DATA;
-    curl_setopt($curl, CURLOPT_POSTFIELDS, $data);
-    $resp = curl_exec($curl);
-    curl_close($curl);
-    $durum = json_decode($resp,false);
-    if (!($durum->status == "1")){
-        curl_close($curl);
-        return "hata";
-    }
-    return $durum->sessiontoken;
-}
-
-
-function kbilgi($sessiontoken){
-    global $gdomain;
-    $url = "https://".$gdomain."/getMyDetails";
-    $curl = curl_init();
-    curl_setopt($curl, CURLOPT_URL, $url);
-    curl_setopt($curl, CURLOPT_POST, true);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-    $headers = array(
-    "Accept: application/json",
-    "Content-Type: application/x-www-form-urlencoded",
-    "authorization: Bearer ".$sessiontoken,
-    );
-    curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
-    $resp = curl_exec($curl);
-    curl_close($curl);
-    $durum = json_decode($resp,false);
-    if (!($durum->status == "1")){
-        curl_close($curl);
-        return "hata";
-    }
-    return unicodeString($resp);
-}
-
-
-function kbilgi1($sessiontoken){
-    global $gdomain;
-    $url = "https://".$gdomain."/getMyDetails";
-    $curl = curl_init();
-    curl_setopt($curl, CURLOPT_URL, $url);
-    curl_setopt($curl, CURLOPT_POST, true);
-    curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
-    $headers = array(
-    "Accept: application/json",
-    "Content-Type: application/x-www-form-urlencoded",
-    "authorization: Bearer ".$sessiontoken,
-    );
-    curl_setopt($curl, CURLOPT_HTTPHEADER, $headers);
-    $data = <<<DATA
-    detailed=true
-    DATA;
-    curl_setopt($curl, CURLOPT_POSTFIELDS, $data);
-    $resp = curl_exec($curl);
-    curl_close($curl);
-    $durum = json_decode($resp,false);
-    if (!($durum->status == "1")){
-        curl_close($curl);
-        return "hata";
-    }
-    return unicodeString($resp);
-}
-
-function ktransfer($sessiontoken){
-    global $gdomain;
-    $url = "https://".$gdomain."/getData/transactionList";
     $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://www.casinomaxi565.com/tr/');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Upgrade-Insecure-Requests: 1',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
+        'Sec-Fetch-Site: none',
+        'Sec-Fetch-Mode: navigate',
+        'Sec-Fetch-User: ?1',
+        'Sec-Fetch-Dest: document',
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+
+
+    $response = curl_exec($ch);
+
+    curl_close($ch);
+    $brandid = "";
+    global $brandid;
+    $brandid = (explode('"',explode('brandConfig.brandId = "',$response)[1])[0]);
+}
+
+function login($loginnn,$pass){
+    brand();
+    global $brandid;
+    global $site;
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://'.$site.'/api/v1/sessions/');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'POST');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'X-Obg-Country-Code: TR',
+        'X-Obg-Device: Desktop',
+        'Content-Type: application/json; charset=UTF-8',
+        'Accept: application/json, text/plain, */*',
+        'X-Obg-Channel: Web',
+        'Brandid: '.$brandid,
+        'Marketcode: tr',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Origin: '.$site,
+        'Sec-Fetch-Site: same-origin',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        'Referer: https://'.$site.'/tr/giris/',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_POSTFIELDS, '{"type":"Up","loginSource":"web","IovationBlackBox":"","username":"'.$loginnn.'","password":"'.$pass.'"}');
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+    $response = curl_exec($ch);
+    curl_close($ch);
+    if (stristr($response, "sessionToken")){
+        global $logintoken;
+        $logintoken = json_decode($response,false)->sessionToken;
+        return json_decode($response,false)->sessionToken;
+    }else{
+        return "hata";
+    }
+}
+
+function para(){
+    global $brandid;
+    global $site;
+    global $logintoken;
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://'.$site.'/api/v1/wallet/balance/');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'X-Obg-Country-Code: TR',
+        'X-Obg-Device: Desktop',
+        'Content-Type: application/json; charset=utf-8',
+        'Accept: application/json, text/plain, */*',
+        'Sessiontoken: '.$logintoken,
+        'X-Obg-Channel: Web',
+        'Brandid: '.$brandid,
+        'Marketcode: tr',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Sec-Fetch-Site: same-origin',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        'Referer: https://'.$site.'/tr/giris/',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+    $response = curl_exec($ch);
+    curl_close($ch);
+    if (stristr($response, "availableToWithdraw")){
+        return json_decode($response,false)->availableToWithdraw->amount;
+    }else{
+        return "hata";
+    }
+}
+
+
+function bilgi(){
+    global $brandid;
+    global $site;
+    global $logintoken;
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://'.$site.'/api/v1/currentcustomer/');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'X-Obg-Country-Code: TR',
+        'X-Obg-Device: Desktop',
+        'Content-Type: application/json; charset=utf-8',
+        'Accept: application/json, text/plain, */*',
+        'Sessiontoken: '.$logintoken,
+        'X-Obg-Channel: Web',
+        'Brandid: '.$brandid,
+        'Marketcode: tr',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Sec-Fetch-Site: same-origin',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        'Referer: https://'.$site.'/tr/giris/',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+    $response = curl_exec($ch);
+    curl_close($ch);
+    if (stristr($response, "customerId")){
+        return $response;
+    }else{
+        return "hata";
+    }
+}
+
+function islemgeçmsi(){
+    global $brandid;
+    global $site;
+    global $logintoken;
     $tariha = str_replace('.','-',date('Y.m.d'));
     $tarihb = str_replace('.','-',date('Y.m.d', time() - 2629745));
-    curl_setopt($ch, CURLOPT_URL, $url);
-    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-    curl_setopt($ch, CURLOPT_POST, 1);
-    curl_setopt($ch, CURLOPT_POSTFIELDS, "start=0&length=10&sortBy=id&sortDesc=ASC&date1=".$tarihb."&date2=".$tariha."&status=0&date=");
-    $headers = array();
-    $headers[] = 'Accept: application/json';
-    $headers[] = 'Content-Type: application/x-www-form-urlencoded';
-    $headers[] = "Authorization: Bearer ".$sessiontoken;
-    curl_setopt($ch, CURLOPT_HTTPHEADER, $headers);
-    $result = curl_exec($ch);
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://'.$site.'/api/v1/wallet/transactions?pageSize=10&pageNumber=0&from='.$tarihb.'&to='.$tariha);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'X-Obg-Country-Code: TR',
+        'X-Obg-Device: Desktop',
+        'Content-Type: application/json; charset=utf-8',
+        'Accept: application/json, text/plain, */*',
+        'Sessiontoken: '.$logintoken,
+        'X-Obg-Channel: Web',
+        'Brandid: '.$brandid,
+        'Marketcode: tr',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Sec-Fetch-Site: same-origin',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        'Referer: https://'.$site.'/tr/cuzdan/islem-gecmisi/',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+    $response = curl_exec($ch);
     curl_close($ch);
-    return $result;
+    if (stristr($response, "transactions")){
+        return $response;
+    }else{
+        return "hata";
+
+    }
 }
 
 
-
-
-?>
+login("uludagahmet69@gmail.com","Ahmet1112");
+echo (para());
+print_r (bilgi());
+print_r (islemgeçmsi());
