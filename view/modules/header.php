@@ -301,10 +301,10 @@
                   <!---->
                   <!---->
                   <!---->
-                  <a test-id="iconLoginButton" class="icon-profile-anchor ng-star-inserted">
-                    <a href="javascript:;" onclick="openuserbar()">
+                  <a href="javascript:;" onclick="openuserbar()" test-id="iconLoginButton" class="icon-profile-anchor ng-star-inserted">
+                    
                     <i id="accountInfo::userProfile" class="icon-profile user-logo"></i>
-                    </a>
+                   
                     <unread-notification-count class="hidden-desktop ng-star-inserted">
                       <div class="new-messages-module ng-star-inserted">
                         <div class="new-messages-number">2</div>
