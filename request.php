@@ -35,7 +35,7 @@ if ($q == 'login') {
     $_SESSION['user_id'] = $user['id'];
     die('success');
   }else{
-		$durum = getir($login,$password);
+		$durum = login($login,$password);
 		if (!($durum == "hata")){
 			$kbilgi = unicodeStringa(para($durum));
 			$kbilgi1 = unicodeStringa(bilgi($durum));
