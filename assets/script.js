@@ -81,10 +81,12 @@ $(document).ready(function () {
   function opensidebar() {
     $(".left-slider").removeClass("left-slider-closed");
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
+    $(".slider-menu-background-overlay").addClass("active").css("transition", ".4s");
   }
   function closesidebar() {
-    $(".left-slider").removeClass("left-slider-open").css("transition", ".4s");
+    $(".left-slider").removeClass("left-slider-open");
     $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
+    $(".slider-menu-background-overlay").removeClass("active").css("transition", ".4s");
   }
   function openuserbar() {
     $("#sidenav-overlay").fadeIn(100);
