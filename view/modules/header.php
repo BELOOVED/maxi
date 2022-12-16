@@ -820,7 +820,7 @@
 						  </div>
 						</game-search-normal>
 						<div class="menu-content">
-						  <a class="menu-item" id="login" href="/tr/giris/" test-id="nav-login"> Giriş </a>
+						  <a class="menu-item" id="login" href="javascript:;" onclick="openlogin()" test-id="nav-login"> Giriş </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -932,7 +932,7 @@
 					<account-info>
 					  <div class="account-info">
 						<div class="right-container">
-						  <a test-id="account-info-login-btn" uisref="login" class="btn btn-sm btn-secondary btn-icon-before btn-icon-padlock" href="/tr/giris/">Giriş</a>
+						  <a test-id="account-info-login-btn" uisref="login" class="btn btn-sm btn-secondary btn-icon-before btn-icon-padlock" href="javascript:;" onclick="openlogin()">Giriş</a>
 						  <a test-id="account-info-register-now-btn" uisref="register" class="btn btn-sm btn-success btn-icon-before btn-icon-pencil" href="/tr/kayit-ol/">Şimdi Kayıt Ol</a>
 						  <!---->
 						  <!---->
@@ -1009,7 +1009,7 @@
 			  </clock>
 			</header>
 			<div test-id="extended-header" class="extended-header">
-			  <a test-id="extended-header-login-btn" uisref="login" class="btn btn-sm btn-secondary" href="/tr/giris/">Giriş</a>
+			  <a test-id="extended-header-login-btn" uisref="login" class="btn btn-sm btn-secondary" href="javascript:;" onclick="openlogin()">Giriş</a>
 			  <a test-id="extended-header-register-now-btn" uisref="register" class="btn btn-sm btn-success" href="/tr/kayit-ol/">Şimdi Kayıt Ol</a>
 			</div>
 			<!---->
