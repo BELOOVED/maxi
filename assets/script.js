@@ -73,8 +73,10 @@ $(document).ready(function () {
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
     $("#sliderclosedoverlay").addClass("active");
   }
-  function openmenunav() {
+  function opennav1() {
+    $(".nav-item-submenu1").css("height", "");
     $(".accordion").addClass("open").css("transition", ".4s");
+
   }
   function openuserbar() {
     $(".right-slider").removeClass("right-slider-closed");
