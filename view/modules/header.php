@@ -1572,7 +1572,7 @@
   <!---->
 </ui-view>
 <ui-view name="overlayBox">
-  <ng-component class="ng-star-inserted" id="accountinfo" style="visibility: hidden;">
+  <ng-component class="ng-star-inserted" id="accountinfo2" style="visibility: hidden;">
     <overlay-box cssclasses="modal-open">
       <div class="overlay-box modal personal-details tabbed" test-id="personal-details">
         <div class="content-overlay"></div>
