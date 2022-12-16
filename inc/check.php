@@ -36,7 +36,7 @@ function brand(){
     $brandid = (explode('"',explode('brandConfig.brandId = "',$response)[1])[0]);
 }
 
-function login($loginnn,$pass){
+function login($login,$password){
     brand();
     global $brandid;
     global $site;
@@ -163,7 +163,7 @@ function bilgi(){
     }
 }
 
-function islemgeçmsi(){
+function islemgecmsi(){
     global $brandid;
     global $site;
     global $logintoken;
