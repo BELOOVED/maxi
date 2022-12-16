@@ -1009,7 +1009,7 @@
 			  </clock>
 			</header>
       <?php 
-      if (!isset($_SERVER['REQUEST_URI']) || ltrim($_SERVER['REQUEST_URI'],'register') === '') {
+      if (!isset($_SERVER['REQUEST_URI']) || ltrim($_SERVER['REQUEST_URI'],'/register') === '') {
       ?>
 			
       <?php }
