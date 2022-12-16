@@ -18,6 +18,12 @@
 	<script src="assets/vendor.js"></script>
 	<script src="assets/polyfills.js"></script>
 	<script src="assets/runtime.js"></script>
+  <link
+  rel="stylesheet"
+  href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
+/>
+
+<script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
 	<script src="../../assets/app.js"></script>
   <script src="../../assets/sweetalert.all.min.js"></script>
   <script src="https://code.jquery.com/jquery-3.6.2.min.js" integrity="sha256-2krYZKh//PcchRtd+H+VyyQoZ/e3EcrkxhM8ycwASPA=" crossorigin="anonymous"></script>
