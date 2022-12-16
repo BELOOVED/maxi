@@ -79,8 +79,11 @@ $(document).ready(function () {
 
   }
   function opennav2() {
+    $("closeacc2").toggle();
     $("#2submenu").css("height", "");
     $("#2accordion").addClass("open").css("transition", ".4s");
+    $("#2submenu").css("height", "0px");
+    $("#2accordion").removeClass("open").css("transition", ".4s");
 
   }
   function opennav3() {
