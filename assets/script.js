@@ -79,7 +79,7 @@ $(document).ready(function () {
   }
   
   function opensidebar() {
-    $(".left-slider").removeClass("left-slider-close").css("transition", ".4s");
+    $(".left-slider").removeClass("left-slider-close");
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
   }
   function closesidebar() {
