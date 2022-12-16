@@ -209,10 +209,10 @@
                                   <a class="sub" href="javascript:;" onclick="opennuserppanel()" test-id="account-drop-account-settings-personal-details"> Kişisel Bilgiler </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="marketing-preferences">
-                                  <a class="sub" href="cerez-ayarlari/" test-id="account-drop-account-settings-marketing-preferences"> Tanıtım Ayarları </a>
+                                  <a class="sub" href="javascript:;" onclick="openchangecookie()" test-id="account-drop-account-settings-marketing-preferences"> Tanıtım Ayarları </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="kyc">
-                                  <a class="sub" href="javascript:;" onclick="changekyc()" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
+                                  <a class="sub" href="javascript:;" onclick="openchangekyc()" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="change-password">
                                   <a class="sub" href="javascript:;" onclick="openchangepasswd()" test-id="account-drop-account-settings-change-password"> Şifre Değiştir </a>
@@ -453,7 +453,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="cerez-ayarlari/" test-id="nav-marketing-preferences" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openchangecookie()" test-id="nav-marketing-preferences" class="ng-star-inserted">
                                               <span class="nav-label">Tanıtım Ayarları</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -478,7 +478,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="javascript:;" onclick="changekyc()" test-id="nav-kyc" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openchangekyc()" test-id="nav-kyc" class="ng-star-inserted">
                                               <span class="nav-label">Hesap Doğrulama</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -1761,7 +1761,7 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="kyc" href="javascript:;" onclick="changekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="kyc" href="javascript:;" onclick="openchangekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
@@ -1996,7 +1996,7 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item" test-id="kyc" href="javascript:;" onclick="changekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item" test-id="kyc" href="javascript:;" onclick="openchangekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <!---->
                             </div>
@@ -2025,7 +2025,7 @@
   <!---->
 </ui-view>
 <ui-view name="overlayBox">
-  <ng-component class="ng-star-inserted" id="changekyc" style="visibility: hidden;">
+  <ng-component class="ng-star-inserted" id="openchangekyc" style="visibility: hidden;">
     <overlay-box cssclasses="modal-open">
       <div class="overlay-box modal kyc" test-id="kyc">
         <div class="content-overlay"></div>
@@ -2043,7 +2043,7 @@
                       <!---->
                     </section>
                     <!---->
-                    <a href="javascript:;" onclick="closekyc()">
+                    <a href="javascript:;" onclick="closechangekyc()">
                   <close test-id="modal-close" class="ng-star-inserted">
                     <div class="close-btn icon-close"></div>
                   </close>
@@ -2071,7 +2071,7 @@
                               <!---->
                             </div>
                             <div class="accordion-wrapper ng-star-inserted" disabled="false">
-                              <a class="accordion-item active" test-id="kyc" href="javascript:;" onclick="changekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
+                              <a class="accordion-item active" test-id="kyc" href="javascript:;" onclick="openchangekyc()"> Belgelerim <i class="fa fa-angle-down icon-triangle"></i>
                               </a>
                               <div class="accordion-content-wrapper ng-star-inserted">
                                 <div class="accordion-content ng-star-inserted">
@@ -2098,6 +2098,150 @@
                       <!---->
                       <!---->
                     </account>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="changecookie" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal customer-consent" test-id="customer-consent">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Çerez Ayarları</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closechangecookie()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <customer-consent class="ng-star-inserted">
+                      <!---->
+                      <form novalidate="" id="customer-consent" name="customerConsentForm" class="ng-touched ng-pristine ng-valid ng-star-inserted">
+                        <section id="logged-in-consent" class="consent-container logged-in">
+                          <!---->
+                          <!---->
+                          <div class="category-title">Kampanyaları Kaçırmayın</div>
+                          <div class="line-toggle ng-star-inserted">
+                            <p>Kayıtlı iletişim bilgileriniz üzerinden bonuslar ve kampanyalarla alakalı haberler almak ister misiniz? Ayarları istediğiniz zaman değiştirebilirsiniz. Detaylı bilgi için <a href="?link=privacy-policy" class="consent-link">gizlilik sözleşmemizi inceleyebilirsiniz</a>
+                            </p>
+                            <div class="toggle-btn-wrap">
+                              <toggle-btn test-id="brand-consent" firstbuttonkey="common.label.yes" secondbuttonkey="common.label.no" class="toggle-btns">
+                                <div class="toggle-btns btn-group">
+                                  <div test-id="toggleFirst" class="btn btn-toggle btn-xs active">Evet</div>
+                                  <div test-id="toggleSecond" class="btn btn-toggle btn-xs">Hayır</div>
+                                </div>
+                              </toggle-btn>
+                            </div>
+                          </div>
+                          <!---->
+                          <div class="media-toggles-container ng-star-inserted">
+                            <p class="media-toggles-error-message">Lütfen en az bir iletişim yöntemi seçiniz.</p>
+                            <div class="media-toggles">
+                              <div class="line-toggle">
+                                <toggle class="media-toggle">
+                                  <div class="toggle-group">
+                                    <div class="toggle on">
+                                      <div class="button"></div>
+                                      <div class="track"></div>
+                                    </div>
+                                  </div>
+                                </toggle>
+                                <label class="media-label">Eposta</label>
+                              </div>
+                              <div class="line-toggle">
+                                <toggle class="media-toggle">
+                                  <div class="toggle-group">
+                                    <div class="toggle on">
+                                      <div class="button"></div>
+                                      <div class="track"></div>
+                                    </div>
+                                  </div>
+                                </toggle>
+                                <label class="media-label">SMS</label>
+                              </div>
+                              <div class="line-toggle">
+                                <toggle class="media-toggle">
+                                  <div class="toggle-group">
+                                    <div class="toggle on">
+                                      <div class="button"></div>
+                                      <div class="track"></div>
+                                    </div>
+                                  </div>
+                                </toggle>
+                                <label class="media-label">Telefon</label>
+                              </div>
+                            </div>
+                          </div>
+                          <!---->
+                          <div class="line-toggle ng-star-inserted">
+                            <p>Size özel kampanya ve duyuruları almak ister misiniz?</p>
+                            <div class="toggle-btn-wrap">
+                              <toggle-btn test-id="telesales-consent" firstbuttonkey="common.label.yes" secondbuttonkey="common.label.no" class="toggle-btns">
+                                <div class="toggle-btns btn-group">
+                                  <div test-id="toggleFirst" class="btn btn-toggle btn-xs active">Evet</div>
+                                  <div test-id="toggleSecond" class="btn btn-toggle btn-xs">Hayır</div>
+                                </div>
+                              </toggle-btn>
+                            </div>
+                          </div>
+                          <!---->
+                          <div class="ng-star-inserted">
+                            <div class="category-title">Çerezleri Düzenle</div>
+                            <div class="line-toggle">
+                              <p class="cookie-consent-text">Bu çerezler sitemiz üzerinden tanıtım ortaklarımız tarafından belirlenebilir. Bunlar, sizin ilgi alanlarınızın bir profilini oluşturmak ve diğer sitelerde sizinle ilgili tanıtımları göstermek için bu şirketler tarafından kullanılabilir. Tarayıcınızı ve internet cihazınızı benzersiz bir şekilde tanımlayabilirler. Bu çerezlere izin vermezseniz, sizinle ilgisiz tanıtımları görebilirsiniz.</p>
+                              <div class="toggle-btn-wrap">
+                                <toggle-btn test-id="manage-cookies" firstbuttonkey="common.label.yes" secondbuttonkey="common.label.no" class="toggle-btns">
+                                  <div class="toggle-btns btn-group">
+                                    <div test-id="toggleFirst" class="btn btn-toggle btn-xs active">Evet</div>
+                                    <div test-id="toggleSecond" class="btn btn-toggle btn-xs">Hayır</div>
+                                  </div>
+                                </toggle-btn>
+                              </div>
+                            </div>
+                          </div>
+                          <!---->
+                          <!---->
+                          <div class="save-container">
+                            <button test-id="customer-consent-save" class="btn btn-lg btn-success">Kaydet</button>
+                            <p class="save-container-text">Bu ayarı istediğiniz zaman değiştirebilirsiniz</p>
+                          </div>
+                        </section>
+                      </form>
+                      <!---->
+                    </customer-consent>
                     <!---->
                     <!---->
                   </ui-view>

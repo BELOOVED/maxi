@@ -129,6 +129,12 @@ $(document).ready(function () {
   function closechangekyc() {
     $("#changekyc").css("visibility", "hidden");
   }
+  function openchangecookie() {
+    $("#changecookie").css("visibility", "visible");
+  }
+  function closechangecookie() {
+    $("#changecookie").css("visibility", "hidden");
+  }
   
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
