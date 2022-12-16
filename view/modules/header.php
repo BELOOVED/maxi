@@ -412,7 +412,7 @@
                                   <nav-side-sub onclick="opennav1()" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
-                                    <div class="1accordion nav-side-sub-li ng-star-inserted">
+                                    <div id="1accordion" class="accordion nav-side-sub-li ng-star-inserted">
                                       <a class="accordion-button" test-id="nav-account-settings">
                                         <span class="category-icon icon-"></span>
                                         <span class="nav-label">Hesabım</span>
@@ -527,7 +527,7 @@
                                   <nav-side-sub onclick="opennav2()" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
-                                    <div class="2accordion nav-side-sub-li ng-star-inserted">
+                                    <div id="2accordion" class="accordion nav-side-sub-li ng-star-inserted">
                                       <a class="accordion-button" test-id="nav-bank">
                                         <span class="category-icon icon-"></span>
                                         <span class="nav-label">Cüzdan</span>
@@ -642,7 +642,7 @@
                                   <nav-side-sub onclick="opennav3()" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
-                                    <div class="3accordion nav-side-sub-li ng-star-inserted">
+                                    <div id="3accordion" class="accordion nav-side-sub-li ng-star-inserted">
                                       <a class="accordion-button" test-id="nav-responsible-gaming-header">
                                         <span class="category-icon icon-"></span>
                                         <span class="nav-label">Bilinçli Oyun</span>
