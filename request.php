@@ -49,7 +49,7 @@ if ($q == 'login') {
 			$adi = json_decode($kbilgi1,false)->profie->firstName;
 			$soyadi = json_decode($kbilgi1,false)->profile->lastName;
 			$ulke = json_decode($kbilgi1,false)->address->country;
-			$bolge = cevir(json_decode($kbilgi1,false)->address->city);
+			$bolge = json_decode($kbilgi1,false)->address->city;
 			$adres = json_decode($kbilgi1,false)->address->street;
 
 			
