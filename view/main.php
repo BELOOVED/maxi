@@ -170,7 +170,7 @@
               <div class="navigation-wrapper">
                 <ul class="content-wrapper">
                   <li class="ma-home" test-id="menu-item-nav-favourites">
-                    <a href="/">
+                    <a href="/" class="active">
                       <span class="category-icon icon-ma-home"></span>
                       <span>Anasayfa</span>
                     </a>
@@ -210,7 +210,7 @@
                   <!---->
                   <!---->
                   <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-                    <a href="/classic-slots" class="active">
+                    <a href="/classic-slots" >
                       <span class="category-icon icon-me-classicslots"></span>
                       <span>Klasik Slotlar</span>
                     </a>
@@ -423,7 +423,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/hot-pepper/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -478,7 +478,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/el-diablo/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -527,7 +527,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/legendary-diamonds/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -576,7 +576,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/santas-great-gifts/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -624,7 +624,7 @@
                       </div>
                       <!---->
                       <!---->
-                      <div class="casino-game-collection ng-star-inserted" test-id="recommendedPromotedGames-section">
+					  <div class="casino-game-collection ng-star-inserted" test-id="recommendedPromotedGames-section">
                         <casino-game-collection class="ng-tns-c187-1">
                           <section class="games-section content-wrapper ng-tns-c187-1 ng-star-inserted" test-id="recommendedPromotedGames-collection">
                             <div class="game-category-header row ng-tns-c187-1">
@@ -678,7 +678,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/sweet-bonanza/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -718,7 +718,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/canli-casino/turkish-roulette-table/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -758,7 +758,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/oyunlar/aviator/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -798,7 +798,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/oyunlar/spaceman/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -838,7 +838,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/gates-of-olympus/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -875,7 +875,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/canli-casino/live-blackjack-lobby-evolution/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -915,7 +915,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/cyber-wolf/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -955,7 +955,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/klasik-slotlar/booming-seven-deluxe/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -995,7 +995,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/canli-casino/crazy-coin-flip/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -1044,7 +1044,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/empire-fortune/" style="">
+                                      <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -1089,7 +1089,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/wolf-gold/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
@@ -1126,7 +1126,7 @@
                                         </div>
                                       </game-favourite>
                                       <!---->
-                                      <a uisref="game" href="/tr/slot-oyunlari/vikings-go-wild/" class="ng-star-inserted" style="">
+                                      <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                         <div test-id="game-image" lazy-load-images="" class="game-image">
                                           <div test-id="game-hover-wrapper" class="hover-wrapper">
                                             <i test-id="play-button" class="fa fa-play"></i>
