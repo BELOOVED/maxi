@@ -1079,7 +1079,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Login-Email" name="field_first" autocomplete="undefined" type="email" placeholder="" test-id="Login-Email" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <input id="Login-Email" name="field_first" type="text" placeholder="" test-id="Login-Email" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <label class="placeholder-label ng-star-inserted">E-posta</label>
                                     <!---->
@@ -1106,7 +1106,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Login-Password" name="field_second" autocomplete="undefined" type="password" placeholder="" test-id="Login-Password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <input id="Login-Password" name="field_second" type="password" placeholder="" test-id="Login-Password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <label class="placeholder-label ng-star-inserted">Şifre</label>
                                     <!---->
