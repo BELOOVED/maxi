@@ -1013,9 +1013,9 @@
 	  </section>
 <?php }?>
 <slider-menu>
-  <section id="sidenav-overlay" class="slider-menu">
-    <div class="slider-menu-background-overlay active"></div>
-    <div id="left-menu" class="slider left-slider left-slider-open" test-id="left-slider-open" style="top:0px;transition:all 0.3s ease 0s; transform: translateX(-100%);">
+  <section id="left-menu" class="slider-menu" style="top:0px;transition:all 0.3s ease 0s; transform: translateX(-100%);">
+    <div id="sidenav-overlay" class="slider-menu-background-overlay active"></div>
+    <div class="slider left-slider left-slider-open" test-id="left-slider-open" >
       <div id="slider-wrapper" class="slider-wrapper" style="--scrollbar-width:0px;">
         <game-search-normal class="menu-search">
           <div name="search-form" class="game-search">
