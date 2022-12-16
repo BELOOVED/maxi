@@ -798,8 +798,8 @@
             </span>
           </span>
         </a>
-				<slider-menu id="sidenav-overlay" style="top:0px;transition:all 0.3s ease 0s; transform: translateX(-100%);">
-				  <section id="left-menu" class="slider-menu">
+				<slider-menu>
+				  <section class="slider-menu">
 					<div class="slider-menu-background-overlay"></div>
 					<div class="slider left-slider left-slider-closed" test-id="left-slider-closed">
 					  <div id="slider-wrapper" class="slider-wrapper" style="--scrollbar-width:0px;">

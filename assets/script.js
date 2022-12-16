@@ -79,8 +79,12 @@ $(document).ready(function () {
   }
   
   function opensidebar() {
-    $("#sidenav-overlay").fadeIn(100);
-    $("#left-menu").css("transform", "translateX(0%)");
+    $(".left-slider").removeClass("left-slider-close").css("transition", ".4s");
+    $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
+  }
+  function closesidebar() {
+    $(".left-slider").removeClass("left-slider-open").css("transition", ".4s");
+    $(".left-slider").addClass("left-slider-close").css("transition", ".4s");
   }
   function openuserbar() {
     $("#sidenav-overlay").fadeIn(100);
