@@ -83,11 +83,12 @@ $(document).ready(function () {
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
     $(".slider-menu-background-overlay").addClass("active").css("transition", ".4s");
   }
-  function closesidebar() {
+  
+  $(".slider-menu-background-overlay").click(function(){
     $(".left-slider").removeClass("left-slider-open");
     $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
     $(".slider-menu-background-overlay").removeClass("active").css("transition", ".4s");
-  }
+    });
   function openuserbar() {
     $("#sidenav-overlay").fadeIn(100);
     $("#user-menu").css("transform", "translateX(0%)");
