@@ -181,7 +181,7 @@
                             <!---->
                             <!---->
                             <li class="link-end ng-star-inserted">
-                              <a href="mesajlar/" id="messages" test-id="messages"> Mesajlar </a>
+                              <a href="javascript:;" onclick="openmessage()" id="messages" test-id="messages"> Mesajlar </a>
                             </li>
                             <!---->
                           </account-drop>
@@ -370,7 +370,7 @@
                                   <nav-side-sub class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <div class="nav-side-sub-li ng-star-inserted" test-id="nav-messages">
-                                      <a href="mesajlar/" test-id="nav-messages" class="ng-star-inserted"> Mesajlar <unread-notification-count class="nav-item unread-counter ng-star-inserted">
+                                      <a href="javascript:;" onclick="openmessage()" test-id="nav-messages" class="ng-star-inserted"> Mesajlar <unread-notification-count class="nav-item unread-counter ng-star-inserted">
                                           <div class="new-messages-module ng-star-inserted">
                                             <div class="new-messages-number">2</div>
                                           </div>
@@ -1296,6 +1296,142 @@
                         <!---->
                       </div>
                     </deposit>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox" id="closemessage" style="visibility: hidden;">
+  <ng-component class="ng-star-inserted">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal messages" test-id="messages">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Mesajlarım</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closemessage()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <oms class="ng-star-inserted">
+                      <!---->
+                      <section id="oms" test-id="oms" class="oms ng-star-inserted">
+                        <div class="controls">
+                          <div class="checkboxes">
+                            <div class="checkbox-wrapper">
+                              <input id="show-expired" name="show-expired" type="checkbox">
+                              <label for="show-expired" class="checkbox-label">Süresi biteni göster</label>
+                            </div>
+                            <div class="checkbox-wrapper ng-star-inserted">
+                              <input id="select-all" type="checkbox" name="select-all">
+                              <label for="select-all" class="checkbox-label">Hepsini Seç</label>
+                            </div>
+                            <!---->
+                          </div>
+                          <div class="buttons">
+                            <button class="btn btn-primary disabled ng-star-inserted">Sil</button>
+                            <!---->
+                          </div>
+                          <!---->
+                        </div>
+                        <div class="data">
+                          <div class="content unread ng-star-inserted">
+                            <hr>
+                            <div class="checkbox-wrapper">
+                              <input type="checkbox" name="checkbox-message-224025072">
+                              <label class="checkbox-label" for="checbox-message-224025072"></label>
+                            </div>
+                            <img class="messages image" src="https://cdnroute.bpsgameserver.com/cmaxi/CasinoMaxi/Common/neutral/image/2022/12/81fb565599a24ab5a094272ea953dae9.jpg" alt="OSM_week_2_20221201_121004">
+                            <div class="message-content">
+                              <div class="send-date">16.12.2022 13:08:38</div>
+                              <h4 class="title">Twinkling Tournament ile 1.200.000 TL Nakit</h4>
+                              <!---->
+                              <div>
+                                <div class="description ng-star-inserted">"2022'yi kazançla noktaladım" demek istiyorsan Twinkling Tournament tam sana göre! Turnuvaya özel oyunlarda minimum bahis koşulu olmadan hemen oyna, bir spinde yakaladığın maksimum kazançla liderlik tablosuna adını yazdır ve Nakit Ödül kazan. Turnuvanın şampiyonunu bekleyen büyük ödül ise tam 200.00 <span class="truncator">... Daha Fazla Oku…</span>
+                                </div>
+                                <!---->
+                                <!---->
+                                <!---->
+                              </div>
+                              <a class="btn btn-success ng-star-inserted" href="https://cmax.io/bns/yilbasinda-uclu-kazanc"> Bilgi Al </a>
+                              <!---->
+                              <!---->
+                            </div>
+                            <!---->
+                          </div>
+                          <div class="content unread ng-star-inserted">
+                            <hr>
+                            <div class="checkbox-wrapper">
+                              <input type="checkbox" name="checkbox-message-224025066">
+                              <label class="checkbox-label" for="checbox-message-224025066"></label>
+                            </div>
+                            <img class="messages image" src="https://cdnroute.bpsgameserver.com/cmaxi/CasinoMaxi/Common/neutral/image/2022/12/23b6280079fa467c9e101102e92f75c5.jpg" alt="OSM_20221207_132337">
+                            <div class="message-content">
+                              <div class="send-date">16.12.2022 13:08:37</div>
+                              <h4 class="title">2023'e Özel 23 Teklifi Kaçırma</h4>
+                              <!---->
+                              <div>
+                                <div class="description ng-star-inserted">Her gün Bonus, Nakit, Freespinlere ulaştıran toplam 23 teklifin her birini değerlendirerek 2023'e kazançlarla başlamak senin elinde! Hemen özel kampanyada yerini al, yeni yıl coşkusunu maksimum düzeyde yaşa!</div>
+                                <!---->
+                                <!---->
+                                <!---->
+                              </div>
+                              <a class="btn btn-success ng-star-inserted" href="https://cmax.io/bns/23-teklif-ile-2023e-odullerle-gir/"> Bilgi Al </a>
+                              <!---->
+                              <!---->
+                            </div>
+                            <div class="terms-and-conditions-accordion ng-star-inserted">
+                              <div class="accordion">
+                                <a class="accordion-button">
+                                  <span class="accordion-label">Şartlar ve Koşullar</span>
+                                  <i class="fa fa-chevron-down icon-triangle"></i>
+                                </a>
+                                <div class="accordion-content">Bu kampanya 12 Aralık 2022 12.00 - 8 Ocak 2023 23.59 tarihleri arasında düzenlenmektedir. <br>Kampanyada yer almak için "Kampanyaya Katıl" butonuna tıklamanız ve kampanyaya başarıyla katılım sağlamanız gerekmektedir. Kampanyaya bir kez katılmanız yeterlidir. <br>Günün teklifi aksi belirtilmedikçe her iş günü veya hafta sonu farketmeksizin her gün 00:00'dan 23:59'a kadar geçerlidir. <br>Her kampanya gününün kendi teklifi olacaktır: teklifi değerlendirme şartları ve ödül teklif tarihine tıklandığında görülebilecektir. <br>Kampanya tekliflerinden yararlanmak için yalnızca nakit para ile oynanan oyunlar geçerlidir. <br>Freespinler, kullanıcı hesabına tanımlandığı andan itibaren yedi (7) gün boyunca belirtilen lobi veya oyunlarda geçerlidir. <br>Freespinlerden elde ettiğiniz kazançlar hesabınıza Bonus olarak tanımlanacak olup Casino'da 30 kez ve/veya Canlı Casino'da 90 kez çevirmelisiniz. Belirtilen süre içinde çevrilmeyen Bonuslar hesabınızdan otomatik olarak silinir. <br>Kampanyada elde ettiğiniz Nakit ödüllerin çevrim koşulu yoktur. Paranızı çekebilir veya dilediğiniz üründe kullanabilirsiniz. <br>Kupon (Voucher), kazandığınız andan itibaren 3 gün boyunca geçerlidir. Kupon (Voucher)'dan elde edilen kazançlar hesabınıza nakit olarak aktarılır ve miktarı 100 TL'yi geçemez. <br>Nakit İade ödülleri, kampanya bitiminden 15 dakika sonra oyuncunun hesabına otomatik olarak tanımlanır. <br>Bonusu iptal etmeniz halinde, hem Bonusu hem de bu bonustan elde edilen kazançları kaybedersiniz. <br>Bu kampanyanın müşteri destek iletişim kodu CRMS-9047'dir. <br>CasinoMaxi, kampanyayı suistimal ederek haksız kazanç elde etmeye çalışan ve CasinoMaxi Genel Şartlar ve Koşulları'nı ihlal eden kullanıcıların hesaplarını kapatma hakkını saklı tutar. <br>CasinoMaxi, önceden haber vermeksizin herhangi bir zamanda ve herhangi bir nedenle bu kampanyanın Şart ve Koşullarını değiştirme, kampanyayı durdurma ve sona erdirme hakkını saklı tutar. <br>CasinoMaxi, bonus çevrim şartlarını yada kampanyayı genel olarak suistimal ederek haksız kazanç elde etmeye çalışan kullanıcıların, hesaplarını kapatma hakkı saklı tutulur. </div>
+                              </div>
+                            </div>
+                            <!---->
+                          </div>
+                          <!---->
+                          <!---->
+                          <!---->
+                          <!---->
+                          <!---->
+                        </div>
+                        <!---->
+                      </section>
+                      <!---->
+                    </oms>
                     <!---->
                     <!---->
                   </ui-view>

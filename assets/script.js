@@ -106,6 +106,12 @@ $(document).ready(function () {
     $(".balance-dropdown").addClass("open").css("transition", ".4s");
     }
   }
+  function openmessage() {
+    $("#closemessage").css("visibility", "visible");
+  }
+  function closemessage() {
+    $("#closemessage").css("visibility", "hidden");
+  }
   
   
   
