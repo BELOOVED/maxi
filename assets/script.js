@@ -95,10 +95,7 @@ $(document).ready(function () {
     $("#closedloginclose").css("visibility", "hidden");
   }
   
-  function openuserbar() {
-    $("#sidenav-overlay").fadeIn(100);
-    $("#user-menu").css("transform", "translateX(0%)");
-  }
+  
   function closesidebar() {
     $("#sidenav-overlay").fadeOut(100);
     $("#left-menu").css("transform", "translateX(-100%)");
