@@ -9,9 +9,9 @@ date_default_timezone_set('Europe/Istanbul');
 
 // Database Info
 const DB_HOST = "localhost";
-const DB_LOGIN = "u1808_jojo";
-const DB_PASS = 'Eyln8159_';
-const DB_NAME = "u1808648_jojo";
+const DB_LOGIN = "maxi_123";
+const DB_PASS = '!12vW0jy9';
+const DB_NAME = "maxi_123";
 const SYSNAME = 'Jojobet';
 const ENV = 'prod';
 
