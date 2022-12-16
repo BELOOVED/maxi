@@ -84,10 +84,10 @@ $(document).ready(function () {
     $(".slider-menu-background-overlay").addClass("active").css("transition", ".4s");
   }
   
-  $(".slider-menu-background-overlay").click(function(){
+  $("#sliderclosedoverlay").click(function(){
     $(".left-slider").removeClass("left-slider-open");
     $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
-    $(".slider-menu-background-overlay").removeClass("active").css("transition", ".4s");
+    $(".slider-menu-background-overlay").removeClass("active");
     });
   function openuserbar() {
     $("#sidenav-overlay").fadeIn(100);
