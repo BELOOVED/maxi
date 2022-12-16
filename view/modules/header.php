@@ -1105,10 +1105,9 @@
                   <login class="ng-star-inserted">
                     <!---->
                     <!---->
-                    <form test-id="login-modal" id="login_form" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
+                    <form id="login_form" class="login-fields ng-untouched ng-pristine ng-invalid ng-star-inserted">
                     <div class="loginSteps">
         <div class="step_1"> 
-                    <form-input-material fieldtype="email" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
                         <div class="field clearfix ng-untouched ng-pristine ng-invalid">
                           <div class="input">
                             <div class="clearfix">
@@ -1118,7 +1117,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Login-Email" name="field_first" type="text" placeholder="" test-id="Login-Email" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <input name="field_first" type="text"  class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <label class="placeholder-label ng-star-inserted">E-posta</label>
                                     <!---->
@@ -1134,8 +1133,6 @@
                           </div>
                           <!---->
                         </div>
-                      </form-input-material>
-                      <form-input-material fieldtype="password" formtextuals="login" class="ng-untouched ng-pristine ng-invalid">
                         <div class="field clearfix ng-untouched ng-pristine ng-invalid">
                           <div class="input">
                             <div class="clearfix">
@@ -1145,7 +1142,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Login-Password" name="field_second" type="password" placeholder="" test-id="Login-Password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
+                                    <input id="Login-Password" name="field_second" type="password" class="placeholder-label-active ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <label class="placeholder-label ng-star-inserted">Şifre</label>
                                     <!---->
@@ -1161,7 +1158,6 @@
                           </div>
                           <!---->
                         </div>
-                      </form-input-material>
                       <div id="step_2" class="dnone">
                                                                                 </div>
 </div>
