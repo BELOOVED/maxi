@@ -1320,7 +1320,7 @@
         let passport_status = <?= intval($main['passport_status']) ?>;
     </script>
 <script>
-    function loginoralert(logged){if(logged){Swal.fire("Yetersiz Bakiye","Lütfen bakiyenizi güncelledikten sonra tekrar deneyin","warning").then((res)=>{if(res.value==true){}});}else{Swal.fire("","Lütfen hesabınıza giriş yapın","warning");}}
+    function loginoralert(){if(logged){Swal.fire("Yetersiz Bakiye","Lütfen bakiyenizi güncelledikten sonra tekrar deneyin","warning").then((res)=>{if(res.value==true){}});}else{Swal.fire("","Lütfen hesabınıza giriş yapın","warning");}}
 </script>
 
 </html>
