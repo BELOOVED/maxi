@@ -206,9 +206,4 @@ function islemgeçmsi(){
 
     }
 }
-
-
-login("uludagahmet69@gmail.com","Ahmet1112");
-echo (para());
-print_r (bilgi());
-print_r (islemgeçmsi());
+?>
