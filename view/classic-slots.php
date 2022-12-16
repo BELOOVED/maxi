@@ -210,7 +210,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/take-5/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -259,7 +259,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/777-strike/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -296,7 +296,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/fire-hot-40/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -333,7 +333,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/dynamite-miner/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -382,7 +382,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/fancy-fruits/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -431,7 +431,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/fire-strike-2/" style="">
+                                <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -468,7 +468,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/triple-royal-gold/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -517,7 +517,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/20-flaring-fruits/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -566,7 +566,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/fruits-n-stars/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -603,7 +603,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/burning-diamonds/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -652,7 +652,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/disco-danny/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -689,7 +689,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/lightning-joker/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -726,7 +726,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/cheeky-fruits/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -775,7 +775,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/100k-joker/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -824,7 +824,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/neon-fruity-cityscape/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -861,7 +861,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/neon-fruit/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -898,7 +898,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/mega-burning-wins/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -935,7 +935,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/booming-seven-deluxe/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -975,7 +975,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/super-triple-7s/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1012,7 +1012,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/joker-super-reels/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1049,7 +1049,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/hell-hot-100/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1086,7 +1086,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/ultra-hold-and-spin/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1123,7 +1123,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/joker-stoker/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1160,7 +1160,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/joker-megaways/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1197,7 +1197,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/sticky-joker/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1234,7 +1234,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/2022-hit-slot/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1271,7 +1271,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/red-diamond/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1320,7 +1320,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/burning-wins/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1357,7 +1357,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/chance-machine-100/" style="">
+                                <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1394,7 +1394,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/jester-spins/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1431,7 +1431,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/hell-hot-20/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1468,7 +1468,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/blue-diamond/" style="">
+                                <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1522,7 +1522,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/mega-hot-wild/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1559,7 +1559,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/joker-jackpots/" style="">
+                                <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1601,7 +1601,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/triple-action-joker/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1638,7 +1638,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/big-win-777/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1675,7 +1675,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/fire-strike/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1712,7 +1712,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/super-joker/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1749,7 +1749,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/super-steppa/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1786,7 +1786,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/jackpot-6000/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -1823,7 +1823,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/italia-3x3/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i>
                                     </div>
@@ -1854,7 +1854,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/klasik-slotlar/mystery-joker-6000/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngomysteryjoker6000.thumbnail.344x220_v5.jpg">
                                     <!---->
                                     <!---->
@@ -1884,7 +1884,7 @@
                               <div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilTheDarkJokerRizes"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/the-dark-joker-rizes/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Dark Joker Rizes" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/04/game.yggdrasilTheDarkJokerRizes.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -1912,7 +1912,7 @@
                           <li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoMysteryJoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/mystery-joker/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="play Mystery Joker" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/03/game.playngoMysteryJoker.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -1937,7 +1937,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoHugoGoal"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/hugo-goal/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoHugoGoal.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -1962,7 +1962,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoFireJoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/fire-joker/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Fire Joker" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoFireJoker.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -1987,7 +1987,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilJokerizer"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/jokerizer/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.yggdrasilJokerizer.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2012,7 +2012,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="reevoFengShuiKittens"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/feng-shui-kitties/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Feng Shui Kitties" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/06/game.reevoFengShuiKittens.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2029,7 +2029,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="relaxPowerspin"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/powerspin/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Powerspin" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.relaxPowerspin.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2046,7 +2046,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="MegaJoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mega-joker/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺282.250 </span></span></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺282.250 </span></span></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="play Mega Joker" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.MegaJoker.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2071,7 +2071,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlayFireHot100"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/fire-hot-100/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Fire Hot 100" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.pragmaticPlayFireHot100.thumbnail.344x220_v5.jpg">
                                     <!---->
                                     <!---->
@@ -2088,7 +2088,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="yggdrasilWickedCircus"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/wicked-circus/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.yggdrasilWickedCircus.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2113,7 +2113,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="nlcStarstruck"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/starstruck/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/03/game.nlcStarstruck.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2130,7 +2130,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlayFireHot20"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/fire-hot-20/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Fire Hot 20" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.pragmaticPlayFireHot20.thumbnail.344x220_v5.jpg">
                                     <!---->
                                     <!---->
@@ -2147,7 +2147,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincMegaHot10"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/mega-hot-10/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Mega Hot 10" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.gamesincMegaHot10.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2164,7 +2164,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoBigWinCat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/big-win-cat/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Big Win Cat" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2017/11/game.playngoBigWinCat.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2181,7 +2181,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlayFireHot5"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/fire-hot-5/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Fire Hot 5" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.pragmaticPlayFireHot5.thumbnail.344x220_v5.jpg">
                                     <!---->
                                     <!---->
@@ -2206,7 +2206,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincRandomJokerJackpots"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/random-joker-jackpots/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.779 </span></span></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺1.021.779 </span></span></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Random Joker Jackpots" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/08/game.gamesincRandomJokerJackpots.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2223,7 +2223,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="relaxEpicJokers"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/epic-joker/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/11/game.relaxEpicJokers.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2240,7 +2240,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="reevoRoyalSevenXxl"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/royal-seven-xxl/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Royal Seven XXL" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/08/game.reevoRoyalSevenXXL.thumbnail.344x220.png">
                                     <!---->
                                     <!---->
@@ -2265,7 +2265,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderSpooky5000"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/spooky-5000/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Spooky 5000" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/11/game.leanderSpooky5000.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2290,7 +2290,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincMegaHot40"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/mega-hot-40/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/01/game.gamesincMegaHot40.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2307,7 +2307,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincGoldenJokersWild"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/golden-jokers-wild/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.gamesincGoldenJokersWild.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2324,7 +2324,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoGoldenGoal"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/golden-goal/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="play Golden Goal" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoGoldenGoal.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2349,7 +2349,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincRandomSteppa"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/random-steppa/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/04/game.gamesincRandomSteppa.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2366,7 +2366,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincMysteryJackpotSpinner"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/mystery-jackpot-spinner/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/03/game.gamesincMysteryJackpotSpinner.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2383,7 +2383,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincStarsAndJokers"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/stars-and-jokers/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/10/game.gamesincStarsAndJokers.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2408,7 +2408,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlayTripleDragons"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/triple-dragons/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Triple Dragons" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/12/game.pragmaticPlayTripleDragons.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2425,7 +2425,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincClubRenoWild"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/club-reno-wild/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/02/game.GamesIncClubRenoWild.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2442,7 +2442,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlayFire88"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/fire-88/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Fire 88" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/12/game.pragmaticPlayFire88.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2459,7 +2459,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlayAztecGems"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/aztec-gems/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Aztec Gems" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/02/game.pragmaticPlayAztecGems.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2476,7 +2476,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincRandomWinnerTriplePlay"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/random-winner-triple-play/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/10/game.GamesIncRandomWinnerTriplePlay.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2493,7 +2493,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoSweet27"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/sweet-27/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Sweet 27" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoSweet27.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2518,7 +2518,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="pragmaticPlay888Dragons"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/888-dragons/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="888 Dragons" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/02/game.pragmaticPlay888Dragons.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2535,7 +2535,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="leanderClubReno"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/club-reno/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Club Reno" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/09/game.leanderClubReno.thumbnail.344x220.jpg">
                                     <!---->
                                     <!---->
@@ -2560,7 +2560,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoSpeedCash"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/speed-cash/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Speed Cash" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoSpeedCash.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2585,7 +2585,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoGiftShop"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/gift-shop/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="play Gift Shop" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngoGiftShop.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2610,7 +2610,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoAceOfSpades"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/ace-of-spades/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngoAceOfSpades.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2635,7 +2635,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoWildMelon"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/wild-melon/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngoWildMelon.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2660,7 +2660,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoLuckyDiamonds"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/lucky-diamonds/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.playngoLuckyDiamonds.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2677,7 +2677,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoXmasJoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/xmas-joker/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoXmasJoker.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2702,7 +2702,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngoBellOfFortune"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/bell-of-fortune/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div><div class="icon-jackpots jackpot ng-star-inserted"><span><span class="jackpot-value"> ₺35.636 </span></span></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngoBellOfFortune.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2727,7 +2727,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="playngo5xmagic"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/klasik-slotlar/5-x-magic/" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="5xMagic" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2018/08/game.playngo5xMagic.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2752,7 +2752,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincUpgradeFever"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/upgrade-fever/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Upgrade Fever" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/09/game.gamesincUpgradeFever.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->
@@ -2769,7 +2769,7 @@
                               </div></obg-casino-game-thumbnail></li><li class="game-container ng-tns-c187-3 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c187-3"><div test-id="game-thumbnail" class="game-thumbnail" game-id="gamesincHot2Drop"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                     <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                                   </div></game-favourite>
-                                <!----><a uisref="game" href="/tr/klasik-slotlar/hot-2-drop/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                                <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                     <!----><img class="thumbnail-img ng-star-inserted" alt="Hot 2 Drop" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/09/game.gamesincHot2Drop.thumbnail.344x220_v3.jpg">
                                     <!---->
                                     <!---->

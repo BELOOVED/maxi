@@ -210,7 +210,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/spaceman/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -250,7 +250,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/oyunlar/shooot/" style="">
+                                <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -292,7 +292,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/oyunlar/pop/" style="">
+                                <a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -334,7 +334,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/happy-scratch/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -371,7 +371,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/lucky-scratch/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -408,7 +408,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/queen-treasure/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -445,7 +445,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/lucky-numbers-x8/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -482,7 +482,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/scratchy/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -519,7 +519,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/lucky-numbers-x16/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -556,7 +556,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/slot-oyunlari/panda-gold-10000/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -593,7 +593,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/dream-car-suv/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -630,7 +630,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/out-of-this-world-scratch/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -667,7 +667,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/magic-mystery-money-scratch/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -704,7 +704,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/slot-oyunlari/queen-of-gold-100000/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -741,7 +741,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/slot-oyunlari/diamond-strike-100000/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -778,7 +778,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/lucky-gems-slot/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -815,7 +815,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/slot-oyunlari/7-piggies-5000/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -852,7 +852,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/oyunlar/well-of-wonders/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>
@@ -889,7 +889,7 @@
                                   </div>
                                 </game-favourite>
                                 <!---->
-                                <a uisref="game" href="/tr/slot-oyunlari/hot-safari-50000/" class="ng-star-inserted" style="">
+                                <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                                   <div test-id="game-image" lazy-load-images="" class="game-image">
                                     <div test-id="game-hover-wrapper" class="hover-wrapper">
                                       <i test-id="play-button" class="fa fa-play"></i>

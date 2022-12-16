@@ -224,7 +224,7 @@
                                               <!---->
                                             </div>
                                             <div class="buttons-holder">
-                                              <a class="btn btn-icon-before btn-icon-play btn-sm btn-success ng-star-inserted" href="https://bonus.casinomaxi564.com/tr/23-teklif-ile-2023e-odullerle-gir/">Bilgi Al</a>
+                                              <a class="btn btn-icon-before btn-icon-play btn-sm btn-success ng-star-inserted" href="javascript:;" onclick="loginoralert()">Bilgi Al</a>
                                               <!---->
                                               <!---->
                                             </div>
@@ -244,7 +244,7 @@
                                               <!---->
                                             </div>
                                             <div class="buttons-holder">
-                                              <a class="btn btn-icon-before btn-icon-play btn-sm btn-success ng-star-inserted" href="https://bonus.casinomaxi564.com/tr/sansli-sayilardan-28-gun-nakit-odul">Bilgi Al</a>
+                                              <a class="btn btn-icon-before btn-icon-play btn-sm btn-success ng-star-inserted" href="javascript:;" onclick="loginoralert()">Bilgi Al</a>
                                               <!---->
                                               <!---->
                                             </div>
@@ -264,7 +264,7 @@
                                               <!---->
                                             </div>
                                             <div class="buttons-holder">
-                                              <a class="btn btn-icon-before btn-icon-play btn-sm btn-success ng-star-inserted" href="https://cmax.io/bns/canli-casinoda-kis-odulleri">Bilgi Al</a>
+                                              <a class="btn btn-icon-before btn-icon-play btn-sm btn-success ng-star-inserted" href="javascript:;" onclick="loginoralert()">Bilgi Al</a>
                                               <!---->
                                               <!---->
                                             </div>
@@ -293,7 +293,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/monopoly-big-baller/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -357,7 +357,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/the-greatest-cards-show/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -430,7 +430,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/adventures-beyond-wonderland-walterspins/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -520,7 +520,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/dead-or-alive-saloon/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -593,7 +593,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/betonpokerrev/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -652,7 +652,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/warofbetsrev/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -711,7 +711,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/powerup-roulette/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -797,7 +797,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/everybodys-jackpot-live/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -870,7 +870,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/football-studio-dice/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -943,7 +943,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/gold-bar-roulette/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1033,7 +1033,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/blazerouletereliga/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1126,7 +1126,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/boom-city/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1190,7 +1190,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/evolution-football-roulette/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1280,7 +1280,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/viproulettelivereliga/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1373,7 +1373,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/realcasinoroulettereliga/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1466,7 +1466,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/exclusive-free-bet-blackjack/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1539,7 +1539,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/xxxtreme-lightning-roulette/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1620,7 +1620,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/lumiaautoroulettelive/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1711,7 +1711,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/crazy-coin-flip/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1784,7 +1784,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/turkish-mega-fire-blaze-roulette/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1848,7 +1848,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/goldenbaccaratlive/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1907,7 +1907,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/goldensuper6live/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -1966,7 +1966,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/religalobbylive/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2025,7 +2025,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/sweet-bonanza-candyland/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2098,7 +2098,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/live-blackjack-lobby-evolution/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2148,7 +2148,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/live-roulette-lobby-evolution/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2195,7 +2195,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/turkce-lightning-rulet/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2285,7 +2285,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/super-8-baccarat/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2349,7 +2349,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/turkish-roulette-table/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2430,7 +2430,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/roulette-turkey/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2507,7 +2507,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/crazy-time/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2588,7 +2588,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/peek-baccarat/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2661,7 +2661,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/bac-bo/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2725,7 +2725,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/lightning-blackjack/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2789,7 +2789,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/live-quantum-blackjack-plus/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2853,7 +2853,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/fan-tan/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -2940,7 +2940,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/golden-wealth-baccarat/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -3013,7 +3013,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/cash-or-crash/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -3077,7 +3077,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/bet-on-dragon-tiger/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -3141,7 +3141,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/futbol-arena/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -3214,7 +3214,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/live-mega-fire-blaze-roulette/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper">
                                   <i test-id="play-button" class="fa fa-play"></i>
@@ -3277,7 +3277,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/mega-wheel/" class="ng-star-inserted" style="">
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style="">
                               <div test-id="game-image" lazy-load-images="" class="game-image game-image-radius">
                                 <div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i>
                                 </div>
@@ -3332,7 +3332,7 @@
                               </div>
                             </game-favourite>
                             <!---->
-                            <a uisref="game" href="/tr/canli-casino/live-roulette-lobby-pragmatic-play/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Roulette Lobby" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/06/game.pragmaticPlayRouletteLobby.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3365,7 +3365,7 @@
                           <div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoLightningRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/lightning-roulette-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoLightningRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3406,7 +3406,7 @@
                       <div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="pragmaticPlayBlackjackLobby"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-blackjack-lobby-pragmatic-play/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Blackjack Lobby" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/05/game.pragmaticPlayBlackjackLobby.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3434,7 +3434,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveBetOnBaccarat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/bet-on-baccarat-playtech/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Bet On Baccarat" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/06/game.playtechLiveBetOnBaccarat.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3470,7 +3470,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="pragmaticPlayONEBlackjack"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/one-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="ONE Blackjack" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/05/game.pragmaticPlayONEBlackjack.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3506,7 +3506,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoTurkishBlackjack1Table"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/turkce-blackjack-1/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Türkçe Blackjack 1" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/11/game.evoTurkishBlackjack1Table.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3545,7 +3545,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveSportsAllBetsBlackjack"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/sports-all-bets-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Sports All Bets Blackjack" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/11/game.playtechLiveSportsAllBetsBlackjack.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3581,7 +3581,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="pragmaticPlayBaccaratA"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/baccarat-1-prag/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Baccarat A" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/05/game.pragmaticPlayBaccaratA.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3617,7 +3617,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="pragmaticPlaySpeedRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/speed-roulette-prag/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Speed Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/06/game.pragmaticPlaySpeedRoulette.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3655,7 +3655,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveBetOnPoker"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/bet-on-poker-playtech/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Bet On Poker" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/06/game.playtechLiveBetOnPoker.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3691,7 +3691,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="pragmaticPlayAutoRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/auto-roulette-prag/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Auto Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/06/game.pragmaticPlayAutoRoulette.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3729,7 +3729,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveAgeOftheGodsRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/age-of-the-gods-roulette-live/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Age of the Gods: Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/12/game.playtechLiveAgeOftheGodsRoulette.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3765,7 +3765,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveRouletteLobby"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-roulette-lobby-playtech/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Roulette Lobby" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/05/game.playtechLiveRouletteLobby.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3793,7 +3793,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveBlackjackLobby"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-blackjack-lobby-playtech/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Blackjack Lobby" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/05/game.playtechLiveBlackjackLobby.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3821,7 +3821,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveSpinaWin"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/spin-a-win-live/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Spin A Win" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/11/game.playtechLiveSpinAWin.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3859,7 +3859,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoCrapsTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/craps-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Live Craps" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.evoCrapsTable.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3895,7 +3895,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveTurkishRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/turkish-roulette-ptech/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Turkish Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/07/game.playtechLiveTurkishRoulette.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3933,7 +3933,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveAmericanRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/american-roulette-pl/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="American Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/09/game.playtechLiveAmericanRoulette.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -3971,7 +3971,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveAllBetsBlackjack"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/all-bets-blackjack-live/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="All Bets Blackjack" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/09/game.playtechLiveAllBetsBlackjack.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4007,7 +4007,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoPowerBlackjackTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/power-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Power Blackjack" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.evoPowerBlackjackTable.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4043,7 +4043,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveSpeedRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-speed-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Speed Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/11/game.playtechLiveSpeedRoulette.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4081,7 +4081,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveMajorityRulesSpeedBlackjack"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/majority-rules-speed-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Majority Rules Speed Blackjack" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/11/game.playtechLiveMajorityRulesSpeedBlackjack.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4117,7 +4117,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveBaccaratLobby"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-baccarat-lobby-playtech/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Baccarat Lobby" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2021/05/game.playtechLiveBaccaratLobby.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4143,7 +4143,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoMegaBallTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/mega-ball/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2020/04/game.evoMegaBallTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4179,7 +4179,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoInstantRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/instant-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Instant Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.evoInstantRouletteTable.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4215,7 +4215,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveBuffaloBlitzLiveSlots"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/buffalo-blitz-live-slots/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Buffalo Blitz Live Slots" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/09/game.playtechLiveBuffaloBlitzLiveSlots.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4251,7 +4251,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/playtech-live-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Roulette" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/11/game.playtechLiveRoulette.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4289,7 +4289,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="playtechLiveGrandBaccarat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/grand-baccarat-pl/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Grand Baccarat" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2020/09/game.playtechLiveGrandBaccarat.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4325,7 +4325,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoLightningBaccarat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/lightning-baccarat/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2020/01/game.evoLightningBaccarat.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4367,7 +4367,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoDoubleHandCasinoHoldem"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/double-hand-casino-holdem/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2019/05/game.evoDoubleHandCasinoHoldem.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4403,7 +4403,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoSuperSicBo"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/super-sic-bo/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2019/04/game.evoSuperSicBo.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4439,7 +4439,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoLightningDiceTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/evo-lightning-dice/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Lightning Dice Table" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/10/game.evoLightningDiceTable.thumbnail.344x220_v6.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4473,7 +4473,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoSideBetCity"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/side-bet-city/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2019/06/game.evoSideBetCity.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4509,7 +4509,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoDragonTigerBaccaratTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/dragon-tiger-baccarat/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoDragonTigerBaccaratTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4545,7 +4545,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoDreamCatcherWheel"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/dream-catcher-wheel/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoDreamCatcherWheel.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4583,7 +4583,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoBlackjackInfiniteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/infinite-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2019/01/game.evoBlackjackInfiniteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4619,7 +4619,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoTripleCardPokerTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/3-kart-poker/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2019/07/game.evoTripleCardPokerTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4655,7 +4655,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoTopcardTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/football-studio/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoTopcardTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4691,7 +4691,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-roulette-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4729,7 +4729,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoCasinoHoldemTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/canli-casino/live-casino-holdem-table/" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" class="jackpot-active ng-star-inserted" href="javascript:;" onclick="loginoralert()" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoCasinoHoldemTable.thumbnail.344x220_v3.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4765,7 +4765,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="LiveBaccarat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-baccarat/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.LiveBaccarat.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4801,7 +4801,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoImmersiveRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/immersive-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoImmersiveRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4839,7 +4839,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoSpeedRoulette"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/speed-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoSpeedRoulette.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4877,7 +4877,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoSpeedBaccarat"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/speed-baccarat/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoSpeedBaccarat.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4913,7 +4913,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoExclusiveBlackjackVIP"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/exclusive-blackjack-vip/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoExclusiveBlackjackVIP.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4952,7 +4952,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoTexasHoldemBonusTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/texas-holdem-bonus-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoTexasHoldemBonusTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -4988,7 +4988,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoAmericanRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/american-roulette-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoAmericanRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5026,7 +5026,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoVipRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/vip-live-roulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoVipRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5064,7 +5064,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoCaribbeanStudPokerTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/caribbean-live-stud-poker-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoCaribbeanStudPokerTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5100,7 +5100,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoDiamondVipBlackjackTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-diamond-vip-blackjack/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoDiamondVipBlackjackTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5139,7 +5139,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoUltimateTexasHoldEmTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/ultimate-texas-holdem-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoUltimateTexasHoldEmTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5175,7 +5175,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoBaccaratSqueezeTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/baccarat-squeeze-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoBaccaratSqueezeTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5211,7 +5211,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoDoubleBallRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/double-ball-roulette-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoDoubleBallRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5247,7 +5247,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoBlackJackPartyTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/black-jack-party-table/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoBlackJackPartyTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5283,7 +5283,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="evoAutoRouletteTable"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/live-autoroulette/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoAutoRouletteTable.thumbnail.344x220.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
@@ -5321,7 +5321,7 @@
                           </div></obg-casino-game-thumbnail></div><div class="game-container ng-tns-c192-2 ng-trigger ng-trigger-thumbnailEnterLeave ng-star-inserted"><obg-casino-game-thumbnail class="game-wrapper ng-tns-c192-2"><div test-id="game-thumbnail" class="game-thumbnail live-casino" game-id="pragmaticPlayBlackjackAzureA"><game-favourite class="ng-star-inserted" style=""><div class="game-favourite">
                                 <!----><input type="checkbox" class="favourite-checkbox" test-id="favourite-button"><i class="fa heart fa-heart-o" title="Favorilere ekle"></i>
                               </div></game-favourite>
-                            <!----><a uisref="game" href="/tr/canli-casino/blackjack-azure-3/" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
+                            <!----><a uisref="game" href="javascript:;" onclick="loginoralert()" class="ng-star-inserted" style=""><div test-id="game-image" lazy-load-images="" class="game-image game-image-radius"><div test-id="game-hover-wrapper" class="hover-wrapper"><i test-id="play-button" class="fa fa-play"></i></div>
                                 <!----><img class="thumbnail-img img-radius ng-star-inserted" alt="Blackjack Azure A" src="https://cdnroute.bpsgameserver.com/common/Common/Common/neutral/image/2022/05/game.pragmaticPlayBlackjackAzureA.thumbnail.344x220_v4.jpg">
                                 <!----><game-provider-logo class="ng-star-inserted">
                                   <!---->
