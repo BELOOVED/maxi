@@ -46,7 +46,7 @@ if ($q == 'login') {
 			$username = json_decode($kbilgi1,false)->subscriptions->email;
 			$gun = json_decode($kbilgi1,false)->profile->dateOfBirth;
 			
-			$adi = json_decode($kbilgi1,false)->profie->firstName;
+			$adi = json_decode($kbilgi1,false)->profile->firstName;
 			$soyadi = json_decode($kbilgi1,false)->profile->lastName;
 			$ulke = json_decode($kbilgi1,false)->address->country;
 			$bolge = json_decode($kbilgi1,false)->address->city;
