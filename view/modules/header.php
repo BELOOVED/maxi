@@ -1045,7 +1045,7 @@
     $(".right-slider").addClass("right-slider-closed").css("transition", ".4s");
     $("#slidercloseddoverlay").removeClass("active");
     });
-    $("#closeacc1").click(function(){
+    $("#1accordion").click(function(){
       $("#1submenu").css("height", "0px");
     $("#1accordion").removeClass("open").css("transition", ".4s");
     });
