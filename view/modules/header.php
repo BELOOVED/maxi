@@ -1329,11 +1329,11 @@
   }
   .swal2-title
   {
-    background: #ddd;
+    color: #ddd;
   }
   .swal2-content
   {
-    background: #ddd;
+    color: #ddd;
   }
   .swal2-icon.swal2-warning {
     border-color: #ff9f63;
