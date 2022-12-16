@@ -409,7 +409,7 @@
                                     <!---->
                                     <!---->
                                   </nav-side-sub>
-                                  <nav-side-sub onclick="opennav1()" class="nav-side-sub ng-star-inserted">
+                                  <nav-side-sub id="ssubmenu1" onclick="opennav1()" class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <!---->
                                     <div class="accordion nav-side-sub-li ng-star-inserted">
@@ -418,7 +418,7 @@
                                         <span class="nav-label">Hesabım</span>
                                         <i class="fa fa-chevron-down icon-triangle"></i>
                                       </a>
-                                      <div class="nav-item-submenu1" style="height: 0px;">
+                                      <div class="nav-item-submenu" style="height: 0px;">
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
@@ -533,7 +533,7 @@
                                         <span class="nav-label">Cüzdan</span>
                                         <i class="fa fa-chevron-down icon-triangle"></i>
                                       </a>
-                                      <div class="nav-item-submenu2" style="height: 0px;">
+                                      <div class="nav-item-submenu" style="height: 0px;">
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
@@ -648,7 +648,7 @@
                                         <span class="nav-label">Bilinçli Oyun</span>
                                         <i class="fa fa-chevron-down icon-triangle"></i>
                                       </a>
-                                      <div class="nav-item-submenu3" style="height: 0px;">
+                                      <div class="nav-item-submenu" style="height: 0px;">
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <a class="icons-items ng-star-inserted" href="bilincli-oyun/bilgi/" test-id="nav-responsible-gaming-info">
@@ -1045,8 +1045,8 @@
     $(".right-slider").addClass("right-slider-closed").css("transition", ".4s");
     $("#slidercloseddoverlay").removeClass("active");
     });
-    $(".nav-item-submenu1").click(function(){
-      $(".nav-item-submenu1").css("height", "0px");
+    $("#ssubmenu1").click(function(){
+      $(".nav-item-submenu").css("height", "0px");
     $(".accordion").removeClass("open").css("transition", ".4s");
     });
 </script>
