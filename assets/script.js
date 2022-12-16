@@ -81,7 +81,7 @@ $(document).ready(function () {
   function opensidebar() {
     $(".left-slider").removeClass("left-slider-closed");
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
-    $(".slider-menu-background-overlay").addClass("active");
+    $("#sliderclosedoverlay").addClass("active");
   }
   function openuserbar() {
     $(".right-slider").removeClass("right-slider-closed");
