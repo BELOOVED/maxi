@@ -84,10 +84,10 @@ $(document).ready(function () {
     $(".slider-menu-background-overlay").addClass("active");
   }
   function openlogin() {
-    $(".ng-star-inserted").css("display", "flex");
+    $(".ng-star-inserted").css("visibility:", "visible");
   }
   function closelogin() {
-    $(".ng-star-inserted").css("display", "none");
+    $(".ng-star-inserted").css("visibility", "hidden");
   }
   
   function openuserbar() {

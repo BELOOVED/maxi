@@ -1264,7 +1264,7 @@
 		</ui-view>
 		<!---->
 		<ui-view name="overlayBox">
-		<ng-component class="ng-star-inserted" style="display : none;">
+		<ng-component class="ng-star-inserted" style="visibility: hidden;">
   <overlay-box cssclasses="modal-open">
     <div class="overlay-box modal login" test-id="login">
       <div class="content-overlay"></div>
