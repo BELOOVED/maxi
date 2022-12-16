@@ -83,6 +83,11 @@ $(document).ready(function () {
     $(".left-slider").addClass("left-slider-open").css("transition", ".4s");
     $(".slider-menu-background-overlay").addClass("active");
   }
+  function openuserbar() {
+    $(".right-slider").removeClass("right-slider-closed");
+    $(".right-slider").addClass("right-slider-open").css("transition", ".4s");
+    $(".slider-menus-background-overlay").addClass("active");
+  }
   function openlogin() {
     $("#closedloginclose").css("visibility", "visible");
   }

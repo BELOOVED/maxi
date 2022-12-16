@@ -32,7 +32,7 @@
           </a>
           <slider-menu>
             <section class="slider-menu">
-              <div class="slider-menu-background-overlay"></div>
+              <div id="sliderclosedoverlay" class="slider-menu-background-overlay"></div>
               <div class="slider left-slider left-slider-closed" test-id="left-slider-closed">
                 <div id="slider-wrapper" class="slider-wrapper" style="--scrollbar-width:0px;">
                   <game-search-normal class="menu-search">
@@ -305,7 +305,7 @@
                   <!---->
                   <slider-menu class="ng-star-inserted">
                     <section class="slider-menu">
-                      <div class="slider-menu-background-overlay"></div>
+                      <div id="slidercloseddoverlay" class="slider-menus-background-overlay"></div>
                       <div class="slider right-slider right-slider-closed" test-id="right-slider-closed">
                         <div id="slider-wrapper" class="slider-wrapper">
                           <div class="nav-side-right">
@@ -1026,6 +1026,11 @@
 <?php }?>
 <script type="text/javascript">
   $("#sliderclosedoverlay").click(function(){
+    $(".left-slider").removeClass("left-slider-open");
+    $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
+    $(".slider-menu-background-overlay").removeClass("active");
+    });
+    $("#slidercloseddoverlay").click(function(){
     $(".left-slider").removeClass("left-slider-open");
     $(".left-slider").addClass("left-slider-closed").css("transition", ".4s");
     $(".slider-menu-background-overlay").removeClass("active");
