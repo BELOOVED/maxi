@@ -86,7 +86,7 @@ $(document).ready(function () {
   function openuserbar() {
     $(".right-slider").removeClass("right-slider-closed");
     $(".right-slider").addClass("right-slider-open").css("transition", ".4s");
-    $(".slider-menus-background-overlay").addClass("active");
+    $("#slidercloseddoverlay").addClass("active");
   }
   function openlogin() {
     $("#closedloginclose").css("visibility", "visible");
