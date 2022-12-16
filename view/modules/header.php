@@ -15,7 +15,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="assets/styles.css">
 	<script src="assets/main.js"></script>
-	<script src="assets/vendor.js"></script>
+	<script src="../../assets/vendor.js"></script>
 	<script src="assets/polyfills.js"></script>
 	<script src="assets/runtime.js"></script>
   <link
