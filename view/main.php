@@ -12,9 +12,9 @@
 					</div>
 					<div class="swiper-content">
 					  <div class="swiper-wrapper smooth-translate" style="--columnWidth:375px; --noOfColumns:7; --columnWidthPercentage:14.2857%; width: 700%; transform: translate3d(0%, 0px, 0px);">
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2018/04/64dff83296774cf0af16ec13877b0525.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2018/04/64dff83296774cf0af16ec13877b0525.jpg&quot;);">
 						  <div class="content-wrapper">
-							<a class="banner-btn" href="https://bonus.casinomaxi564.com/tr/1500-tl-150-freespin-hosgeldin-bonus-paketi/"></a>
+							<a class="banner-btn" href="https://bonus.casinomaxi564.com1500-tl-150-freespin-hosgeldin-bonus-paketi/"></a>
 							<!---->
 							<!---->
 							<!---->
@@ -33,9 +33,9 @@
 							</div>
 						  </div>
 						</div>
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2022/12/801d5a4782bf45ba8169e3b72af5a0d7.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2022/12/801d5a4782bf45ba8169e3b72af5a0d7.jpg&quot;);">
 						  <div class="content-wrapper">
-							<a class="banner-btn" href="https://bonus.casinomaxi564.com/tr/23-teklif-ile-2023e-odullerle-gir/"></a>
+							<a class="banner-btn" href="https://bonus.casinomaxi564.com23-teklif-ile-2023e-odullerle-gir/"></a>
 							<!---->
 							<!---->
 							<!---->
@@ -54,7 +54,7 @@
 							</div>
 						  </div>
 						</div>
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2022/12/e7805a9cf1fe443597c94b7fe3197420.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2022/12/e7805a9cf1fe443597c94b7fe3197420.jpg&quot;);">
 						  <div class="content-wrapper">
 							<a class="banner-btn" href="https://cmax.io/h/slot-oyunlari/wild-falls-2"></a>
 							<!---->
@@ -75,7 +75,7 @@
 							</div>
 						  </div>
 						</div>
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2022/12/d06c49b84d4241748aa235a0bd6b6f8f.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2022/12/d06c49b84d4241748aa235a0bd6b6f8f.jpg&quot;);">
 						  <div class="content-wrapper">
 							<a class="banner-btn" href="https://cmax.io/bns/yilbasinda-uclu-kazanc"></a>
 							<!---->
@@ -96,9 +96,9 @@
 							</div>
 						  </div>
 						</div>
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2022/11/766dcf356534427ba487d79e951ca3c5.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2022/11/766dcf356534427ba487d79e951ca3c5.jpg&quot;);">
 						  <div class="content-wrapper">
-							<a class="banner-btn" href="https://bonus.casinomaxi564.com/tr/sansli-sayilardan-28-gun-nakit-odul"></a>
+							<a class="banner-btn" href="https://bonus.casinomaxi564.comsansli-sayilardan-28-gun-nakit-odul"></a>
 							<!---->
 							<!---->
 							<!---->
@@ -117,7 +117,7 @@
 							</div>
 						  </div>
 						</div>
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2022/11/1c8e2b9542dc438aad3c3104061258a1.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2022/11/1c8e2b9542dc438aad3c3104061258a1.jpg&quot;);">
 						  <div class="content-wrapper">
 							<a class="banner-btn" href="https://cmax.io/bns/canli-casinoda-kis-odulleri"></a>
 							<!---->
@@ -138,9 +138,9 @@
 							</div>
 						  </div>
 						</div>
-						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2022/10/ba99c43f617e4765b87d4a1dd50230da.jpg&quot;);">
+						<div class="swiper-slide" style="background-image: url(&quot;https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Commonimage/2022/10/ba99c43f617e4765b87d4a1dd50230da.jpg&quot;);">
 						  <div class="content-wrapper">
-							<a class="banner-btn" href="https://bonus.casinomaxi564.com/tr/slotlarda-kazancli-hafta-sonu-2"></a>
+							<a class="banner-btn" href="https://bonus.casinomaxi564.comslotlarda-kazancli-hafta-sonu-2"></a>
 							<!---->
 							<!---->
 							<!---->
@@ -185,7 +185,7 @@
 					  <div class="navigation-wrapper">
 						<ul class="content-wrapper">
 						  <li class="ma-home" test-id="menu-item-nav-favourites">
-							<a href="/tr/" class="active">
+							<a href="" class="active">
 							  <span class="category-icon icon-ma-home"></span>
 							  <span>Anasayfa</span>
 							</a>
@@ -195,7 +195,7 @@
 						  <!---->
 						  <!---->
 						  <li class="ma-slots" test-id="menu-item-nav-slots">
-							<a href="/tr/slot-oyunlari/">
+							<a href="slot-oyunlari/">
 							  <span class="category-icon icon-ma-slots"></span>
 							  <span>Slotlar</span>
 							</a>
@@ -205,7 +205,7 @@
 						  <!---->
 						  <!---->
 						  <li class="daily-jackpots" test-id="menu-item-nav-video-poker">
-							<a href="/tr/video-poker/">
+							<a href="video-poker/">
 							  <span class="category-icon icon-daily-jackpots"></span>
 							  <span>Günlük Jackpotlar</span>
 							</a>
@@ -215,7 +215,7 @@
 						  <!---->
 						  <!---->
 						  <li class="ma-livecasino" test-id="menu-item-nav-live-casino">
-							<a href="/tr/canli-casino/">
+							<a href="canli-casino/">
 							  <span class="category-icon icon-ma-livecasino"></span>
 							  <span>Canlı Casino</span>
 							</a>
@@ -225,7 +225,7 @@
 						  <!---->
 						  <!---->
 						  <li class="me-classicslots" test-id="menu-item-nav-classic-slots">
-							<a href="/tr/klasik-slotlar/">
+							<a href="klasik-slotlar/">
 							  <span class="category-icon icon-me-classicslots"></span>
 							  <span>Klasik Slotlar</span>
 							</a>
@@ -235,7 +235,7 @@
 						  <!---->
 						  <!---->
 						  <li class="ma-jackpot" test-id="menu-item-nav-jackpots">
-							<a href="/tr/jackpotlar/">
+							<a href="jackpotlar/">
 							  <span class="category-icon icon-ma-jackpot"></span>
 							  <span>Jackpot</span>
 							</a>
@@ -245,7 +245,7 @@
 						  <!---->
 						  <!---->
 						  <li class="ma-poker" test-id="menu-item-nav-turkish-poker">
-							<a href="/tr/turk-pokeri/" target="_self">
+							<a href="turk-pokeri/" target="_self">
 							  <span class="category-icon icon-ma-poker"></span>
 							  <span>Türk Pokeri</span>
 							</a>
@@ -255,7 +255,7 @@
 						  <!---->
 						  <!---->
 						  <li class="ma-tablegames" test-id="menu-item-nav-table-games">
-							<a href="/tr/masa-oyunlari/">
+							<a href="masa-oyunlari/">
 							  <span class="category-icon icon-ma-tablegames"></span>
 							  <span>Masa Oyunları</span>
 							</a>
@@ -265,7 +265,7 @@
 						  <!---->
 						  <!---->
 						  <li class="star" test-id="menu-item-nav-scratch">
-							<a href="/tr/oyunlar/">
+							<a href="oyunlar/">
 							  <span class="category-icon icon-star"></span>
 							  <span>Oyunlar</span>
 							</a>
@@ -275,7 +275,7 @@
 						  <!---->
 						  <!---->
 						  <li class="ma-promo" test-id="menu-item-nav-promotions">
-							<a href="https://bonus.casinomaxi564.com/tr/">
+							<a href="https://bonus.casinomaxi564.com">
 							  <span class="category-icon icon-ma-promo"></span>
 							  <span>Kampanyalar</span>
 							</a>
@@ -388,7 +388,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/hot-pepper/" class="ng-star-inserted" style="">
+											<a uisref="game" href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -443,7 +443,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/el-diablo/" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -492,7 +492,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/santas-great-gifts/" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -541,7 +541,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/9k-kong-in-vegas/" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginorpay()"class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -590,7 +590,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/force-of-nature/" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -639,7 +639,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/monkey-mania/" class="ng-star-inserted" style="">
+											<a uisref="game"  href="javascript:;" onclick="loginorpay()" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -741,7 +741,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/sweet-bonanza/" class="ng-star-inserted" style="">
+											<a uisref="game" href="slot-oyunlari/sweet-bonanza/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -781,13 +781,13 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/canli-casino/turkish-roulette-table/" class="ng-star-inserted" style="">
+											<a uisref="game" href="canli-casino/turkish-roulette-table/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
 												</div>
 												<!---->
-												<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoTurkishRouletteTable.thumbnail.344x220.jpg">
+												<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Commonimage/2018/09/game.evoTurkishRouletteTable.thumbnail.344x220.jpg">
 												<!---->
 												<!---->
 											  </div>
@@ -821,7 +821,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/aviator/" class="ng-star-inserted" style="">
+											<a uisref="game" href="slot-oyunlari/aviator/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -861,7 +861,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/oyunlar/spaceman/" class="ng-star-inserted" style="">
+											<a uisref="game" href="oyunlar/spaceman/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -901,7 +901,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/gates-of-olympus/" class="ng-star-inserted" style="">
+											<a uisref="game" href="slot-oyunlari/gates-of-olympus/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -941,13 +941,13 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/canli-casino/live-blackjack-lobby-evolution/" class="ng-star-inserted" style="">
+											<a uisref="game" href="canli-casino/live-blackjack-lobby-evolution/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
 												</div>
 												<!---->
-												<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Common/tr/image/2018/09/game.evoblackjacklobby.thumbnail.344x220.jpg">
+												<img class="thumbnail-img ng-star-inserted" alt="undefined" src="https://cdnroute.bpsgameserver.com/common/Common/Commonimage/2018/09/game.evoblackjacklobby.thumbnail.344x220.jpg">
 												<!---->
 												<!---->
 											  </div>
@@ -981,7 +981,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/cyber-wolf/" class="ng-star-inserted" style="">
+											<a uisref="game" href="slot-oyunlari/cyber-wolf/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -1021,7 +1021,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/hall-of-gods/" style="">
+											<a uisref="game" class="jackpot-active ng-star-inserted" href="jackpotlar/hall-of-gods/" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -1066,7 +1066,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/klasik-slotlar/booming-seven-deluxe/" class="ng-star-inserted" style="">
+											<a uisref="game" href="klasik-slotlar/booming-seven-deluxe/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -1106,7 +1106,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/canli-casino/crazy-coin-flip/" class="ng-star-inserted" style="">
+											<a uisref="game" href="canli-casino/crazy-coin-flip/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -1155,7 +1155,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" class="jackpot-active ng-star-inserted" href="/tr/jackpotlar/mega-fortune/" style="">
+											<a uisref="game" class="jackpot-active ng-star-inserted" href="jackpotlar/mega-fortune/" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -1200,7 +1200,7 @@
 											  </div>
 											</game-favourite>
 											<!---->
-											<a uisref="game" href="/tr/slot-oyunlari/gonzos-quest/" class="ng-star-inserted" style="">
+											<a uisref="game" href="slot-oyunlari/gonzos-quest/" class="ng-star-inserted" style="">
 											  <div test-id="game-image" lazy-load-images="" class="game-image">
 												<div test-id="game-hover-wrapper" class="hover-wrapper">
 												  <i test-id="play-button" class="fa fa-play"></i>
@@ -1281,9 +1281,9 @@
 			  </breadcrumbs>
 			  <!---->
 			  <h1 test-id="seo-contentTitle">CasinoMaxi, Canlı Casino, Online Casino</h1>
-			  <div test-id="seo-contentText" class="seo-content-text show-less">CasinoMaxi dünya genelinde popüler online casino oyunlarını evinizin salonuna kadar getiriyor. Teknolojinin en yeni ve harika <a href="/tr/slot-oyunlari/">casino oyunları</a> arasından en sevdiklerinizi seçip güvenle oynayabilir, bu harika online casino oyunlarına mobil cihazlarınızla 7/24 bağlı kalabilirsiniz. <br>
+			  <div test-id="seo-contentText" class="seo-content-text show-less">CasinoMaxi dünya genelinde popüler online casino oyunlarını evinizin salonuna kadar getiriyor. Teknolojinin en yeni ve harika <a href="slot-oyunlari/">casino oyunları</a> arasından en sevdiklerinizi seçip güvenle oynayabilir, bu harika online casino oyunlarına mobil cihazlarınızla 7/24 bağlı kalabilirsiniz. <br>
 				<br>
-				<a href="/tr/canli-casino/">Canlı casino</a> sayfamızda <a href="/tr/canli-casino/">Rulet</a>, <a href="/tr/canli-casino/">Blackjack</a>, <a href="/tr/canli-casino/">Bakara</a> gibi popüler oyunlarımıza Türkçe konuşan krupiyelerimiz eşliğinde katılabilir, kazançlarınızı size uygun zengin ödeme metodlarından herhangi birisi ile anında çekebilirsiniz.
+				<a href="canli-casino/">Canlı casino</a> sayfamızda <a href="canli-casino/">Rulet</a>, <a href="canli-casino/">Blackjack</a>, <a href="canli-casino/">Bakara</a> gibi popüler oyunlarımıza Türkçe konuşan krupiyelerimiz eşliğinde katılabilir, kazançlarınızı size uygun zengin ödeme metodlarından herhangi birisi ile anında çekebilirsiniz.
 			  </div>
 			  <!---->
 			</div>

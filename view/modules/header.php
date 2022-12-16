@@ -61,7 +61,7 @@
                     </div>
                   </game-search-normal>
                   <div class="menu-content">
-                    <a class="menu-item" id="welcome-bonus" href="https://bonus.casinomaxi564.com/tr/1500-tl-150-freespin-hosgeldin-bonus-paketi/" test-id="nav-welcome-bonus"> Hoşgeldin Bonusu </a>
+                    <a class="menu-item" id="welcome-bonus" href="/404" test-id="nav-welcome-bonus"> Hoşgeldin Bonusu </a>
                     <!---->
                     <!---->
                     <!---->
@@ -71,7 +71,7 @@
                   <!---->
                   <!---->
                   <div class="menu-content">
-                    <a class="menu-item" id="a-z" href="/tr/casino-oyunlari/" test-id="nav-a-z"> Tüm Oyunlar (A-Z) </a>
+                    <a class="menu-item" id="a-z" href="/casino-games" test-id="nav-a-z"> Tüm Oyunlar (A-Z) </a>
                     <!---->
                     <!---->
                     <!---->
@@ -91,7 +91,7 @@
                   <!---->
                   <!---->
                   <div class="menu-content">
-                    <a class="menu-item" id="casino-games" href="/tr/" test-id="nav-casino-games"> Anasayfam </a>
+                    <a class="menu-item" id="casino-games" href="/" test-id="nav-casino-games"> Anasayfam </a>
                     <!---->
                     <!---->
                     <!---->
@@ -101,7 +101,7 @@
                   <!---->
                   <!---->
                   <div class="menu-content">
-                    <a class="menu-item" id="promotions" href="https://bonus.casinomaxi564.com/tr/" test-id="nav-promotions"> Kampanyalar </a>
+                    <a class="menu-item" id="promotions" href="/404" test-id="nav-promotions"> Kampanyalar </a>
                     <!---->
                     <!---->
                     <!---->
@@ -111,7 +111,7 @@
                   <!---->
                   <!---->
                   <div class="menu-content">
-                    <a class="menu-item" id="support" href="https://hc.supportcasinomaxi.com/hc/tr" test-id="nav-support"> Yardım </a>
+                    <a class="menu-item" id="support" href="/404" test-id="nav-support"> Yardım </a>
                     <!---->
                     <!---->
                     <!---->
@@ -141,7 +141,7 @@
             <img alt="logo" src="https://cdnroute.bpsgameserver.com/staticfiles/BetssonGroup/CasinoMaxi/cc1a5fb/casinomaxi/assets/images/logo.svg">
           </a>
           <div class="logo-align-wrapper">
-            <a uisref="home" test-id="main-logo" class="main-logo mobile" title="CasinoMaxi" href="/tr/">
+            <a uisref="home" test-id="main-logo" class="main-logo mobile" title="CasinoMaxi" href="">
               <img alt="logo" src="https://cdnroute.bpsgameserver.com/staticfiles/BetssonGroup/CasinoMaxi/cc1a5fb/casinomaxi/assets/images/logo-mobile.svg">
             </a>
           </div>
@@ -180,7 +180,7 @@
                             <!---->
                             <!---->
                             <li class="link-end ng-star-inserted">
-                              <a href="/tr/mesajlar/" id="messages" test-id="messages"> Mesajlar </a>
+                              <a href="mesajlar/" id="messages" test-id="messages"> Mesajlar </a>
                             </li>
                             <!---->
                           </account-drop>
@@ -188,7 +188,7 @@
                             <!---->
                             <!---->
                             <li class="link-end ng-star-inserted">
-                              <a href="/tr/bonuslarim/" id="my-bonuses" test-id="my-bonuses"> Bonuslarım </a>
+                              <a href="bonuslarim/" id="my-bonuses" test-id="my-bonuses"> Bonuslarım </a>
                             </li>
                             <!---->
                           </account-drop>
@@ -199,16 +199,16 @@
                               </a>
                               <ul class="closed">
                                 <li class="link ng-star-inserted" id="personal-details">
-                                  <a class="sub" href="/tr/hesabim/bilgilerim/" test-id="account-drop-account-settings-personal-details"> Kişisel Bilgiler </a>
+                                  <a class="sub" href="hesabim/bilgilerim/" test-id="account-drop-account-settings-personal-details"> Kişisel Bilgiler </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="marketing-preferences">
-                                  <a class="sub" href="/tr/cerez-ayarlari/" test-id="account-drop-account-settings-marketing-preferences"> Tanıtım Ayarları </a>
+                                  <a class="sub" href="cerez-ayarlari/" test-id="account-drop-account-settings-marketing-preferences"> Tanıtım Ayarları </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="kyc">
-                                  <a class="sub" href="/tr/hesabim/belgelerim/" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
+                                  <a class="sub" href="hesabim/belgelerim/" test-id="account-drop-account-settings-kyc"> Hesap Doğrulama </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="change-password">
-                                  <a class="sub" href="/tr/hesabim/sifre-degistir/" test-id="account-drop-account-settings-change-password"> Şifre Değiştir </a>
+                                  <a class="sub" href="hesabim/sifre-degistir/" test-id="account-drop-account-settings-change-password"> Şifre Değiştir </a>
                                 </li>
                                 <!---->
                               </ul>
@@ -223,16 +223,16 @@
                               </a>
                               <ul class="closed">
                                 <li class="link ng-star-inserted" id="transactions">
-                                  <a class="sub" href="/tr/cuzdan/islem-gecmisi/" test-id="account-drop-bank-transactions"> İşlem Geçmişi </a>
+                                  <a class="sub" href="cuzdan/islem-gecmisi/" test-id="account-drop-bank-transactions"> İşlem Geçmişi </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="deposit">
                                   <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-bank-deposit"> Para Yatır </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="withdraw">
-                                  <a class="sub" href="/tr/para-cek/" test-id="account-drop-bank-withdraw"> Para Çek </a>
+                                  <a class="sub" href="para-cek/" test-id="account-drop-bank-withdraw"> Para Çek </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="pending-withdrawals">
-                                  <a class="sub" href="/tr/cuzdan/bekleyen-islemler/" test-id="account-drop-bank-pending-withdrawals"> Bekleyen Para Çekme İşlemleri </a>
+                                  <a class="sub" href="cuzdan/bekleyen-islemler/" test-id="account-drop-bank-pending-withdrawals"> Bekleyen Para Çekme İşlemleri </a>
                                 </li>
                                 <!---->
                               </ul>
@@ -247,7 +247,7 @@
                               </a>
                               <ul class="closed">
                                 <li class="link ng-star-inserted" id="responsible-gaming-info">
-                                  <a class="sub" href="/tr/bilincli-oyun/bilgi/" test-id="account-drop-responsible-gaming-header-responsible-gaming-info"> Bilgi </a>
+                                  <a class="sub" href="bilincli-oyun/bilgi/" test-id="account-drop-responsible-gaming-header-responsible-gaming-info"> Bilgi </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="deposit-limit">
                                   <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-responsible-gaming-header-deposit-limit"> Para Yatırma Limiti </a>
@@ -276,12 +276,12 @@
                           <i class="fa fa-chevron-down icon-triangle"></i>
                         </a>
                         <div id="user-context" aria-labelledby="balance-dropdown" tabindex="-1" class="dropdown-menu-right balance-dropdown btn btn-sm dropdown-menu">
-                          <a test-id="header-balance-withdrawable-money" class="balance-item" href="/tr/bonuslarim/">
+                          <a test-id="header-balance-withdrawable-money" class="balance-item" href="bonuslarim/">
                             <span class="balance-label">Çekilebilir tutar</span>
                             <i class="fa fa-info-circle"></i>
                             <div class="balance-amount"> ₺0,4 </div>
                           </a>
-                          <a test-id="header-balance-bonus-money" class="balance-item ng-star-inserted" href="/tr/bonuslarim/">
+                          <a test-id="header-balance-bonus-money" class="balance-item ng-star-inserted" href="bonuslarim/">
                             <span class="balance-label">Bonus tutar</span>
                             <i class="fa fa-info-circle"></i>
                             <div class="balance-amount">₺0</div>
@@ -295,7 +295,7 @@
                     </div>
                     <div class="right-container">
                       <a id="btn-deposit"  test-id="btn-deposit" class="btn btn-sm btn-success" href="javascript:;" onclick="openpayment()">Para Yatır</a>
-                      <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="/tr/para-cek/">Para Çekme</a>
+                      <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="para-cek/">Para Çekme</a>
                     </div>
                   </div>
                   <!---->
@@ -339,14 +339,14 @@
                                   <i class="fa fa-chevron-down icon-triangle"></i>
                                 </a>
                                 <div class="balance-breakdown">
-                                  <a test-id="right-balance-withdrawable-money" class="balance-item" href="/tr/bonuslarim/">
+                                  <a test-id="right-balance-withdrawable-money" class="balance-item" href="bonuslarim/">
                                     <div class="balance-label">
                                       <p>Çekilebilir tutar</p>
                                       <i class="fa fa-info-circle"></i>
                                     </div>
                                     <p class="balance-amount">₺0,4</p>
                                   </a>
-                                  <a test-id="right-balance-bonus-money" class="balance-item ng-star-inserted" href="/tr/bonuslarim/">
+                                  <a test-id="right-balance-bonus-money" class="balance-item ng-star-inserted" href="bonuslarim/">
                                     <div class="balance-label">
                                       <p>Bonus tutar</p>
                                       <i class="fa fa-info-circle"></i>
@@ -369,7 +369,7 @@
                                   <nav-side-sub class="nav-side-sub ng-star-inserted">
                                     <!---->
                                     <div class="nav-side-sub-li ng-star-inserted" test-id="nav-messages">
-                                      <a href="/tr/mesajlar/" test-id="nav-messages" class="ng-star-inserted"> Mesajlar <unread-notification-count class="nav-item unread-counter ng-star-inserted">
+                                      <a href="mesajlar/" test-id="nav-messages" class="ng-star-inserted"> Mesajlar <unread-notification-count class="nav-item unread-counter ng-star-inserted">
                                           <div class="new-messages-module ng-star-inserted">
                                             <div class="new-messages-number">2</div>
                                           </div>
@@ -386,7 +386,7 @@
                                   <nav-side-sub class="nav-side-sub ng-star-inserted">
                                     <div class="nav-item ng-star-inserted">
                                       <!---->
-                                      <a href="/tr/bonuslarim/" test-id="nav-my-bonuses" class="ng-star-inserted">
+                                      <a href="bonuslarim/" test-id="nav-my-bonuses" class="ng-star-inserted">
                                         <span class="nav-label">Bonuslarım</span>
                                         <span class="nav-label ng-star-inserted">
                                           <!---->
@@ -421,7 +421,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/hesabim/bilgilerim/" test-id="nav-personal-details" class="ng-star-inserted">
+                                            <a href="hesabim/bilgilerim/" test-id="nav-personal-details" class="ng-star-inserted">
                                               <span class="nav-label">Kişisel Bilgiler</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -446,7 +446,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/cerez-ayarlari/" test-id="nav-marketing-preferences" class="ng-star-inserted">
+                                            <a href="cerez-ayarlari/" test-id="nav-marketing-preferences" class="ng-star-inserted">
                                               <span class="nav-label">Tanıtım Ayarları</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -471,7 +471,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/hesabim/belgelerim/" test-id="nav-kyc" class="ng-star-inserted">
+                                            <a href="hesabim/belgelerim/" test-id="nav-kyc" class="ng-star-inserted">
                                               <span class="nav-label">Hesap Doğrulama</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -496,7 +496,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/hesabim/sifre-degistir/" test-id="nav-change-password" class="ng-star-inserted">
+                                            <a href="hesabim/sifre-degistir/" test-id="nav-change-password" class="ng-star-inserted">
                                               <span class="nav-label">Şifre Değiştir</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -536,7 +536,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/cuzdan/islem-gecmisi/" test-id="nav-transactions" class="ng-star-inserted">
+                                            <a href="cuzdan/islem-gecmisi/" test-id="nav-transactions" class="ng-star-inserted">
                                               <span class="nav-label">İşlem Geçmişi</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -586,7 +586,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/para-cek/" test-id="nav-withdraw" class="ng-star-inserted">
+                                            <a href="para-cek/" test-id="nav-withdraw" class="ng-star-inserted">
                                               <span class="nav-label">Para Çek</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -611,7 +611,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="/tr/cuzdan/bekleyen-islemler/" test-id="nav-pending-withdrawals" class="ng-star-inserted">
+                                            <a href="cuzdan/bekleyen-islemler/" test-id="nav-pending-withdrawals" class="ng-star-inserted">
                                               <span class="nav-label">Bekleyen Para Çekme İşlemleri</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -650,7 +650,7 @@
                                       <div class="nav-item-submenu" style="height: 0px;">
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
-                                            <a class="icons-items ng-star-inserted" href="/tr/bilincli-oyun/bilgi/" test-id="nav-responsible-gaming-info">
+                                            <a class="icons-items ng-star-inserted" href="bilincli-oyun/bilgi/" test-id="nav-responsible-gaming-info">
                                               <span class="category-icon icon-responsible-gaming"></span>
                                               <span class="nav-label">Bilgi</span>
                                             </a>
@@ -742,7 +742,7 @@
                 </a>
                 <ul aria-labelledby="help-dropdown" tabindex="-1" class="dropdown-menu-right help-ddl-content dropdown-menu">
                   <li class="link">
-                    <a href="https://hc.supportcasinomaxi.com/hc/tr" id="support" test-id="header-help-dropdown-support"> Yardım </a>
+                    <a href="/404" id="support" test-id="header-help-dropdown-support"> Yardım </a>
                   </li>
                   <li class="link">
                     <a href="javascript:;" onclick="openpayment()" id="support" test-id="header-help-dropdown-support"> Para Yatırma Yöntemleri </a>
@@ -757,7 +757,7 @@
             <div class="header-nav-item">
               <div>
                 <language-dropdown>
-                  <a class="language-dropdown" href="/tr/dil-secimi/">
+                  <a class="language-dropdown" href="dil-secimi/">
                     <div class="flag-wrapper">
                       <i class="flags flags-md flags-md-tr"></i>
                       <!---->
@@ -849,7 +849,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="welcome-bonus" href="https://bonus.casinomaxi564.com/tr/1500-tl-150-freespin-hosgeldin-bonus-paketi/" test-id="nav-welcome-bonus"> Hoşgeldin Bonusu </a>
+						  <a class="menu-item" id="welcome-bonus" href="/404" test-id="nav-welcome-bonus"> Hoşgeldin Bonusu </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -859,7 +859,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="a-z" href="/tr/casino-oyunlari/" test-id="nav-a-z"> Tüm Oyunlar (A-Z) </a>
+						  <a class="menu-item" id="a-z" href="/casino-games" test-id="nav-a-z"> Tüm Oyunlar (A-Z) </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -879,7 +879,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="casino-games" href="/tr/" test-id="nav-casino-games"> Anasayfam </a>
+						  <a class="menu-item" id="casino-games" href="" test-id="nav-casino-games"> Anasayfam </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -889,7 +889,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="promotions" href="https://bonus.casinomaxi564.com/tr/" test-id="nav-promotions"> Kampanyalar </a>
+						  <a class="menu-item" id="promotions" href="/404" test-id="nav-promotions"> Kampanyalar </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -899,7 +899,7 @@
 						<!---->
 						<!---->
 						<div class="menu-content">
-						  <a class="menu-item" id="support" href="https://hc.supportcasinomaxi.com/hc/tr" test-id="nav-support"> Yardım </a>
+						  <a class="menu-item" id="support" href="/404" test-id="nav-support"> Yardım </a>
 						  <!---->
 						  <!---->
 						  <!---->
@@ -929,7 +929,7 @@
 				  <img alt="logo" src="https://cdnroute.bpsgameserver.com/staticfiles/BetssonGroup/CasinoMaxi/cc1a5fb/casinomaxi/assets/images/logo.svg">
 				</a>
 				<div class="logo-align-wrapper">
-				  <a uisref="home" test-id="main-logo" class="main-logo mobile" title="CasinoMaxi" href="/tr/">
+				  <a uisref="home" test-id="main-logo" class="main-logo mobile" title="CasinoMaxi" href="">
 					<img alt="logo" src="https://cdnroute.bpsgameserver.com/staticfiles/BetssonGroup/CasinoMaxi/cc1a5fb/casinomaxi/assets/images/logo-mobile.svg">
 				  </a>
 				</div>
@@ -970,7 +970,7 @@
 					  </a>
 					  <ul aria-labelledby="help-dropdown" tabindex="-1" class="dropdown-menu-right help-ddl-content dropdown-menu">
 						<li class="link">
-						  <a href="https://hc.supportcasinomaxi.com/hc/tr" id="support" test-id="header-help-dropdown-support"> Yardım </a>
+						  <a href="/404" id="support" test-id="header-help-dropdown-support"> Yardım </a>
 						</li>
 						<li class="link">
 						  <a href="javascript:;" onclick="openpayment()" id="support" test-id="header-help-dropdown-support"> Para Yatırma Yöntemleri </a>
@@ -985,7 +985,7 @@
 				  <div class="header-nav-item">
 					<div>
 					  <language-dropdown>
-						<a class="language-dropdown" href="/tr/dil-secimi/">
+						<a class="language-dropdown" href="dil-secimi/">
 						  <div class="flag-wrapper">
 							<i class="flags flags-md flags-md-tr"></i>
 							<!---->
@@ -1142,7 +1142,7 @@
 </div>
 
                       <div class="forgot-password">
-                        <a test-id="forgot-password-link" href="/tr/sifremi-unuttum/">Şifremi Unuttum</a>&nbsp;
+                        <a test-id="forgot-password-link" href="sifremi-unuttum/">Şifremi Unuttum</a>&nbsp;
                       </div>
                       <button type="submit" test-id="submit-button" class="btn btn-success btn-block">Giriş</button>
                       <div class="login-links">
