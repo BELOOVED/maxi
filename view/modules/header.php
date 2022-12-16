@@ -272,7 +272,7 @@
                       </span>
                       <!---->
                       <span id="nav-user-ddl" class="nav-user-ddl dropdown user-balance ng-star-inserted">
-                        <a id="balance-dropdown" test-id="balance-dropdown" class="nav-btn-chevron balance customer-name user-context-anchor">
+                        <a id="balance-dropdown" href="javascript:;" onclick="openbalance()" test-id="balance-dropdown" class="nav-btn-chevron balance customer-name user-context-anchor">
                           <span>₺0,4</span>
                           <i class="fa fa-chevron-down icon-triangle"></i>
                         </a>

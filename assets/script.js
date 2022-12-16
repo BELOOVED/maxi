@@ -96,6 +96,11 @@ $(document).ready(function () {
   function closepayment() {
     $("#closedpayment").css("visibility", "hidden");
   }
+ 
+  function openbalance() {
+    $(".balance-dropdown").addClass("open").css("transition", ".4s");
+  }
+  
   
   
   function closesidebar() {
