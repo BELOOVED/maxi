@@ -301,11 +301,9 @@
                   <!---->
                   <!---->
                   <!---->
-                  <a href="javascript:;" onclick="openuserbar()" test-id="iconLoginButton" class="icon-profile-anchor ng-star-inserted">
-                    
+                  <a href="javascript:;" onclick="openuserbar()" test-id="iconLoginButton" class="icon-profile-anchor">
                     <i id="accountInfo::userProfile" class="icon-profile user-logo"></i>
-                   
-                    <unread-notification-count class="hidden-desktop ng-star-inserted">
+                    <unread-notification-count class="hidden-desktop">
                       <div class="new-messages-module ng-star-inserted">
                         <div class="new-messages-number">2</div>
                       </div>
