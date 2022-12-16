@@ -14,7 +14,7 @@ function logIn() {
             return;
           } else {
             if (locate == 0) {
-              window.location.href = "deposit";
+              window.location.href = "/";
             } else {
               window.location.href = "deposit";
             }
