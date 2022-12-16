@@ -14,10 +14,10 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="assets/styles.css">
-	<script src="assets/main.js"></script>
+	<script src="../../assets/main.js"></script>
 	<script src="../../assets/vendor.js"></script>
-	<script src="assets/polyfills.js"></script>
-	<script src="assets/runtime.js"></script>
+	<script src="../../assets/polyfills.js"></script>
+	<script src="../../assets/runtime.js"></script>
   <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.css"
