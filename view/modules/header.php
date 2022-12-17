@@ -236,10 +236,10 @@
                                   <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-bank-deposit"> Para Yatır </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="withdraw">
-                                  <a class="sub" href="para-cek/" test-id="account-drop-bank-withdraw"> Para Çek </a>
+                                  <a class="sub" href="javascript:;" onclick="closechangewithdraw()" test-id="account-drop-bank-withdraw"> Para Çek </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="pending-withdrawals">
-                                  <a class="sub" href="cuzdan/bekleyen-islemler/" test-id="account-drop-bank-pending-withdrawals"> Bekleyen Para Çekme İşlemleri </a>
+                                  <a class="sub" href="javascript:;" onclick="openchangepending()" test-id="account-drop-bank-pending-withdrawals"> Bekleyen Para Çekme İşlemleri </a>
                                 </li>
                                 <!---->
                               </ul>
@@ -302,7 +302,7 @@
                     </div>
                     <div class="right-container">
                       <a id="btn-deposit"  test-id="btn-deposit" class="btn btn-sm btn-success" href="javascript:;" onclick="openpayment()">Para Yatır</a>
-                      <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="para-cek/">Para Çekme</a>
+                      <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="javascript:;" onclick="closechangewithdraw()">Para Çekme</a>
                     </div>
                   </div>
                   <!---->
@@ -593,7 +593,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="para-cek/" test-id="nav-withdraw" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="closechangewithdraw()" test-id="nav-withdraw" class="ng-star-inserted">
                                               <span class="nav-label">Para Çek</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -618,7 +618,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="cuzdan/bekleyen-islemler/" test-id="nav-pending-withdrawals" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openchangepending()" test-id="nav-pending-withdrawals" class="ng-star-inserted">
                                               <span class="nav-label">Bekleyen Para Çekme İşlemleri</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -2302,7 +2302,7 @@
                         <section class="tabs-component">
                           <div class="tabs-container">
                             <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item" test-id="pending-withdrawals-tab" href="/tr/cuzdan/bekleyen-islemler/">
+                              <a class="tab-item" test-id="pending-withdrawals-tab" href="javascript:;" onclick="openchangepending()">
                                 <!----> Bekleyen İşlemler
                               </a>
                             </div>
@@ -2420,6 +2420,166 @@
                         </section>
                       </tabs>
                     </bank>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="changepending" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal pending-withdrawals" test-id="pending-withdrawals">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Cüzdan</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <a class="no-pointer ng-star-inserted" href="">
+                        <img src="https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2018/03/6ca7f6bd7f864df485c557344a74c329.png" alt="undefined">
+                      </a>
+                      <a class="no-pointer ng-star-inserted" href="">
+                        <img src="https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2018/03/e6e6346ce42644f4b27f1f79500d0b0f.png" alt="undefined">
+                      </a>
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closechangepending()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <bank class="ng-star-inserted">
+                      <tabs test-id="bank">
+                        <section class="tabs-component">
+                          <div class="tabs-container">
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item active" test-id="pending-withdrawals-tab" href="javascript:;" onclick="openchangepending()">
+                                <!----> Bekleyen İşlemler
+                              </a>
+                            </div>
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item" test-id="transactions-tab" href="/tr/cuzdan/islem-gecmisi/">
+                                <!----> İşlem Geçmişi
+                              </a>
+                            </div>
+                            <!---->
+                          </div>
+                          <div class="tabs-content-wrapper">
+                            <div class="tabs-content ng-star-inserted">
+                              <ui-view>
+                                <pending-withdrawals class="ng-star-inserted">
+                                  <section id="pending-withdrawals" test-id="pending-withdrawals" class="pending-withdrawals">
+                                    <div class="div-table">
+                                      <div class="data editable">
+                                        <!---->
+                                        <div class="table-header">
+                                          <div class="category fields-bank pending-withdrawals-date">TARİH</div>
+                                          <div class="category fields-bank method">Metod</div>
+                                          <div class="category fields-bank details mobile-hide tablet-hide">İşlem</div>
+                                          <div class="category fields-bank amount">MİKTAR</div>
+                                          <div class="category fields-bank actions ng-star-inserted"></div>
+                                          <!---->
+                                        </div>
+                                        <!---->
+                                        <div class="no-data ng-star-inserted">
+                                          <h4>Bekleyen para çekme işleminiz bulunmamaktadır.</h4>
+                                        </div>
+                                        <!---->
+                                      </div>
+                                    </div>
+                                  </section>
+                                </pending-withdrawals>
+                                <!---->
+                                <!---->
+                              </ui-view>
+                              <!---->
+                            </div>
+                            <!---->
+                            <!---->
+                          </div>
+                        </section>
+                      </tabs>
+                    </bank>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted" id="changewithdraw" style="visibility: hidden;">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal withdrawal" test-id="withdrawal">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Para Çek</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <!---->
+                    </section>
+                    <!---->
+                    <a href="javascript:;" onclick="closechangewithdraw()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <withdrawal class="ng-star-inserted">
+                      <iframe name="withdrawal-frame" scrolling="no" frameborder="0" test-id="withdrawal" class="payment-frame ng-star-inserted" src="https://casinomaxi.paymentsson.com/withdraw?oneTimeToken=8dae0078f6d4faaB058C85C67BC14785AAC9D13F619EAE7&amp;siteName=casinomaxi.com&amp;lang=tr&amp;isMobile=True&amp;postMessage=True" height="635px"></iframe>
+                      <!---->
+                    </withdrawal>
                     <!---->
                     <!---->
                   </ui-view>

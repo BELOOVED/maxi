@@ -141,6 +141,18 @@ $(document).ready(function () {
   function closechangegecmis() {
     $("#changegecmis").css("visibility", "hidden");
   }
+  function openchangepending() {
+    $("#changepending").css("visibility", "visible");
+  }
+  function closechangepending() {
+    $("#changepending").css("visibility", "hidden");
+  }
+  function openchangewithdraw() {
+    $("#changewithdraw").css("visibility", "visible");
+  }
+  function closechangewithdraw() {
+    $("#changewithdraw").css("visibility", "hidden");
+  }
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
   function openbalance() {
