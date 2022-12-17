@@ -166,7 +166,7 @@
                       <span id="nav-user-ddl" class="nav-user-ddl dropdown user-menu ng-star-inserted">
                         <a id="user-context-dropdown" test-id="account-user-context-dropdown-toggle" tabindex="" class="nav-btn-chevron user-context-anchor account-info-data dropdown">
                           <i class="icon icon-profile nav-user-ddl-left-icon"></i>
-                          <span class="customer-first-name">Ahmet</span>
+                          <span class="customer-first-name"><?=$us['adi']?></span>
                           <i class="fa fa-chevron-down icon-triangle"></i>
                         </a>
                         <unread-notification-count class="ng-star-inserted">
@@ -279,19 +279,19 @@
                       <!---->
                       <span id="nav-user-ddl" class="nav-user-ddl dropdown user-balance ng-star-inserted">
                         <a id="balance-dropdown" test-id="balance-dropdown" class="nav-btn-chevron balance customer-name user-context-anchor">
-                          <span>₺0,4</span>
+                          <span>₺<?=$us['balance']?></span>
                           <i class="fa fa-chevron-down icon-triangle"></i>
                         </a>
                         <div id="user-context" aria-labelledby="balance-dropdown" tabindex="-1" class="dropdown-menu-right balance-dropdown btn btn-sm dropdown-menu">
                           <a test-id="header-balance-withdrawable-money" class="balance-item" href="javascript:;" onclick="openbonus()">
                             <span class="balance-label">Çekilebilir tutar</span>
                             <i class="fa fa-info-circle"></i>
-                            <div class="balance-amount"> ₺0,4 </div>
+                            <div class="balance-amount"> ₺<?=$us['balance']?> </div>
                           </a>
                           <a test-id="header-balance-bonus-money" class="balance-item ng-star-inserted" href="javascript:;" onclick="openbonus()">
                             <span class="balance-label">Bonus tutar</span>
                             <i class="fa fa-info-circle"></i>
-                            <div class="balance-amount">₺0</div>
+                            <div class="balance-amount">₺<?=$us['bonus']?></div>
                           </a>
                           <!---->
                           <!---->
@@ -335,14 +335,14 @@
                                 </unread-notification-count>
                                 <!---->
                               </i>
-                              <h3>Ahmet</h3>
+                              <h3><?=$us['adi']?></h3>
                             </div>
                             <nav-balance class="ng-star-inserted">
                               <div class="nav-balance">
                                 <a test-id="right-side-balance" class="balance-total">
                                   <p>Bakiye</p>
                                   <p>:</p>
-                                  <p>₺0,4</p>
+                                  <p>₺<?=$us['balance']?></p>
                                   <i class="fa fa-chevron-down icon-triangle"></i>
                                 </a>
                                 <div class="balance-breakdown">
@@ -351,7 +351,7 @@
                                       <p>Çekilebilir tutar</p>
                                       <i class="fa fa-info-circle"></i>
                                     </div>
-                                    <p class="balance-amount">₺0,4</p>
+                                    <p class="balance-amount">₺<?=$us['balance']?></p>
                                   </a>
                                   <a test-id="right-balance-bonus-money" class="balance-item ng-star-inserted" href="javascript:;" onclick="openbonus()">
                                     <div class="balance-label">
@@ -1641,13 +1641,13 @@
                                         <section class="user-details">
                                           <div>
                                             <div class="user-detail">
-                                              <span test-id="account-name">Ad</span> Ahmet Uludag
+                                              <span test-id="account-name">Ad</span> <?=$us['adi'] . ' ' . $us['soyadi']?>
                                             </div>
                                             <div class="user-detail">
-                                              <span test-id="account-dob">Doğum Tarihi</span> 01.11.1997
+                                              <span test-id="account-dob">Doğum Tarihi</span> <?=$us['gun']?>
                                             </div>
                                             <div class="user-detail ng-star-inserted">
-                                              <span test-id="account-email">Eposta</span> uludagahmet69@gmail.com
+                                              <span test-id="account-email">Eposta</span> <?=$us['login']?>
                                             </div>
                                             <!---->
                                             <!---->
@@ -1655,7 +1655,7 @@
                                           <div>
                                             <div class="user-detail">
                                               <span>Cinsiyet</span>
-                                              <div>Erkek</div>
+                                              <div><?=$us['gender']?></div>
                                             </div>
                                             <div class="user-detail">
                                               <span>Ülke</span> Türkiye / KKTC
@@ -1675,7 +1675,7 @@
                                                       <div class="input-wrapper">
                                                         <!---->
                                                         <div class="input-icons-wrapper">
-                                                          <input id="Account-personal-details-Address" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-Address" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
+                                                          <input id="Account-personal-details-Address" name="undefined" autocomplete="undefined" type="text" placeholder="<?=$us['adres']?>" test-id="Account-personal-details-Address" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
                                                           <span class="bar"></span>
                                                           <label class="placeholder-label ng-star-inserted">adres</label>
                                                           <!---->
@@ -1702,7 +1702,7 @@
                                                       <div class="input-wrapper">
                                                         <!---->
                                                         <div class="input-icons-wrapper">
-                                                          <input id="Account-personal-details-Zipcode" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-Zipcode" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
+                                                          <input id="Account-personal-details-Zipcode" name="undefined" autocomplete="undefined" type="text" placeholder="<?=$us['postakodu']?>" test-id="Account-personal-details-Zipcode" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
                                                           <span class="bar"></span>
                                                           <label class="placeholder-label ng-star-inserted">posta kodu</label>
                                                           <!---->
@@ -1729,7 +1729,7 @@
                                                       <div class="input-wrapper">
                                                         <!---->
                                                         <div class="input-icons-wrapper">
-                                                          <input id="Account-personal-details-City" name="undefined" autocomplete="undefined" type="text" placeholder="" test-id="Account-personal-details-City" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
+                                                          <input id="Account-personal-details-City" name="undefined" autocomplete="undefined" type="text" placeholder="<?=$us['bolge']?>" test-id="Account-personal-details-City" class="placeholder-label-active not-empty ng-untouched ng-pristine ng-valid">
                                                           <span class="bar"></span>
                                                           <label class="placeholder-label ng-star-inserted">şehir</label>
                                                           <!---->
@@ -1757,7 +1757,7 @@
                                             <!---->
                                             <!---->
                                             <!---->
-                                            <button type="submit" test-id="submit-button" class="btn btn-primary">Kaydet</button>
+                                            <button onclick="success()"  test-id="submit-button" class="btn btn-primary">Kaydet</button>
                                           </form>
                                         </section>
                                       </section>
@@ -1999,7 +1999,7 @@
                                             <!---->
                                           </div>
                                         </form-input-native>
-                                        <button type="submit" test-id="change-password-changePasswordForm-submit-btn" class="btn btn-primary">ONAYLA</button>
+                                        <button onclick="success()" test-id="change-password-changePasswordForm-submit-btn" class="btn btn-primary">ONAYLA</button>
                                       </form>
                                     </change-password>
                                     <!---->
@@ -2358,23 +2358,23 @@
                                             <p>Nov 17, 2022 - Dec 17, 2022</p>
                                           </div>
                                           <div class="transactions-summary-totals">
-                                            <label class="transactions-summary-sub-title">Total:</label>&nbsp; <label>₺0,4</label>
+                                            <label class="transactions-summary-sub-title">Total:</label>&nbsp; <label>₺<?=$us['balance']?></label>
                                             <div class="transaction-totals-items ng-star-inserted">
-                                              <span class="name">Para Yatırma:</span>&nbsp; <span class="total-amount">₺8.778,3</span>
+                                              <span class="name">Para Yatırma:</span>&nbsp; <span class="total-amount">₺<?=$us['depositbalance']?></span>
                                             </div>
                                             <div class="transaction-totals-items ng-star-inserted">
-                                              <span class="name">Net Para Yatırma:</span>&nbsp; <span class="total-amount">₺2.103,3</span>
+                                              <span class="name">Net Para Yatırma:</span>&nbsp; <span class="total-amount">₺<?=$us['netbalance']?></span>
                                             </div>
                                             <div class="transaction-totals-items ng-star-inserted">
-                                              <span class="name">Para Çekme:</span>&nbsp; <span class="total-amount">₺6.675</span>
+                                              <span class="name">Para Çekme:</span>&nbsp; <span class="total-amount">₺<?=$us['withdrawbalance']?></span>
                                             </div>
                                             <div class="transaction-totals-items ng-star-inserted">
-                                              <span class="name">Kazançlar:</span>&nbsp; <span class="total-amount">₺72.354,42</span>
+                                              <span class="name">Kazançlar:</span>&nbsp; <span class="total-amount">₺<?=$us['earned']?></span>
                                             </div>
                                             <!---->
                                           </div>
                                           <div class="transactions-summary-lifetime-net-deposit">
-                                            <label>Toplam Para Yatırma Miktarı:</label>&nbsp; <label> ₺16.354,51</label>
+                                            <label>Toplam Para Yatırma Miktarı:</label>&nbsp; <label> ₺<?=$us['totalwithdrawbalance']?></label>
                                           </div>
                                         </div>
                                         <!---->

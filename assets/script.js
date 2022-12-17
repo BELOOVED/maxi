@@ -35,9 +35,9 @@ $(document).ready(function () {
   
   function success() {
       Swal.fire(
-        "Başarısız",
-        "Lütfen Eski Şifrenizi Kontrol Edip Tekrar Deneyin",
-        "warning"
+        "Başarılı!",
+        "Bilgileriniz Güncellendi",
+        "success"
       );
   }
   

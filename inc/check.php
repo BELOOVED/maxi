@@ -120,6 +120,46 @@ function para(){
         return "hata";
     }
 }
+function para(){
+    global $brandid;
+    global $site;
+    global $logintoken;
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://'.$site.'/api/v1/wallet/balance/');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'X-Obg-Country-Code: TR',
+        'X-Obg-Device: Desktop',
+        'Content-Type: application/json; charset=utf-8',
+        'Accept: application/json, text/plain, */*',
+        'Sessiontoken: '.$logintoken,
+        'X-Obg-Channel: Web',
+        'Brandid: '.$brandid,
+        'Marketcode: tr',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Sec-Fetch-Site: same-origin',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        'Referer: https://'.$site.'/tr/giris/',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+    $response = curl_exec($ch);
+    curl_close($ch);
+    if (stristr($response, "availableToWithdraw")){
+        return json_decode($response,false)->availableToWithdraw->amount;
+    }else{
+        return "hata";
+    }
+}
 
 
 function bilgi(){
@@ -164,6 +204,49 @@ function bilgi(){
 }
 
 function islemgecmsi(){
+    global $brandid;
+    global $site;
+    global $logintoken;
+    $tariha = str_replace('.','-',date('Y.m.d'));
+    $tarihb = str_replace('.','-',date('Y.m.d', time() - 2629745));
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, 'https://'.$site.'/api/v1/wallet/transactions?pageSize=10&pageNumber=0&from='.$tarihb.'&to='.$tariha);
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+    curl_setopt($ch, CURLOPT_CUSTOMREQUEST, 'GET');
+    curl_setopt($ch, CURLOPT_HTTPHEADER, [
+        'Host: '.$site,
+        'Sec-Ch-Ua: "Not?A_Brand";v="8", "Chromium";v="108"',
+        'Sec-Ch-Ua-Mobile: ?0',
+        'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.5359.95 Safari/537.36',
+        'X-Obg-Country-Code: TR',
+        'X-Obg-Device: Desktop',
+        'Content-Type: application/json; charset=utf-8',
+        'Accept: application/json, text/plain, */*',
+        'Sessiontoken: '.$logintoken,
+        'X-Obg-Channel: Web',
+        'Brandid: '.$brandid,
+        'Marketcode: tr',
+        'Sec-Ch-Ua-Platform: "Windows"',
+        'Sec-Fetch-Site: same-origin',
+        'Sec-Fetch-Mode: cors',
+        'Sec-Fetch-Dest: empty',
+        'Referer: https://'.$site.'/tr/cuzdan/islem-gecmisi/',
+        'Accept-Encoding: gzip, deflate',
+        'Accept-Language: tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7',
+    ]);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYHOST, false);
+    curl_setopt($ch, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($ch, CURLOPT_ENCODING , "gzip");
+    $response = curl_exec($ch);
+    curl_close($ch);
+    if (stristr($response, "transactions")){
+        return $response;
+    }else{
+        return "hata";
+
+    }
+}
+function wintowin(){
     global $brandid;
     global $site;
     global $logintoken;
