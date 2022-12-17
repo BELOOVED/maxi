@@ -153,10 +153,9 @@ $(document).ready(function () {
   function closechangewithdraw() {
     $("#changewithdraw").css("visibility", "hidden");
   }
-  let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
   function openbalance() {
-    if(blcdrp == true){
+    if($(this).hasClass() == "open"){
     $(".balance-dropdown").removeClass("open").css("transition", ".4s");
     }
     else{
