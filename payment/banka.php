@@ -170,8 +170,7 @@ Gerçekleştirdim</button>
       let response = JSON.parse(this.responseText);
       document.querySelector("#bank-info").classList.remove("d-none");
       document.querySelector("#account-holder").innerText = response.account_holder;
-      document.querySelector("#account-number").innerText = response.account_number;
-      document.querySelector("#branch-code").innerText = response.branch_code;
+      document.querySelector("#banka").innerText = response.name;
       document.querySelector("#iban").innerText = response.iban;
     }
   }
