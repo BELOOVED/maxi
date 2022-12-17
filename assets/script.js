@@ -154,14 +154,14 @@ $(document).ready(function () {
     $("#changewithdraw").css("visibility", "hidden");
   }
  
-  function openbalance() {
+  $('#balance-dropdown').change(function() {
     if($(this).hasClass() == "open"){
     $(".balance-dropdown").removeClass("open").css("transition", ".4s");
     }
     else{
     $(".balance-dropdown").addClass("open").css("transition", ".4s");
     }
-  }
+  });
   function openmessage() {
     $("#closemessage").css("visibility", "visible");
   }
