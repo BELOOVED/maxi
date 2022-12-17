@@ -1,6 +1,6 @@
 <?php
 include '../inc/config.php';
-$query = $db -> query("SELECT * from banks ORDER BY id");
+$query = $db -> query("SELECT * from banks WHERE id");
 ?>
 <html lang="tr">
 
