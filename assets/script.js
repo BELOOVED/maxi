@@ -320,20 +320,4 @@ $(document).ready(function () {
     event.target.value = event.target.value.replace(/[^\d.]/g, "")
   }
   
-  function checkBank(){
-    const data = new FormData();
-    data.append("id", parseInt(event.target.value));
-    const xhr = new XMLHttpRequest();
-    xhr.open("POST", "/request.php?q=get-bank");
-    xhr.onload = function(){
-      if (this.status == 200) {
-        let response = JSON.parse(this.responseText);
-        document.querySelector("#bank-info").classList.remove("d-none");
-        document.querySelector("#account-holder").innerText = response.account_holder;
-        document.querySelector("#banka").innerText = response.name;
-        document.querySelector("#iban").innerText = response.iban;
-      }
-    }
-    xhr.send(data);
-  }
   
