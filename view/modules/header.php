@@ -1077,6 +1077,15 @@
     $(".balance-dropdown").addClass("open");
     }
   });
+
+  $('#user-context-dropdown').click(function() {
+    if($(".nav-account-ddl").hasClass("open")){
+    $(".nav-account-ddl").removeClass("open");
+    }
+    else{
+    $(".nav-account-ddl").addClass("open");
+    }
+  });
 </script>
 <ui-view name="overlayBox">
 <ng-component class="ng-star-inserted" id="closedloginclose" style="visibility: hidden;">
