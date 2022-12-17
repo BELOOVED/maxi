@@ -1070,7 +1070,7 @@
     $("#2accordion").removeClass("open").css("transition", ".4s");
     });
     $('#balance-dropdown').change(function() {
-    if($(".balance-dropdown").hasClass("open") == true){
+    if($("#user-context").hasClass("open") == true){
     $(".balance-dropdown").removeClass("open").css("transition", ".4s");
     }
     else{
