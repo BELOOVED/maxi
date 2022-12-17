@@ -1069,7 +1069,7 @@
       $("#2submenu").css("height", "0px");
     $("#2accordion").removeClass("open").css("transition", ".4s");
     });
-    $('#balance-dropdown').change(function() {
+    $('#balance-dropdown').click(function() {
     if($("#user-context").hasClass("open") == true){
     $(".balance-dropdown").removeClass("open").css("transition", ".4s");
     }
