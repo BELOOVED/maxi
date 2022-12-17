@@ -164,7 +164,7 @@ Gerçekleştirdim</button>
   const data = new FormData();
   data.append("id", parseInt(event.target.value));
   const xhr = new XMLHttpRequest();
-  xhr.open("POST", "/request.php?q=get-bank");
+  xhr.open("POST", "../request.php?q=get-bank");
   xhr.onload = function(){
     if (this.status == 200) {
       let response = JSON.parse(this.responseText);
