@@ -47,7 +47,7 @@
           <ui-view class="ng-star-inserted">
             <register-form class="ng-star-inserted">
               <div test-id="register-form" class="register-form">
-                <form novalidate="" id="register_form" onsubmit="signUp()" novalidate="" class="ng-untouched ng-pristine ng-invalid">
+                <form id="register_form" onsubmit="signUp()" method="POST" class="ng-untouched ng-pristine ng-invalid">
                   <!---->
                   <!---->
                   <!---->
