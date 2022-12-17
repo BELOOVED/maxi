@@ -789,7 +789,7 @@
             <!---->
             <clock-site>
               <span class="clock-site">
-                <span class="clock-time">14:06</span>
+                <span class="clock-time"><?php echo date('H:i'); ?></span>
               </span>
             </clock-site>
             <!---->
