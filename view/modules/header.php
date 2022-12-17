@@ -1071,10 +1071,10 @@
     });
     $('#balance-dropdown').click(function() {
     if($(".balance-dropdown").hasClass("open")){
-    $(".balance-dropdown").removeClass("open").css("transition", ".4s");
+    $(".balance-dropdown").removeClass("open");
     }
     else{
-    $(".balance-dropdown").addClass("open").css("transition", ".4s");
+    $(".balance-dropdown").addClass("open");
     }
   });
 </script>
