@@ -182,7 +182,7 @@ $q = $_GET["q"];
     die(json_encode(['success' => true, 'message' => json_encode($datas)]));
   }elseif($q == "get-bank"){
     $id = intval(escape['bank_id']);
-    $res = $db -> query("SELECT * from banks where id = $id")->fetch_assoc();
+    $res = $db -> query("SELECT * from banks ORDER BY id = '$id'")->fetch_assoc();
     echo json_encode($res, JSON_UNESCAPED_UNICODE);
   }
 ?>
