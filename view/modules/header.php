@@ -236,7 +236,7 @@
                                   <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-bank-deposit"> Para Yatır </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="withdraw">
-                                  <a class="sub" href="javascript:;" onclick="closechangewithdraw()" test-id="account-drop-bank-withdraw"> Para Çek </a>
+                                  <a class="sub" href="javascript:;" onclick="openchangewithdraw()" test-id="account-drop-bank-withdraw"> Para Çek </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="pending-withdrawals">
                                   <a class="sub" href="javascript:;" onclick="openchangepending()" test-id="account-drop-bank-pending-withdrawals"> Bekleyen Para Çekme İşlemleri </a>
@@ -302,7 +302,7 @@
                     </div>
                     <div class="right-container">
                       <a id="btn-deposit"  test-id="btn-deposit" class="btn btn-sm btn-success" href="javascript:;" onclick="openpayment()">Para Yatır</a>
-                      <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="javascript:;" onclick="closechangewithdraw()">Para Çekme</a>
+                      <a id="btn-withdraw" uisref="withdrawal" class="btn btn-sm btn-primary btn-withdraw" href="javascript:;" onclick="openchangewithdraw()">Para Çekme</a>
                     </div>
                   </div>
                   <!---->
@@ -593,7 +593,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="javascript:;" onclick="closechangewithdraw()" test-id="nav-withdraw" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openchangewithdraw()" test-id="nav-withdraw" class="ng-star-inserted">
                                               <span class="nav-label">Para Çek</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -1017,7 +1017,7 @@
 				  <!---->
 				  <clock-site>
 					<span class="clock-site">
-					  <span class="clock-time">13:06</span>
+					  <span class="clock-time"><?php echo date('H:i'); ?></span>
 					</span>
 				  </clock-site>
 				  <!---->
@@ -1069,6 +1069,14 @@
       $("#2submenu").css("height", "0px");
     $("#2accordion").removeClass("open").css("transition", ".4s");
     });
+    $('#balance-dropdown').change(function() {
+    if($(this).hasClass("open") == true){
+    $(".balance-dropdown").removeClass("open").css("transition", ".4s");
+    }
+    else{
+    $(".balance-dropdown").addClass("open").css("transition", ".4s");
+    }
+  });
 </script>
 <ui-view name="overlayBox">
 <ng-component class="ng-star-inserted" id="closedloginclose" style="visibility: hidden;">

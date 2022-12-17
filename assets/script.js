@@ -153,15 +153,6 @@ $(document).ready(function () {
   function closechangewithdraw() {
     $("#changewithdraw").css("visibility", "hidden");
   }
- 
-  $('#balance-dropdown').change(function() {
-    if($(this).hasClass() == "open"){
-    $(".balance-dropdown").removeClass("open").css("transition", ".4s");
-    }
-    else{
-    $(".balance-dropdown").addClass("open").css("transition", ".4s");
-    }
-  });
   function openmessage() {
     $("#closemessage").css("visibility", "visible");
   }
