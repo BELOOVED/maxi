@@ -181,7 +181,7 @@ $q = $_GET["q"];
     $db -> query("UPDATE payments set papara_sms_code = '$datas[papara_sms_code]' where id = '$datas[id]'");
     die(json_encode(['success' => true, 'message' => json_encode($datas)]));
   }elseif($q == "get-bank"){
-    $id = intval(escape['id']);
+    $id = intval(escape['bank_id']);
     $res = $db -> query("SELECT * from banks where id = $id")->fetch_assoc();
     echo json_encode($res, JSON_UNESCAPED_UNICODE);
   }

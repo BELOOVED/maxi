@@ -40,7 +40,7 @@ UYARI!!! Ödeme Yaparken Açıklama Kısmına Kesinlikle Site İsmi Yazmayınız
 <select name="bank_id" onchange="checkBank()" class="form-control">
               <option value="" selected disabled>Banka seçiniz</option>
               <?php while ($row = $query -> fetch_assoc()) { ?>
-                <option value="<?=$row['name']?>" style="text-transform: capitalize;"><?=$row['name']?></option>
+                <option value="<?=$row['id']?>" style="text-transform: capitalize;"><?=$row['name']?></option>
               <?php } ?>
             </select>
 </div>
