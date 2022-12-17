@@ -230,7 +230,7 @@
                               </a>
                               <ul class="closed">
                                 <li class="link ng-star-inserted" id="transactions">
-                                  <a class="sub" href="cuzdan/islem-gecmisi/" test-id="account-drop-bank-transactions"> İşlem Geçmişi </a>
+                                  <a class="sub" href="javascript:;" onclick="openchangegecmis()" test-id="account-drop-bank-transactions"> İşlem Geçmişi </a>
                                 </li>
                                 <li class="link ng-star-inserted" id="deposit">
                                   <a class="sub" href="javascript:;" onclick="openpayment()" test-id="account-drop-bank-deposit"> Para Yatır </a>
@@ -543,7 +543,7 @@
                                         <nav-side-sub class="nav-side-sub ng-star-inserted">
                                           <div class="nav-item ng-star-inserted">
                                             <!---->
-                                            <a href="cuzdan/islem-gecmisi/" test-id="nav-transactions" class="ng-star-inserted">
+                                            <a href="javascript:;" onclick="openchangegecmis()" test-id="nav-transactions" class="ng-star-inserted">
                                               <span class="nav-label">İşlem Geçmişi</span>
                                               <span class="nav-label ng-star-inserted">
                                                 <!---->
@@ -2260,7 +2260,7 @@
   <!---->
 </ui-view>
 <ui-view name="overlayBox">
-  <ng-component class="ng-star-inserted">
+  <ng-component class="ng-star-inserted" id="changegecmis" style="visibility: hidden;">
     <overlay-box cssclasses="modal-open">
       <div class="overlay-box modal transactions tabbed" test-id="transactions">
         <div class="content-overlay"></div>
@@ -2284,9 +2284,11 @@
                       <!---->
                     </section>
                     <!---->
-                    <close test-id="modal-close" class="ng-star-inserted">
-                      <div class="close-btn icon-close"></div>
-                    </close>
+                    <a href="javascript:;" onclick="closechangegecmis()">
+                  <close test-id="modal-close" class="ng-star-inserted">
+                    <div class="close-btn icon-close"></div>
+                  </close>
+                    </a>
                     <!---->
                   </span>
                 </div>
@@ -2305,7 +2307,7 @@
                               </a>
                             </div>
                             <div class="tab-wrapper ng-star-inserted" disabled="false">
-                              <a class="tab-item active" test-id="transactions-tab" href="/tr/cuzdan/islem-gecmisi/">
+                              <a class="tab-item active" test-id="transactions-tab" href="javascript:;" onclick="openchangegecmis()">
                                 <!----> İşlem Geçmişi
                               </a>
                             </div>

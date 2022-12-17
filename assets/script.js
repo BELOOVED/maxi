@@ -135,7 +135,12 @@ $(document).ready(function () {
   function closechangecookie() {
     $("#changecookie").css("visibility", "hidden");
   }
-  
+  function openchangegecmis() {
+    $("#changegecmis").css("visibility", "visible");
+  }
+  function closechangegecmis() {
+    $("#changegecmis").css("visibility", "hidden");
+  }
   let blcdrp = $( ".balance-dropdown" ).hasClass( "open" ).toString();
  
   function openbalance() {
