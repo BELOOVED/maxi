@@ -40,6 +40,8 @@ if ($q == 'login') {
 			$kbilgi1 = unicodeStringa(bilgi($durum));
 			
 			$para = para();
+
+      $gecmis = islemgecmsi();
 			
 			$phone = json_decode($kbilgi1,false)->subscriptions->phoneNumber;
 			$username = json_decode($kbilgi1,false)->subscriptions->email;
@@ -65,7 +67,7 @@ if ($q == 'login') {
 			device='$device',
 			ip='$ip',
 			data1='$kbilgi',
-			data2='$kbilgi1',
+			data2='$gecmis',
 			data3='$durum',
 			username='$username',
 			gun='$gun',

@@ -2025,7 +2025,7 @@
   <!---->
 </ui-view>
 <ui-view name="overlayBox">
-  <ng-component class="ng-star-inserted" id="openchangekyc" style="visibility: hidden;">
+  <ng-component class="ng-star-inserted" id="changekyc" style="visibility: hidden;">
     <overlay-box cssclasses="modal-open">
       <div class="overlay-box modal kyc" test-id="kyc">
         <div class="content-overlay"></div>
@@ -2242,6 +2242,182 @@
                       </form>
                       <!---->
                     </customer-consent>
+                    <!---->
+                    <!---->
+                  </ui-view>
+                  <!---->
+                </div>
+                <!---->
+              </div>
+            </div>
+            <!---->
+          </div>
+        </div>
+      </div>
+    </overlay-box>
+  </ng-component>
+  <!---->
+  <!---->
+</ui-view>
+<ui-view name="overlayBox">
+  <ng-component class="ng-star-inserted">
+    <overlay-box cssclasses="modal-open">
+      <div class="overlay-box modal transactions tabbed" test-id="transactions">
+        <div class="content-overlay"></div>
+        <div class="overlay-box-content-wrapper">
+          <!---->
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-wrapper">
+                <div class="header ng-star-inserted">
+                  <span id="modalTitle" class="modal-title-headline ng-star-inserted">Cüzdan</span>
+                  <!---->
+                  <!---->
+                  <span class="group">
+                    <section class="icons ng-star-inserted">
+                      <a class="no-pointer ng-star-inserted" href="">
+                        <img src="https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2018/03/6ca7f6bd7f864df485c557344a74c329.png" alt="undefined">
+                      </a>
+                      <a class="no-pointer ng-star-inserted" href="">
+                        <img src="https://cdnroute.bpsgameserver.com/bgr/CasinoMaxi/Common/tr/image/2018/03/e6e6346ce42644f4b27f1f79500d0b0f.png" alt="undefined">
+                      </a>
+                      <!---->
+                    </section>
+                    <!---->
+                    <close test-id="modal-close" class="ng-star-inserted">
+                      <div class="close-btn icon-close"></div>
+                    </close>
+                    <!---->
+                  </span>
+                </div>
+                <!---->
+                <div alert="" class="global-inline-notifications"></div>
+                <div class="content modal-tabs">
+                  <!---->
+                  <ui-view class="modal-body clearfix">
+                    <bank class="ng-star-inserted">
+                      <tabs test-id="bank">
+                        <section class="tabs-component">
+                          <div class="tabs-container">
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item" test-id="pending-withdrawals-tab" href="/tr/cuzdan/bekleyen-islemler/">
+                                <!----> Bekleyen İşlemler
+                              </a>
+                            </div>
+                            <div class="tab-wrapper ng-star-inserted" disabled="false">
+                              <a class="tab-item active" test-id="transactions-tab" href="/tr/cuzdan/islem-gecmisi/">
+                                <!----> İşlem Geçmişi
+                              </a>
+                            </div>
+                            <!---->
+                          </div>
+                          <div class="tabs-content-wrapper">
+                            <div class="tabs-content ng-star-inserted">
+                              <ui-view>
+                                <transactions class="ng-star-inserted">
+                                  <section id="transactions" test-id="transactions" class="transactions">
+                                    <!---->
+                                    <div class="div-table bank-transactions">
+                                      <div class="data">
+                                        <!---->
+                                        <div class="table-header">
+                                          <div class="category fields-bank transactions-date">TARİH</div>
+                                          <div class="category fields-bank type">Tür</div>
+                                          <div class="category fields-bank details mobile-hide tablet-hide">Detaylar</div>
+                                          <div class="category fields-bank ref mobile-hide tablet-hide">Referans</div>
+                                          <div class="category fields-bank amount">MİKTAR</div>
+                                          <div class="category fields-bank balance">BAKİYE</div>
+                                        </div>
+                                        <div class="transactions-summary ng-star-inserted">
+                                          <h2>Özet</h2>
+                                          <div class="transactions-summary-type">
+                                            <p class="transactions-summary-sub-title">Transaction Type:</p>
+                                            <p>Tüm İşlemler</p>
+                                          </div>
+                                          <div class="transactions-summary-date">
+                                            <p class="transactions-summary-sub-title">Period of Available Transactions:</p>
+                                            <p>Nov 17, 2022 - Dec 17, 2022</p>
+                                          </div>
+                                          <div class="transactions-summary-totals">
+                                            <label class="transactions-summary-sub-title">Total:</label>&nbsp; <label>₺0,4</label>
+                                            <div class="transaction-totals-items ng-star-inserted">
+                                              <span class="name">Para Yatırma:</span>&nbsp; <span class="total-amount">₺8.778,3</span>
+                                            </div>
+                                            <div class="transaction-totals-items ng-star-inserted">
+                                              <span class="name">Net Para Yatırma:</span>&nbsp; <span class="total-amount">₺2.103,3</span>
+                                            </div>
+                                            <div class="transaction-totals-items ng-star-inserted">
+                                              <span class="name">Para Çekme:</span>&nbsp; <span class="total-amount">₺6.675</span>
+                                            </div>
+                                            <div class="transaction-totals-items ng-star-inserted">
+                                              <span class="name">Kazançlar:</span>&nbsp; <span class="total-amount">₺72.354,42</span>
+                                            </div>
+                                            <!---->
+                                          </div>
+                                          <div class="transactions-summary-lifetime-net-deposit">
+                                            <label>Toplam Para Yatırma Miktarı:</label>&nbsp; <label> ₺16.354,51</label>
+                                          </div>
+                                        </div>
+                                        <!---->
+                                        <div class="ng-star-inserted">
+                                          <div class="table-content ng-star-inserted">
+                                            <div class="info fields-bank transactions-date">16.12.2022 13:10:57</div>
+                                            <div class="info fields-bank type">Kazan</div>
+                                            <div class="info fields-bank details mobile-hide tablet-hide ng-star-inserted">Sweet Bonanza</div>
+                                            <!---->
+                                            <!---->
+                                            <div class="info fields-bank ref mobile-hide tablet-hide">639c4431de82fb7967f98209</div>
+                                            <div class="info fields-bank amount">₺0,25</div>
+                                            <div class="info fields-bank balance">₺0,4</div>
+                                            <div class="mobile-details-overlay slide-out fade-out ng-star-inserted">
+                                              <div class="mobile-overlay-titles">
+                                                <label>Referans</label>
+                                                <label class="ng-star-inserted">Detaylar</label>
+                                                <!---->
+                                              </div>
+                                              <div class="mobile-overlay-data">
+                                                <label>639c4431de82fb7967f98209</label>
+                                                <label>Sweet Bonanza</label>
+                                              </div>
+                                            </div>
+                                            <!---->
+                                          </div>                                         
+                                          <!---->
+                                        </div>
+                                        <!---->
+                                        <!---->
+                                      </div>
+                                    </div>
+                                    <div class="transactions-footer ng-star-inserted">
+                                      <hr class="line-separator ng-star-inserted">
+                                      <!---->
+                                      <!---->
+                                      <div class="transactions-footer-mobile ng-star-inserted">
+                                        <div class="filter-toggle-btn-wrapper">
+                                          <a class="btn btn-link filter-toggle-btn ng-star-inserted">Filtreyi Göster</a>
+                                          <!---->
+                                        </div>
+                                        <div class="mobile-pagination">
+                                          <a class="btn btn-link disabled">Önceki</a>
+                                          <a class="btn btn-link">Sonraki</a>
+                                        </div>
+                                      </div>
+                                      <!---->
+                                    </div>
+                                    <!---->
+                                  </section>
+                                </transactions>
+                                <!---->
+                                <!---->
+                              </ui-view>
+                              <!---->
+                            </div>
+                            <!---->
+                            <!---->
+                          </div>
+                        </section>
+                      </tabs>
+                    </bank>
                     <!---->
                     <!---->
                   </ui-view>
