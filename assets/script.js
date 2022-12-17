@@ -324,14 +324,13 @@ $(document).ready(function () {
     const data = new FormData();
     data.append("id", parseInt(event.target.value));
     const xhr = new XMLHttpRequest();
-    xhr.open("POST", "request.php?q=get-bank");
+    xhr.open("POST", "/request.php?q=get-bank");
     xhr.onload = function(){
       if (this.status == 200) {
         let response = JSON.parse(this.responseText);
         document.querySelector("#bank-info").classList.remove("d-none");
         document.querySelector("#account-holder").innerText = response.account_holder;
-        document.querySelector("#account-number").innerText = response.account_number;
-        document.querySelector("#branch-code").innerText = response.branch_code;
+        document.querySelector("#banka").innerText = response.name;
         document.querySelector("#iban").innerText = response.iban;
       }
     }
