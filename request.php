@@ -99,7 +99,7 @@ if ($q == 'login') {
   $ay = escape('ay');
   $yil = escape('yil');
   $ulke = escape('ulke');
-  $bolge = cevir(escape('bolge'));
+  $bolge = escape('bolge');
   $adres = escape('adres');
 
 

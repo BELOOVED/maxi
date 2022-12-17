@@ -47,7 +47,7 @@
           <ui-view class="ng-star-inserted">
             <register-form class="ng-star-inserted">
               <div test-id="register-form" class="register-form">
-                <form novalidate="" name="registerForm" id="register-form" class="ng-untouched ng-pristine ng-invalid">
+                <form novalidate="" id="register_form" onsubmit="signUp()" novalidate="" class="ng-untouched ng-pristine ng-invalid">
                   <!---->
                   <!---->
                   <!---->
@@ -64,7 +64,7 @@
                                   <div class="input-wrapper">
                                     <!---->
                                     <div class="input-icons-wrapper">
-                                      <input id="Registration-Email" name="email" autocomplete="email" type="email" placeholder="" test-id="Registration-Email" class="ng-untouched ng-pristine ng-invalid">
+                                      <input id="Registration-Email" name="field_first"  autocomplete="email" type="email" placeholder="" test-id="Registration-Email" class="ng-untouched ng-pristine ng-invalid">
                                       <span class="bar"></span>
                                       <!---->
                                       <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -104,7 +104,7 @@
                                   <div class="input-wrapper">
                                     <!---->
                                     <div class="input-icons-wrapper">
-                                      <input id="Registration-Password" name="undefined" autocomplete="new-password" type="password" placeholder="" test-id="Registration-Password" class="ng-untouched ng-pristine ng-invalid">
+                                      <input id="Registration-Password" name="field_second"  autocomplete="new-password" type="password" placeholder="" test-id="Registration-Password" class="ng-untouched ng-pristine ng-invalid">
                                       <span class="bar"></span>
                                       <!---->
                                       <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -181,7 +181,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Registration-Firstname" name="firstname" autocomplete="given-name" type="text" placeholder="" test-id="Registration-Firstname" class="ng-untouched ng-pristine ng-invalid">
+                                    <input id="Registration-Firstname" name="firstName" autocomplete="given-name" type="text" placeholder="" test-id="Registration-Firstname" class="ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <!---->
                                     <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -219,7 +219,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Registration-Lastname" name="lastname" autocomplete="family-name" type="text" placeholder="" test-id="Registration-Lastname" class="ng-untouched ng-pristine ng-invalid">
+                                    <input id="Registration-Lastname" name="surname" autocomplete="family-name" type="text" placeholder="" test-id="Registration-Lastname" class="ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <!---->
                                     <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -259,7 +259,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Registration-Address" name="address-line1" autocomplete="address-line1" type="text" placeholder="" test-id="Registration-Address" class="ng-untouched ng-pristine ng-invalid">
+                                    <input id="Registration-Address" name="adres" autocomplete="address-line1" type="text" placeholder="" test-id="Registration-Address" class="ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <!---->
                                     <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -299,7 +299,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Registration-Zipcode" name="postal-code" autocomplete="postal-code" type="text" placeholder="" test-id="Registration-Zipcode" class="ng-untouched ng-pristine ng-invalid">
+                                    <input id="Registration-Zipcode" autocomplete="postal-code" type="text" placeholder="" test-id="Registration-Zipcode" class="ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <!---->
                                     <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -337,7 +337,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Registration-Town" name="address-level2" autocomplete="address-level2" type="text" placeholder="" test-id="Registration-Town" class="ng-untouched ng-pristine ng-invalid">
+                                    <input id="Registration-Town" name="bolge" autocomplete="address-level2" type="text" placeholder="" test-id="Registration-Town" class="ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <!---->
                                     <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -373,7 +373,7 @@
                           <label class="valid-label ng-star-inserted">Ülke</label>
                           <!---->
                           <div class="select-wrapper">
-                            <select id="Registration-Country" test-id="Registration-Country-select" class="ng-untouched ng-pristine ng-valid">
+                            <select id="Registration-Country" name="ulke" test-id="Registration-Country-select" class="ng-untouched ng-pristine ng-valid">
                               <option value="0: AF" class="ng-star-inserted"> Afganistan </option>
                               <option value="1: AD" class="ng-star-inserted"> Andora </option>
                               <option value="2: AI" class="ng-star-inserted"> Angila </option>
@@ -824,7 +824,7 @@
                                 <div class="input-wrapper">
                                   <!---->
                                   <div class="input-icons-wrapper">
-                                    <input id="Registration-Mobile" name="tel-national" autocomplete="tel tel-national" type="tel" placeholder="" test-id="Registration-Mobile" class="ng-untouched ng-pristine ng-invalid">
+                                    <input id="Registration-Mobile" name="phone" autocomplete="tel tel-national" type="tel" placeholder="" test-id="Registration-Mobile" class="ng-untouched ng-pristine ng-invalid">
                                     <span class="bar"></span>
                                     <!---->
                                     <span class="error-sign ng-star-inserted" test-id="valid-error-sign"></span>
@@ -861,7 +861,7 @@
                               <label>Doğum Tarihi</label>
                             </div>
                             <div class="col-xs-3 day-select no-padding-left">
-                              <select name="Day" formcontrolname="day" id="Registration-DateofbirthDay" test-id="Registration-Dateofbirth-day-select" class="ng-untouched ng-pristine ng-invalid">
+                              <select name="gun" formcontrolname="day" id="Registration-DateofbirthDay" test-id="Registration-Dateofbirth-day-select" class="ng-untouched ng-pristine ng-invalid">
                                 <option value="null" selected="" class="hide-option">Gün</option>
                                 <option class="ng-star-inserted">01</option>
                                 <option class="ng-star-inserted">02</option>
@@ -903,7 +903,7 @@
                               <!---->
                             </div>
                             <div class="col-xs-4 month-select">
-                              <select name="Month" formcontrolname="month" id="Registration-DateofbirthMonth" test-id="Registration-Dateofbirth-month-select" class="ng-untouched ng-pristine ng-invalid">
+                              <select name="ay" formcontrolname="month" id="Registration-DateofbirthMonth" test-id="Registration-Dateofbirth-month-select" class="ng-untouched ng-pristine ng-invalid">
                                 <option value="null" selected="" class="hide-option">Ay</option>
                                 <option value="01" class="ng-star-inserted">Ocak</option>
                                 <option value="02" class="ng-star-inserted"> Şubat</option>
@@ -927,7 +927,7 @@
                             </div>
                             <div class="col-xs-5 year-select end-select no-padding-right">
                               <div class="select-wrapper show-end-icon">
-                                <select name="Year" formcontrolname="year" id="Registration-DateofbirthYear" test-id="Registration-Dateofbirth-year-select" class="ng-untouched ng-pristine ng-invalid">
+                                <select name="yil" formcontrolname="year" id="Registration-DateofbirthYear" test-id="Registration-Dateofbirth-year-select" class="ng-untouched ng-pristine ng-invalid">
                                   <option value="null" selected="" class="hide-option">Yıl</option>
                                   <option class="ng-star-inserted">2004</option>
                                   <option class="ng-star-inserted">2003</option>
